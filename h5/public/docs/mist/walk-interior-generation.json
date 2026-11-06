@@ -1,0 +1,21 @@
+{
+  "prompts": [
+    [
+      "inspection",
+      "Use case illustration-story. A highresolution panoramic3:1 orthographic side-on 2D hand-painted game environment for a Chinese customs port inspection office. Detailed beautiful warm sunset light, pale teal walls, industrial windows showing cranes and container ships. CLEAR flat walkable floor across entire bottom20%, people walk left to right at about82% imageheight. Left a wide open GROUND LEVEL door about10%width; middle-left worktable with clipboard, papers and a calibrated tabletop weighing instrument; center inspection bench with small open cosmetics cartons, behind it pale filing cabinets; right a large port route map on a cork board, wooden workdesk and tidy evidence case. NO stairs, no upper floor, NO PEOPLE, no figures or shadows of people. No readable text, labels, UI, logos or watermarks. Same polished detailed anime-film environment style as a warm Chinese port detective game. Practical customs check room, not a souvenir shop. Keep furniture behind clear foreground walking floor."
+    ],
+    [
+      "dispatch",
+      "Use case illustration-story. Production background for a Chinese customs side-scrolling2D investigation game. Very wide panoramic3:1 orthographic side-on interior of a second-floor WAREHOUSE DISPATCH CONTROL OFFICE at sunset, highresolution and crisp detail. Far-left normal open door at10%width with a glimpse of industrial railing outside. Middle-left a desk holding multiple surveillance MONITORS showing tiny warehouse camera views. Center long teal dispatch counter with vehicle route sheets, radio and ledger. Right big window looks down at green delivery vans in sorting warehouse, simple shelves of logistics binders and a wall route map. Warm hanging industrial lamps, gray-blue metal walls, golden window shafts, refined hand-painted animated film style. All room floor FLAT with unobstructed horizontal walking corridor across lower20%, walking baseline82% imageheight. No indoor stairs, no characters, no people, no interface, no readable text, no logos, no watermark. Make this visibly a dispatch and CCTV room, not a generic wooden office or cosmetics shop."
+    ],
+    [
+      "archive",
+      "Use case illustration-story. Highresolution panoramic3:1 original side-scrolling investigation game environment. Side-on orthographic interior of a modern Chinese case ARCHIVE ROOM, muted blue-gray steel cabinets and warm amber morning light. Clear walkable horizontal flat floor across lower20%, baseline82% imageheight. Left a modern brushed-metal ELEVATOR with closed doors at10%width, small illuminated floor indicator with no readable numbers or text. Center-left a large cork evidence board with map and papers and red thread behind a tidy workbench. Middle tall steel shelving full of archival document boxes and folders, right a long case-review desk with open binders and a low warm desk lamp. Polished detailed hand-painted animated film scene, realistic institutional proportions with atmospheric clean light. No stairs, no upper platform, no cosmetics, no souvenirs, NO PEOPLE, no figures, no UI, no readable text, no insignia/logos/watermark. Unique functional case records office, furniture behind a clear foreground walking path."
+    ]
+  ],
+  "paths": {
+    "inspection": "[local user folder]\\.codex\\generated_images\\01a17764-259b-7f63-81ac-5c3f0e2fff33\\exec-91032e66-7245-453c-9a63-5d7777d63ab7.png",
+    "dispatch": "[local user folder]\\.codex\\generated_images\\01a17764-259b-7f63-81ac-5c3f0e2fff33\\exec-8f4f8561-0eb0-4595-ad9b-b5ffa9c98017.png",
+    "archive": "[local user folder]\\.codex\\generated_images\\01a17764-259b-7f63-81ac-5c3f0e2fff33\\exec-a7b2664b-9bb3-494e-bbae-6c71a4e44ac7.png"
+  }
+}

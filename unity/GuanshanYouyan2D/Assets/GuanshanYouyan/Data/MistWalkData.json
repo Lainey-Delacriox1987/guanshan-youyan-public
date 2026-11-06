@@ -1,0 +1,357 @@
+{
+  "WORLD": {
+    "width": 2400,
+    "height": 800,
+    "minX": 100,
+    "maxX": 2300,
+    "speed": 205.9263746576055,
+    "range": 115
+  },
+  "rooms": [
+    [
+      {
+        "name": "港口堆场",
+        "art": "walk-harbor",
+        "floor": 650,
+        "description": "沿着货物的来路，走近每一处细节。",
+        "objects": [
+          {
+            "key": "exit",
+            "type": "advance",
+            "x": 300,
+            "label": "接驳车 · 前往仓库",
+            "transport": "shuttle"
+          },
+          {
+            "key": "npc-guard",
+            "type": "npc",
+            "id": "guard",
+            "x": 670,
+            "label": "值班员"
+          },
+          {
+            "key": "clue-seal",
+            "type": "inspect",
+            "id": "seal",
+            "x": 1200,
+            "label": "货柜封条"
+          },
+          {
+            "key": "clue-cargo",
+            "type": "inspect",
+            "id": "cargo",
+            "x": 1510,
+            "label": "查验货箱"
+          },
+          {
+            "key": "inspection-door",
+            "type": "door",
+            "x": 2160,
+            "label": "进入查验室",
+            "to": 1,
+            "spawn": 330
+          }
+        ],
+        "actorHeight": 260
+      },
+      {
+        "name": "查验办公室",
+        "art": "walk-inspection",
+        "floor": 650,
+        "description": "把货单与实物摆在一起核对。",
+        "objects": [
+          {
+            "key": "yard-door",
+            "type": "door",
+            "x": 240,
+            "label": "返回堆场",
+            "to": 0,
+            "spawn": 2020
+          },
+          {
+            "key": "clue-weight",
+            "type": "inspect",
+            "id": "weight",
+            "x": 690,
+            "label": "货单与地磅"
+          },
+          {
+            "key": "npc-mentor",
+            "type": "npc",
+            "id": "mentor",
+            "x": 1120,
+            "label": "许岚"
+          },
+          {
+            "key": "board",
+            "type": "board",
+            "x": 1590,
+            "label": "整理线索"
+          }
+        ],
+        "actorHeight": 390
+      }
+    ],
+    [
+      {
+        "name": "物流分拣区",
+        "art": "walk-warehouse",
+        "floor": 640,
+        "stairs": {
+          "start": 1530,
+          "end": 2010,
+          "top": 290
+        },
+        "description": "分拣台在一楼，调度室在楼上。",
+        "objects": [
+          {
+            "key": "exit",
+            "type": "advance",
+            "x": 130,
+            "label": "装卸门 · 前往青禾镇"
+          },
+          {
+            "key": "clue-parcels",
+            "type": "inspect",
+            "id": "parcels",
+            "x": 500,
+            "label": "分拣台运单"
+          },
+          {
+            "key": "npc-worker",
+            "type": "npc",
+            "id": "worker",
+            "x": 1090,
+            "label": "仓管老赵"
+          },
+          {
+            "key": "dispatch-door",
+            "type": "door",
+            "x": 2260,
+            "label": "二层调度室",
+            "to": 1,
+            "spawn": 330
+          }
+        ],
+        "actorHeight": 270
+      },
+      {
+        "name": "二层调度室",
+        "art": "walk-dispatch",
+        "floor": 650,
+        "description": "调度记录与监控，需要互相印证。",
+        "objects": [
+          {
+            "key": "warehouse-door",
+            "type": "door",
+            "x": 240,
+            "label": "返回楼梯平台",
+            "to": 0,
+            "spawn": 2130
+          },
+          {
+            "key": "clue-camera",
+            "type": "inspect",
+            "id": "camera",
+            "x": 660,
+            "label": "监控记录"
+          },
+          {
+            "key": "clue-dispatch",
+            "type": "inspect",
+            "id": "dispatch",
+            "x": 1160,
+            "label": "转运登记"
+          },
+          {
+            "key": "npc-mentor",
+            "type": "npc",
+            "id": "mentor",
+            "x": 1580,
+            "label": "许岚"
+          },
+          {
+            "key": "board",
+            "type": "board",
+            "x": 2030,
+            "label": "整理线索"
+          }
+        ],
+        "actorHeight": 410
+      }
+    ],
+    [
+      {
+        "name": "青禾镇街巷",
+        "art": "walk-town",
+        "floor": 620,
+        "description": "从店门进入，也能从后门返回街巷。",
+        "objects": [
+          {
+            "key": "npc-courier",
+            "type": "npc",
+            "id": "courier",
+            "x": 340,
+            "label": "快递员周叔"
+          },
+          {
+            "key": "shop-door",
+            "type": "door",
+            "x": 885,
+            "label": "进入禾记美妆",
+            "to": 1,
+            "spawn": 350
+          },
+          {
+            "key": "npc-shop",
+            "type": "npc",
+            "id": "shop",
+            "x": 1240,
+            "label": "店主苏禾"
+          },
+          {
+            "key": "contact",
+            "type": "npc",
+            "id": "suspect",
+            "x": 1680,
+            "label": "电话联系陈渡",
+            "prop": "phone"
+          },
+          {
+            "key": "exit",
+            "type": "advance",
+            "x": 2240,
+            "label": "巷口 · 前往调查中心"
+          }
+        ],
+        "actorHeight": 300
+      },
+      {
+        "name": "禾记美妆 · 后室",
+        "art": "walk-records",
+        "floor": 650,
+        "description": "批次、账目与来源，各有一份答案。",
+        "objects": [
+          {
+            "key": "front-door",
+            "type": "door",
+            "x": 230,
+            "label": "由店门返回街巷",
+            "to": 0,
+            "spawn": 1000
+          },
+          {
+            "key": "clue-shelf",
+            "type": "inspect",
+            "id": "shelf",
+            "x": 610,
+            "label": "店铺橱窗"
+          },
+          {
+            "key": "clue-account",
+            "type": "inspect",
+            "id": "account",
+            "x": 1050,
+            "label": "店内账簿"
+          },
+          {
+            "key": "clue-wildlife",
+            "type": "inspect",
+            "id": "wildlife",
+            "x": 1450,
+            "label": "可疑纪念品"
+          },
+          {
+            "key": "board",
+            "type": "board",
+            "x": 1770,
+            "label": "整理线索"
+          },
+          {
+            "key": "back-door",
+            "type": "door",
+            "x": 2190,
+            "label": "后门通往街巷",
+            "to": 0,
+            "spawn": 1950
+          }
+        ],
+        "actorHeight": 390
+      }
+    ],
+    [
+      {
+        "name": "调查中心 · 询问室",
+        "art": "walk-interview",
+        "floor": 650,
+        "description": "走近陈渡，用已经核验的材料追问。",
+        "objects": [
+          {
+            "key": "npc-mentor",
+            "type": "npc",
+            "id": "mentor",
+            "x": 430,
+            "label": "许岚"
+          },
+          {
+            "key": "npc-suspect",
+            "type": "npc",
+            "id": "suspect",
+            "x": 980,
+            "label": "询问陈渡"
+          },
+          {
+            "key": "final",
+            "type": "final",
+            "x": 1470,
+            "label": "提交最终推理"
+          },
+          {
+            "key": "archive-door",
+            "type": "lift",
+            "x": 2140,
+            "label": "乘电梯 · 档案层",
+            "to": 1,
+            "spawn": 330
+          }
+        ],
+        "actorHeight": 350
+      },
+      {
+        "name": "调查中心 · 案卷室",
+        "art": "walk-archive",
+        "floor": 650,
+        "description": "最后一次，把判断放回证据里检验。",
+        "objects": [
+          {
+            "key": "interview-door",
+            "type": "lift",
+            "x": 240,
+            "label": "乘电梯 · 返回询问层",
+            "to": 0,
+            "spawn": 1980
+          },
+          {
+            "key": "board",
+            "type": "board",
+            "x": 780,
+            "label": "整理线索"
+          },
+          {
+            "key": "notes",
+            "type": "notes",
+            "x": 1320,
+            "label": "调查手记"
+          },
+          {
+            "key": "final",
+            "type": "final",
+            "x": 1910,
+            "label": "提交最终推理"
+          }
+        ],
+        "actorHeight": 380
+      }
+    ]
+  ]
+}

@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: 587a58934cd8d52468f67e8f85c6c525
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2856252427163329332
+    second: gait-opposite-source_0
+  - first:
+      213: -3948778143271636318
+    second: gait-opposite-source_1
+  - first:
+      213: 7154594228128698452
+    second: gait-opposite-source_2
+  - first:
+      213: -2882323042489896473
+    second: gait-opposite-source_3
+  - first:
+      213: -2290276251966269402
+    second: gait-opposite-source_4
+  - first:
+      213: 2370341181685457074
+    second: gait-opposite-source_5
+  - first:
+      213: -7793702672714219489
+    second: gait-opposite-source_6
+  - first:
+      213: -479417194004229992
+    second: gait-opposite-source_7
+  - first:
+      213: -6152349887003745022
+    second: gait-opposite-source_8
+  - first:
+      213: 151571110410369508
+    second: gait-opposite-source_9
+  - first:
+      213: -1341695707327441555
+    second: gait-opposite-source_10
+  - first:
+      213: -6519191125034720738
+    second: gait-opposite-source_11
+  - first:
+      213: 7636242519352482477
+    second: gait-opposite-source_12
+  - first:
+      213: 2739123839845869690
+    second: gait-opposite-source_13
+  - first:
+      213: 5830340358361925745
+    second: gait-opposite-source_14
+  - first:
+      213: -7845920461178566247
+    second: gait-opposite-source_15
+  - first:
+      213: 5920012485772887704
+    second: gait-opposite-source_16
+  - first:
+      213: -4610919169169135602
+    second: gait-opposite-source_17
+  - first:
+      213: -7521535252161713776
+    second: gait-opposite-source_18
+  - first:
+      213: -6880864011121486265
+    second: gait-opposite-source_19
+  - first:
+      213: -5748777166851711620
+    second: gait-opposite-source_20
+  - first:
+      213: 61716688329232548
+    second: gait-opposite-source_21
+  - first:
+      213: 1026980177960762234
+    second: gait-opposite-source_22
+  - first:
+      213: -1679519547455407371
+    second: gait-opposite-source_23
+  - first:
+      213: 9111738884391711701
+    second: gait-opposite-source_24
+  - first:
+      213: 1178816506572051726
+    second: gait-opposite-source_25
+  - first:
+      213: -1060559156751119792
+    second: gait-opposite-source_26
+  - first:
+      213: -6795178690250299449
+    second: gait-opposite-source_27
+  - first:
+      213: -5429084321439329353
+    second: gait-opposite-source_28
+  - first:
+      213: -3387483356750896483
+    second: gait-opposite-source_29
+  - first:
+      213: -349892748685924591
+    second: gait-opposite-source_30
+  - first:
+      213: -5916773171927675716
+    second: gait-opposite-source_31
+  - first:
+      213: 9136619255865563172
+    second: gait-opposite-source_32
+  - first:
+      213: -1125473358662858835
+    second: gait-opposite-source_33
+  - first:
+      213: 6755886234701511289
+    second: gait-opposite-source_34
+  - first:
+      213: -7667738064636059828
+    second: gait-opposite-source_35
+  - first:
+      213: -610956685287056299
+    second: gait-opposite-source_36
+  - first:
+      213: -7894471911310357996
+    second: gait-opposite-source_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gait-opposite-source_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 509
+        width: 666
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433eaed037273a720800000000000000
+      internalID: 2856252427163329332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1035
+        width: 111
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2b771433f1339c0800000000000000
+      internalID: -3948778143271636318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1088
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450dba73b893a4360800000000000000
+      internalID: 7154594228128698452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_3
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1066
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1777cc67eeff7d0800000000000000
+      internalID: -2882323042489896473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_4
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 620
+        width: 533
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628990c12ed4730e0800000000000000
+      internalID: -2290276251966269402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_5
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1052
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b067d20fb425e020800000000000000
+      internalID: 2370341181685457074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_6
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1052
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f104bd346b437d390800000000000000
+      internalID: -7793702672714219489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_7
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1051
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890d9242a94c859f0800000000000000
+      internalID: -479417194004229992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_8
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1003
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2052a33df567e9aa0800000000000000
+      internalID: -6152349887003745022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_9
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1043
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9b8323f1d7a1200800000000000000
+      internalID: 151571110410369508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_10
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1019
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65d410ecd6516de0800000000000000
+      internalID: -1341695707327441555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1003
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e122d61463e2785a0800000000000000
+      internalID: -6519191125034720738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1009
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa1db0ec1269f960800000000000000
+      internalID: 7636242519352482477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_13
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1003
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7821ddae92530620800000000000000
+      internalID: 2739123839845869690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_14
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1006
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17849cb5aa789e050800000000000000
+      internalID: 5830340358361925745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_15
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 987
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9998b77f8e0bd1390800000000000000
+      internalID: -7845920461178566247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_16
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 957
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896ce508dfb182250800000000000000
+      internalID: 5920012485772887704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_17
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 956
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0862a10279b200c0800000000000000
+      internalID: -4610919169169135602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_18
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 881
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099a259f9832e9790800000000000000
+      internalID: -7521535252161713776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_19
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 873
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746955563a24280a0800000000000000
+      internalID: -6880864011121486265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_20
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 865
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d5de400ad3830b0800000000000000
+      internalID: -5748777166851711620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_21
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 847
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0d39440034bd000800000000000000
+      internalID: 61716688329232548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_22
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 779
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bf7bad701904e00800000000000000
+      internalID: 1026980177960762234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_23
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 622
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa789cbed521b8e0800000000000000
+      internalID: -1679519547455407371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 23
+        width: 362
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d338424d36637e70800000000000000
+      internalID: 9111738884391711701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_25
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 535
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e051899fd5ffb5010800000000000000
+      internalID: 1178816506572051726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_26
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 477
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05acf86e0132841f0800000000000000
+      internalID: -1060559156751119792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_27
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 17
+        width: 565
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7a35ecbfca2b1a0800000000000000
+      internalID: -6795178690250299449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_28
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 450
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b357fcf29408a4b0800000000000000
+      internalID: -5429084321439329353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 438
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92a05ea5dd3df0d0800000000000000
+      internalID: -3387483356750896483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_30
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 435
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117271d166ee42bf0800000000000000
+      internalID: -349892748685924591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 442
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc80b6062663eda0800000000000000
+      internalID: -5916773171927675716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_32
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 388
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4285cd92ecacbce70800000000000000
+      internalID: 9136619255865563172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_33
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 343
+        width: 40
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da70cbc71f38160f0800000000000000
+      internalID: -1125473358662858835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_34
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 13
+        width: 94
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ab55a7cbab1cd50800000000000000
+      internalID: 6755886234701511289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_35
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 273
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f50aa0bd8b69590800000000000000
+      internalID: -7667738064636059828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_36
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 242
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c9058b1227587f0800000000000000
+      internalID: -610956685287056299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-opposite-source_37
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 244
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a0c059f93317290800000000000000
+      internalID: -7894471911310357996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

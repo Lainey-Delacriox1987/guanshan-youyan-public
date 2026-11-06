@@ -1,0 +1,13 @@
+const fs=require('node:fs'),path=require('node:path'),crypto=require('node:crypto');
+const root=path.resolve(process.argv[2]||'output/netlify-release-20261030-final');
+const packageInfo=JSON.parse(fs.readFileSync(path.join(root,'package-validation.json'),'utf8'));
+const release=JSON.parse(fs.readFileSync(path.join(root,'dist/release.json'),'utf8'));
+const files=['index.html','release.json','unity-transport.js','startup-cover.js','web-performance.js','landscape-only.js','Build/FullStory-web-release.loader.js','Build/FullStory-web-release.framework.js',release.startup.coverPath,'h5/index.html','h5/mist-walk.js','h5/mist-game.js','legacy.html',...Object.values(release.manifest).flatMap(m=>m.parts)].filter(file=>!process.argv.includes('--entry-only')||!file.endsWith('.bin'));
+const results=[];let next=0;
+async function worker(){while(next<files.length){const file=files[next++];const expected=packageInfo.files.find(f=>f.file===file);if(!expected)throw Error('Missing package manifest entry '+file);const response=await fetch(packageInfo.site+file+'?release='+release.sourceSha256.slice(0,12),{signal:AbortSignal.timeout(90000)});if(!response.ok)throw Error(file+' HTTP '+response.status);const bytes=Buffer.from(await response.arrayBuffer());const sha256=crypto.createHash('sha256').update(bytes).digest('hex');let comparison=sha256,normalization=null;
+if(file.endsWith('.html')&&comparison!==expected.sha256){
+  const html=bytes.toString('utf8').replace(/\n<!-- This site is hosted on Netlify\.[\s\S]*?Netlify hosting facts for this site: static\/SSR served via Netlify Edge\. -->/,'').replace(/<script async src="\/\.netlify\/scripts\/hud\?variant=public" data-nf-variant="public" data-netlify-site-id="650b7c08-929f-4d03-93fe-bd89f4f1dbaf" data-app-host="app.netlify.com" data-account-tier="free"><\/script>\n$/,'');
+  comparison=crypto.createHash('sha256').update(html).digest('hex');normalization='Only the observed Netlify hosting comment and free-tier HUD injection removed';
+}
+if(comparison!==expected.sha256)throw Error('Public file mismatch '+file);results.push({file,bytes:bytes.length,sha256,comparisonSha256:comparison,normalization,match:true});console.log('Verified '+file);}}
+(async()=>{await Promise.all([worker(),worker(),worker(),worker()]);const result={success:true,checkedAt:new Date().toISOString(),site:packageInfo.site,sourceSha256:release.sourceSha256,checks:results};fs.writeFileSync(path.join(root,'public-file-verification.json'),JSON.stringify(result,null,2));console.log(JSON.stringify({success:true,files:results.length,sourceSha256:release.sourceSha256}));})().catch(error=>{console.error(error.message);process.exitCode=1;});

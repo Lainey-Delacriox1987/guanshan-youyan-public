@@ -1,0 +1,1880 @@
+fileFormatVersion: 2
+guid: 63bc58be0a1c3cc47b04f733fdfd310a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 574002101430439378
+    second: gait-base-source_0
+  - first:
+      213: 1758737519271799131
+    second: gait-base-source_1
+  - first:
+      213: -594341187507716691
+    second: gait-base-source_2
+  - first:
+      213: -1989025951342822744
+    second: gait-base-source_3
+  - first:
+      213: 6660180556217612889
+    second: gait-base-source_4
+  - first:
+      213: 8076160816279458838
+    second: gait-base-source_5
+  - first:
+      213: -7620832058000887996
+    second: gait-base-source_6
+  - first:
+      213: 7135692395815340608
+    second: gait-base-source_7
+  - first:
+      213: 6858134692054306749
+    second: gait-base-source_8
+  - first:
+      213: -1833279132571826175
+    second: gait-base-source_9
+  - first:
+      213: 3211488435162503386
+    second: gait-base-source_10
+  - first:
+      213: -2462349288765757102
+    second: gait-base-source_11
+  - first:
+      213: 3673994171647208696
+    second: gait-base-source_12
+  - first:
+      213: 3969533289827961560
+    second: gait-base-source_13
+  - first:
+      213: 2170149529593248790
+    second: gait-base-source_14
+  - first:
+      213: 7193179768252696203
+    second: gait-base-source_15
+  - first:
+      213: -4808375006369228810
+    second: gait-base-source_16
+  - first:
+      213: 6530202112074094606
+    second: gait-base-source_17
+  - first:
+      213: -6901486810516265394
+    second: gait-base-source_18
+  - first:
+      213: 4903105368751718775
+    second: gait-base-source_19
+  - first:
+      213: 2392320722321079656
+    second: gait-base-source_20
+  - first:
+      213: -9048262650888322100
+    second: gait-base-source_21
+  - first:
+      213: 1101540138764469965
+    second: gait-base-source_22
+  - first:
+      213: -7349320770875664513
+    second: gait-base-source_23
+  - first:
+      213: 6909513097057963550
+    second: gait-base-source_24
+  - first:
+      213: 8627173759265160992
+    second: gait-base-source_25
+  - first:
+      213: 6718215139227317457
+    second: gait-base-source_26
+  - first:
+      213: -5897540907755551876
+    second: gait-base-source_27
+  - first:
+      213: -2532227661023001199
+    second: gait-base-source_28
+  - first:
+      213: 4820412778109132923
+    second: gait-base-source_29
+  - first:
+      213: 2585661320159631126
+    second: gait-base-source_30
+  - first:
+      213: -4612287255184809963
+    second: gait-base-source_31
+  - first:
+      213: -4362561551654181345
+    second: gait-base-source_32
+  - first:
+      213: -1287008795007680819
+    second: gait-base-source_33
+  - first:
+      213: -1383795440824457211
+    second: gait-base-source_34
+  - first:
+      213: -1558556410381082607
+    second: gait-base-source_35
+  - first:
+      213: 5336559706938402632
+    second: gait-base-source_36
+  - first:
+      213: -3902375715447950761
+    second: gait-base-source_37
+  - first:
+      213: 5696820658756872169
+    second: gait-base-source_38
+  - first:
+      213: -5717923426847584894
+    second: gait-base-source_39
+  - first:
+      213: -5178938077023385955
+    second: gait-base-source_40
+  - first:
+      213: -2509381274989398627
+    second: gait-base-source_41
+  - first:
+      213: 8993292751368158062
+    second: gait-base-source_42
+  - first:
+      213: -7585419737936072058
+    second: gait-base-source_43
+  - first:
+      213: 5470733255038395344
+    second: gait-base-source_44
+  - first:
+      213: 7377792942814000641
+    second: gait-base-source_45
+  - first:
+      213: -2515094110558580974
+    second: gait-base-source_46
+  - first:
+      213: 2752324341333573004
+    second: gait-base-source_47
+  - first:
+      213: -1838888239659517496
+    second: gait-base-source_48
+  - first:
+      213: 967937475603872597
+    second: gait-base-source_49
+  - first:
+      213: -2229859421953455482
+    second: gait-base-source_50
+  - first:
+      213: 1572317196248984132
+    second: gait-base-source_51
+  - first:
+      213: 6943358061622814975
+    second: gait-base-source_52
+  - first:
+      213: 4318386624142964247
+    second: gait-base-source_53
+  - first:
+      213: 6628015686318387404
+    second: gait-base-source_54
+  - first:
+      213: -956372931408803315
+    second: gait-base-source_55
+  - first:
+      213: 2940848764595495155
+    second: gait-base-source_56
+  - first:
+      213: -3597870426115447940
+    second: gait-base-source_57
+  - first:
+      213: 4830132187970511034
+    second: gait-base-source_58
+  - first:
+      213: -1145747991678338465
+    second: gait-base-source_59
+  - first:
+      213: 8653103008165381155
+    second: gait-base-source_60
+  - first:
+      213: -3938056004779409258
+    second: gait-base-source_61
+  - first:
+      213: 4433250431496338360
+    second: gait-base-source_62
+  - first:
+      213: -2868044787020236853
+    second: gait-base-source_63
+  - first:
+      213: -5057802134008622650
+    second: gait-base-source_64
+  - first:
+      213: 5255438187911838477
+    second: gait-base-source_65
+  - first:
+      213: -1339033870148543292
+    second: gait-base-source_66
+  - first:
+      213: -6122506550256099152
+    second: gait-base-source_67
+  - first:
+      213: 3299379836234057749
+    second: gait-base-source_68
+  - first:
+      213: -6678270713985795018
+    second: gait-base-source_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gait-base-source_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 430
+        height: 1247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddc61cbed347f700800000000000000
+      internalID: 574002101430439378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1183
+        width: 108
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59e851a47a486810800000000000000
+      internalID: 1758737519271799131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_2
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 742
+        width: 377
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadf733c6d970c7f0800000000000000
+      internalID: -594341187507716691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_3
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 400
+        width: 365
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa7d218f6f8564e0800000000000000
+      internalID: -1989025951342822744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_4
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1115
+        width: 106
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a7051cde6bd6c50800000000000000
+      internalID: 6660180556217612889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_5
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1133
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614144b1979441070800000000000000
+      internalID: 8076160816279458838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_6
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1086
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fa2f1ce9d5d3690800000000000000
+      internalID: -7620832058000887996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1009
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a870f6d62170360800000000000000
+      internalID: 7135692395815340608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_8
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 987
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf0ead9a2dfc2f50800000000000000
+      internalID: 6858134692054306749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_9
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 991
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1088be09752ee86e0800000000000000
+      internalID: -1833279132571826175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_10
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 979
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8d22277bf719c20800000000000000
+      internalID: 3211488435162503386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_11
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 969
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2596e223e5af3ddd0800000000000000
+      internalID: -2462349288765757102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_12
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 946
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc23e3cb36acf230800000000000000
+      internalID: 3673994171647208696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_13
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 953
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da8840ee7d961730800000000000000
+      internalID: 3969533289827961560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 0
+        width: 395
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cf2eccf7bed1e10800000000000000
+      internalID: 2170149529593248790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 742
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b868a3c53ee43d360800000000000000
+      internalID: 7193179768252696203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_16
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 768
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7de765868354db0800000000000000
+      internalID: -4808375006369228810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 742
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e089ea1f830ff9a50800000000000000
+      internalID: 6530202112074094606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_18
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 724
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46622dbf4ef830a0800000000000000
+      internalID: -6901486810516265394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_19
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 736
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771c1c8ea545b0440800000000000000
+      internalID: 4903105368751718775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_20
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 742
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86df0ca950b333120800000000000000
+      internalID: 2392320722321079656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_21
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 711
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc30e5b0f0d1e6280800000000000000
+      internalID: -9048262650888322100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_22
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 669
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc604e48be4794f00800000000000000
+      internalID: 1101540138764469965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_23
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 695
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f775e8f72b7f10a90800000000000000
+      internalID: -7349320770875664513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_24
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 678
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e8c09bd8583ef50800000000000000
+      internalID: 6909513097057963550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_25
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 631
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f329843d0e9b770800000000000000
+      internalID: 8627173759265160992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_26
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 651
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4bb421315eb3d50800000000000000
+      internalID: 6718215139227317457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_27
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7345e87ac9b72ea0800000000000000
+      internalID: -5897540907755551876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_28
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 614
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1954e4ecb58bbdcd0800000000000000
+      internalID: -2532227661023001199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_29
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 582
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70e2fdc1eb85e240800000000000000
+      internalID: 4820412778109132923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_30
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 556
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6171591754d12e320800000000000000
+      internalID: 2585661320159631126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_31
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 521
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510e5a8ad2dddffb0800000000000000
+      internalID: -4612287255184809963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 470
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1620e2f1611573c0800000000000000
+      internalID: -4362561551654181345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 456
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce73ced150a32ee0800000000000000
+      internalID: -1287008795007680819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_34
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 369
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5086ad3d065cbcce0800000000000000
+      internalID: -1383795440824457211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_35
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 0
+        width: 347
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110e3dcc335ee5ae0800000000000000
+      internalID: -1558556410381082607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_36
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 361
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847e9b677c44f0a40800000000000000
+      internalID: 5336559706938402632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_37
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 353
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7523d9466f9f7d9c0800000000000000
+      internalID: -3902375715447950761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_38
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 347
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e76f42c43c2f0f40800000000000000
+      internalID: 5696820658756872169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_39
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 343
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d8dd920fad5a0b0800000000000000
+      internalID: -5717923426847584894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_40
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 313
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96c6451247b028b0800000000000000
+      internalID: -5178938077023385955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 330
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d957d329603ec2dd0800000000000000
+      internalID: -2509381274989398627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_42
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 331
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bf46edb189ecc70800000000000000
+      internalID: 8993292751368158062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_43
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 317
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682751800fc2bb690800000000000000
+      internalID: -7585419737936072058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_44
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 264
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3ea7709e2fbeb40800000000000000
+      internalID: 5470733255038395344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_45
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 287
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106ffce979f236660800000000000000
+      internalID: 7377792942814000641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_46
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 323
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f8a736b37981dd0800000000000000
+      internalID: -2515094110558580974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_47
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 314
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d39dfe768323620800000000000000
+      internalID: 2752324341333573004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_48
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 315
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9737d83e4fa76e0800000000000000
+      internalID: -1838888239659517496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_49
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 319
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b3826710ece6d00800000000000000
+      internalID: 967937475603872597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 280
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a08678ba2fd01e0800000000000000
+      internalID: -2229859421953455482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_51
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 266
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44aa8a4d82ef1d510800000000000000
+      internalID: 1572317196248984132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_52
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 274
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff86f5b9e53cb5060800000000000000
+      internalID: 6943358061622814975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_53
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 281
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716f6de31cdfdeb30800000000000000
+      internalID: 4318386624142964247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_54
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 280
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc079b466217bfb50800000000000000
+      internalID: 6628015686318387404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_55
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 227
+        width: 46
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a449ec2e74ab2f0800000000000000
+      internalID: -956372931408803315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_56
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 282
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f06cdfbe5effc820800000000000000
+      internalID: 2940848764595495155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_57
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 292
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c736187e8ebc11ec0800000000000000
+      internalID: -3597870426115447940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_58
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 242
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0a92242a3180340800000000000000
+      internalID: 4830132187970511034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_59
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a35e1a54c7910f0800000000000000
+      internalID: -1145747991678338465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_60
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 129
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324cf8ef65ff51870800000000000000
+      internalID: 8653103008165381155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_61
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 130
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6908789ade63959c0800000000000000
+      internalID: -3938056004779409258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_62
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 125
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbbfa177c1168d30800000000000000
+      internalID: 4433250431496338360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_63
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 120
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc77fb53678a238d0800000000000000
+      internalID: -2868044787020236853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_64
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 161
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1143aa1c31fc9b0800000000000000
+      internalID: -5057802134008622650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_65
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 161
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bf189ff211fe840800000000000000
+      internalID: 5255438187911838477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_66
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 112
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc54932acbca6de0800000000000000
+      internalID: -1339033870148543292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_67
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 161
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0abf02bbc780ba0800000000000000
+      internalID: -6122506550256099152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_68
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 98
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51841ddea70c9cd20800000000000000
+      internalID: 3299379836234057749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gait-base-source_69
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 102
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c7bfa2b240253a0800000000000000
+      internalID: -6678270713985795018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

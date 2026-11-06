@@ -1,0 +1,955 @@
+fileFormatVersion: 2
+guid: 58ece0ae288d7fe49a64f8792f99d9e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5469280257673628157
+    second: player-skeletal-62cb7813dcfc-webp_0
+  - first:
+      213: -5107761172255273945
+    second: player-skeletal-62cb7813dcfc-webp_1
+  - first:
+      213: 2381636582295129652
+    second: player-skeletal-62cb7813dcfc-webp_2
+  - first:
+      213: -6529421913609690067
+    second: player-skeletal-62cb7813dcfc-webp_3
+  - first:
+      213: 5252477505147636643
+    second: player-skeletal-62cb7813dcfc-webp_4
+  - first:
+      213: 2729151057732453426
+    second: player-skeletal-62cb7813dcfc-webp_5
+  - first:
+      213: -7694273707439593483
+    second: player-skeletal-62cb7813dcfc-webp_6
+  - first:
+      213: -5310898571023954462
+    second: player-skeletal-62cb7813dcfc-webp_7
+  - first:
+      213: -110332772167599233
+    second: player-skeletal-62cb7813dcfc-webp_8
+  - first:
+      213: 2815690291084849556
+    second: player-skeletal-62cb7813dcfc-webp_9
+  - first:
+      213: -5995057247367888132
+    second: player-skeletal-62cb7813dcfc-webp_10
+  - first:
+      213: -6533643313003907180
+    second: player-skeletal-62cb7813dcfc-webp_11
+  - first:
+      213: -2653144050817431539
+    second: player-skeletal-62cb7813dcfc-webp_12
+  - first:
+      213: -5083168070398997436
+    second: player-skeletal-62cb7813dcfc-webp_13
+  - first:
+      213: 6222129002066231310
+    second: player-skeletal-62cb7813dcfc-webp_14
+  - first:
+      213: -6482033480287600404
+    second: player-skeletal-62cb7813dcfc-webp_15
+  - first:
+      213: -4392480798315016550
+    second: player-skeletal-62cb7813dcfc-webp_16
+  - first:
+      213: -8002119620534271145
+    second: player-skeletal-62cb7813dcfc-webp_17
+  - first:
+      213: 1734121906524534593
+    second: player-skeletal-62cb7813dcfc-webp_18
+  - first:
+      213: 4752210124923867362
+    second: player-skeletal-62cb7813dcfc-webp_19
+  - first:
+      213: -6958740264556834062
+    second: player-skeletal-62cb7813dcfc-webp_20
+  - first:
+      213: -2798878566198920299
+    second: player-skeletal-62cb7813dcfc-webp_21
+  - first:
+      213: 6344166799845364758
+    second: player-skeletal-62cb7813dcfc-webp_22
+  - first:
+      213: 2749380038889688555
+    second: player-skeletal-62cb7813dcfc-webp_23
+  - first:
+      213: 6722766085047111128
+    second: player-skeletal-62cb7813dcfc-webp_24
+  - first:
+      213: -8819398463265936580
+    second: player-skeletal-62cb7813dcfc-webp_25
+  - first:
+      213: -5639240955407205016
+    second: player-skeletal-62cb7813dcfc-webp_26
+  - first:
+      213: 4023913026817736287
+    second: player-skeletal-62cb7813dcfc-webp_27
+  - first:
+      213: -1885474923122920022
+    second: player-skeletal-62cb7813dcfc-webp_28
+  - first:
+      213: -2427962032473243009
+    second: player-skeletal-62cb7813dcfc-webp_29
+  - first:
+      213: 2150162527777424189
+    second: player-skeletal-62cb7813dcfc-webp_30
+  - first:
+      213: -2443310594932196598
+    second: player-skeletal-62cb7813dcfc-webp_31
+  - first:
+      213: -5629530662904350901
+    second: player-skeletal-62cb7813dcfc-webp_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1937
+        width: 151
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df981b7ba69c6eb40800000000000000
+      internalID: 5469280257673628157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1936
+        width: 100
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c0132a6469d19b0800000000000000
+      internalID: -5107761172255273945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1937
+        width: 82
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ec6c76ad54d0120800000000000000
+      internalID: 2381636582295129652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_3
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1937
+        width: 93
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24a4aa2d55d265a0800000000000000
+      internalID: -6529421913609690067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_4
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1936
+        width: 123
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab0e0d467c84e840800000000000000
+      internalID: 5252477505147636643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_5
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1936
+        width: 154
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23446866d64efd520800000000000000
+      internalID: 2729151057732453426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1553
+        width: 178
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f76f6f34d2783590800000000000000
+      internalID: -7694273707439593483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1553
+        width: 198
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edccf353e5eb46b0800000000000000
+      internalID: -5310898571023954462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_8
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1553
+        width: 210
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bbdd3ade4087ef0800000000000000
+      internalID: -110332772167599233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_9
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1553
+        width: 216
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491f0adc667531720800000000000000
+      internalID: 2815690291084849556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_10
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1553
+        width: 218
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2818a52374dcca0800000000000000
+      internalID: -5995057247367888132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_11
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1553
+        width: 212
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497bb470606d355a0800000000000000
+      internalID: -6533643313003907180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1170
+        width: 201
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d080611fa832e2bd0800000000000000
+      internalID: -2653144050817431539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1170
+        width: 187
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c824e5295f479b0800000000000000
+      internalID: -5083168070398997436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_14
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1169
+        width: 166
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0040d27c51795650800000000000000
+      internalID: 6222129002066231310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_15
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1169
+        width: 144
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0c44994e03b06a0800000000000000
+      internalID: -6482033480287600404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_16
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1169
+        width: 118
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e85bd7cf5ca03c0800000000000000
+      internalID: -4392480798315016550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_17
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1169
+        width: 90
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7530fd72a92c2f090800000000000000
+      internalID: -8002119620534271145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 785
+        width: 74
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1473e9bafa6d01810800000000000000
+      internalID: 1734121906524534593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 785
+        width: 91
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e01a1a2eed33f140800000000000000
+      internalID: 4752210124923867362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_20
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 784
+        width: 123
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2d1ee29969d6f90800000000000000
+      internalID: -6958740264556834062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_21
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 785
+        width: 154
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b324ce5c26829d0800000000000000
+      internalID: -2798878566198920299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_22
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 785
+        width: 179
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6141c9477120b0850800000000000000
+      internalID: 6344166799845364758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_23
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 786
+        width: 197
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedc19a1492c72620800000000000000
+      internalID: 2749380038889688555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 402
+        width: 209
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddc647b2201c4d50800000000000000
+      internalID: 6722766085047111128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 401
+        width: 216
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b686823d33b9580800000000000000
+      internalID: -8819398463265936580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_26
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 401
+        width: 217
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d7e12aa346db1b0800000000000000
+      internalID: -5639240955407205016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_27
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 402
+        width: 211
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5eb98a049fc7d730800000000000000
+      internalID: 4023913026817736287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_28
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 402
+        width: 198
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5f95e0c8275d5e0800000000000000
+      internalID: -1885474923122920022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_29
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 401
+        width: 183
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f720c4635652e4ed0800000000000000
+      internalID: -2427962032473243009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_30
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 17
+        width: 168
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33878d4d69e6dd10800000000000000
+      internalID: 2150162527777424189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_31
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 17
+        width: 150
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b3e1985fd971ed0800000000000000
+      internalID: -2443310594932196598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-skeletal-62cb7813dcfc-webp_32
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 17
+        width: 126
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47ba6940b3efd1b0800000000000000
+      internalID: -5629530662904350901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

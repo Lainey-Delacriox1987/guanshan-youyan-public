@@ -1,0 +1,9 @@
+{
+  "name": "guanshan-youyan",
+  "private": true,
+  "devDependencies": {
+    "@napi-rs/canvas": "^0.1.80",
+    "playwright": "1.62.1",
+    "sharp": "0.35.5"
+  }
+}

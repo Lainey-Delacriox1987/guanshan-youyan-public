@@ -1,0 +1,980 @@
+fileFormatVersion: 2
+guid: a454236946cb3e046883c196d6cfe0f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3742933399762188835
+    second: LinJian-illustrated-skeletal-atlas_0
+  - first:
+      213: 5723397523416781125
+    second: LinJian-illustrated-skeletal-atlas_1
+  - first:
+      213: -4193462674458632403
+    second: LinJian-illustrated-skeletal-atlas_2
+  - first:
+      213: -7362129321181998668
+    second: LinJian-illustrated-skeletal-atlas_3
+  - first:
+      213: 8781685426054894462
+    second: LinJian-illustrated-skeletal-atlas_4
+  - first:
+      213: -1081765856631555641
+    second: LinJian-illustrated-skeletal-atlas_5
+  - first:
+      213: -3233919411134844267
+    second: LinJian-illustrated-skeletal-atlas_6
+  - first:
+      213: 2340579115046186286
+    second: LinJian-illustrated-skeletal-atlas_7
+  - first:
+      213: -5600819572863361384
+    second: LinJian-illustrated-skeletal-atlas_8
+  - first:
+      213: 5794796540786736162
+    second: LinJian-illustrated-skeletal-atlas_9
+  - first:
+      213: 1160741286971562115
+    second: LinJian-illustrated-skeletal-atlas_10
+  - first:
+      213: 7260698674067788342
+    second: LinJian-illustrated-skeletal-atlas_11
+  - first:
+      213: -2652571307217023703
+    second: LinJian-illustrated-skeletal-atlas_12
+  - first:
+      213: 6174459218962005220
+    second: LinJian-illustrated-skeletal-atlas_13
+  - first:
+      213: -1090572227091047486
+    second: LinJian-illustrated-skeletal-atlas_14
+  - first:
+      213: -770087936777923059
+    second: LinJian-illustrated-skeletal-atlas_15
+  - first:
+      213: 5247612986035259108
+    second: LinJian-illustrated-skeletal-atlas_16
+  - first:
+      213: -4405689264222058928
+    second: LinJian-illustrated-skeletal-atlas_17
+  - first:
+      213: -476872722355070034
+    second: LinJian-illustrated-skeletal-atlas_18
+  - first:
+      213: 4815497506867413087
+    second: LinJian-illustrated-skeletal-atlas_19
+  - first:
+      213: -2379016011819791323
+    second: LinJian-illustrated-skeletal-atlas_20
+  - first:
+      213: 8883954409982677640
+    second: LinJian-illustrated-skeletal-atlas_21
+  - first:
+      213: -1782412928057965522
+    second: LinJian-illustrated-skeletal-atlas_22
+  - first:
+      213: 9187400577706800590
+    second: LinJian-illustrated-skeletal-atlas_23
+  - first:
+      213: -5835722786970658767
+    second: LinJian-illustrated-skeletal-atlas_24
+  - first:
+      213: -6992333444881536345
+    second: LinJian-illustrated-skeletal-atlas_25
+  - first:
+      213: 4704295733536925211
+    second: LinJian-illustrated-skeletal-atlas_26
+  - first:
+      213: 1395249780158034166
+    second: LinJian-illustrated-skeletal-atlas_27
+  - first:
+      213: -9004198147997858376
+    second: LinJian-illustrated-skeletal-atlas_28
+  - first:
+      213: 6254545904548281091
+    second: LinJian-illustrated-skeletal-atlas_29
+  - first:
+      213: -8853399439501298656
+    second: LinJian-illustrated-skeletal-atlas_30
+  - first:
+      213: -8554144651815870141
+    second: LinJian-illustrated-skeletal-atlas_31
+  - first:
+      213: 7400692619590285318
+    second: LinJian-illustrated-skeletal-atlas_32
+  - first:
+      213: 4962014030151510750
+    second: LinJian-illustrated-skeletal-atlas_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_0
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 3231
+        width: 139
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5ca3167ed6e0cc0800000000000000
+      internalID: -3742933399762188835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_1
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 3225
+        width: 173
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5419b9349b79d6f40800000000000000
+      internalID: 5723397523416781125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_2
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 3226
+        width: 140
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f980e5ae3ddc5c0800000000000000
+      internalID: -4193462674458632403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_3
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 3230
+        width: 152
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1957c736674d990800000000000000
+      internalID: -7362129321181998668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_4
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 3230
+        width: 203
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e731a3d1e50ded970800000000000000
+      internalID: 8781685426054894462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_5
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 3230
+        width: 252
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c974515fabccf0f0800000000000000
+      internalID: -1081765856631555641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2587
+        width: 294
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592311bfd6fce13d0800000000000000
+      internalID: -3233919411134844267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_7
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2584
+        width: 327
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2da601ed486b7020800000000000000
+      internalID: 2340579115046186286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_8
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 2579
+        width: 350
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e9c6cd544e542b0800000000000000
+      internalID: -5600819572863361384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_9
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 2575
+        width: 366
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c714f60c04b6050800000000000000
+      internalID: 5794796540786736162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_10
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 2581
+        width: 380
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388d116fc08cb1010800000000000000
+      internalID: 1160741286971562115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_11
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 2590
+        width: 387
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632d5f8a9fe23c460800000000000000
+      internalID: 7260698674067788342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1944
+        width: 375
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d8fe3337c203bd0800000000000000
+      internalID: -2652571307217023703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_13
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1944
+        width: 357
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecbd5a22f510b550800000000000000
+      internalID: 6174459218962005220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1944
+        width: 322
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbd45a66528dd0f0800000000000000
+      internalID: -1090572227091047486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1944
+        width: 277
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06d9820a191055f0800000000000000
+      internalID: -770087936777923059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_16
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 1944
+        width: 222
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6cb5f253443d840800000000000000
+      internalID: 5247612986035259108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_17
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1944
+        width: 165
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056ca4fd4f8dbd2c0800000000000000
+      internalID: -4405689264222058928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1304
+        width: 128
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabd3fc19cec169f0800000000000000
+      internalID: -476872722355070034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_19
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1310
+        width: 159
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f508c99087514d240800000000000000
+      internalID: 4815497506867413087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_20
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1310
+        width: 205
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cc384ba890cfed0800000000000000
+      internalID: -2379016011819791323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1301
+        width: 254
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88258c777752a4b70800000000000000
+      internalID: 8883954409982677640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_22
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 1292
+        width: 296
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e248a04b2e89347e0800000000000000
+      internalID: -1782412928057965522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_23
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 1294
+        width: 330
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5be630624308f70800000000000000
+      internalID: 9187400577706800590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 653
+        width: 353
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13816f25b09530fa0800000000000000
+      internalID: -5835722786970658767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_25
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 649
+        width: 366
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaa0c267cd36fe90800000000000000
+      internalID: -6992333444881536345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_26
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 658
+        width: 376
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16aad39b04094140800000000000000
+      internalID: 4704295733536925211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_27
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 664
+        width: 372
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0f24f584cec5310800000000000000
+      internalID: 1395249780158034166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_28
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 664
+        width: 362
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b58b5d9d79aa0380800000000000000
+      internalID: -9004198147997858376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_29
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 668
+        width: 349
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b79f7bc5c9cc650800000000000000
+      internalID: 6254545904548281091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 30
+        width: 322
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024f1e9fd18622580800000000000000
+      internalID: -8853399439501298656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_31
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 28
+        width: 280
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341253fc2c2994980800000000000000
+      internalID: -8554144651815870141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_32
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 25
+        width: 230
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608b88a1aba84b660800000000000000
+      internalID: 7400692619590285318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-skeletal-atlas_33
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 31
+        width: 138
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda6fa5787d9cd440800000000000000
+      internalID: 4962014030151510750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

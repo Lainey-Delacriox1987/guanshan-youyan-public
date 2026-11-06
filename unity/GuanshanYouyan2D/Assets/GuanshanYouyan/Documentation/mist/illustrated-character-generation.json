@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "purpose": "Restore illustrated character appearance while keeping approved humanoid Walk motion",
+  "invariants": [
+    "Approved Walk skeleton and calibrated movement speed retained",
+    "Same young male trainee identity, light blue detailed uniform, navy trousers, black shoes",
+    "Existing background artwork, clues and save key retained"
+  ],
+  "prompts": [
+    "Use case: identity-preserve. Asset type: production 2D skeletal game character cutout parts, transparent PNG. Input image 1 is the SAME young male customs trainee Lin Jian to preserve exactly: short tousled black hair, handsome youthful Chinese profile, light blue short sleeved collared uniform, navy epaulettes, pocket flaps and subtle gold insignia, black belt, navy tailored trousers, black leather lace-up shoes. Input image 2 is the game cast STYLE reference. Match their polished warm hand-painted anime adventure illustration, fine expressive facial linework, soft material shading and warm rim light. Do NOT use a plain low-poly or plastic 3D look. Generate a clean exact 2 by 2 contact sheet, each component centered WITHIN its quadrant, wide transparent gutters, no borders, no labels and no text. All face RIGHT in exact side profile and have identical costume/colors/proportions. TOP LEFT: only the character's head, neck, complete torso and belt/pelvis, upright, cropped at the very top of thighs; NO arms attached (empty arm openings / sleeve caps, unobscured body art for rigging). TOP RIGHT: one complete relaxed RIGHT arm component, from rounded shoulder/sleeve cap to fingertips, pointing straight vertically down, slight natural elbow bend, not attached to torso. BOTTOM LEFT: one complete single RIGHT trouser leg component, starting at hip, straight down through knee and ankle to one full right-pointing black leather shoe; neutral vertical leg, no second leg, no other body pieces. BOTTOM RIGHT: a full assembled neutral standing version of the SAME man from head to shoes for the dialogue portrait, legs together naturally, arms relaxed, exact side profile facing right, complete body fully inside cell. These are paper-doll rigging assets, non-gory illustrated parts, clean round overlap ends. Preserve the original officer's identity, detailed uniform and premium illustrated look. Adult natural 7.5-head proportions; not chibi, no caricature, no flat basic T-shirt. Actual alpha transparency, no opaque backdrop, no floor/shadow, no checkerboard drawing. Keep every silhouette separate and do not allow any component to cross its quadrant.",
+    "Use case: background-extraction. Edit this exact character parts sheet. Change ONLY background: remove absolutely ALL black, brown, grey and warm glowing studio background and all backdrop shadows everywhere, including the gaps between components, replacing it with genuine alpha transparency. Keep all four illustrated components EXACTLY as they are, same pixels, same position, same scale, identity, costume and outlines. Transparent clean cutouts ready for a 2D game rig. No checkerboard graphic, no vignette, no halo, no drop shadow, no ground. Do not add or remove any character parts.",
+    "Use case: precise-object-edit. This is a four-component 2D game character rigging sheet. Change ONLY the TOP LEFT head-and-torso component: it must be a clean internal torso without any sleeves, without arms and without visible cuff openings or dark elliptical holes. Remove the entire protruding short sleeve and cuff opening from this top-left torso, replacing it with the smoothly continuous light blue shirt fabric torso silhouette under it. Both shoulder-to-armpit edges must be smooth, closed and suitable to be covered by the separate arm/sleeve component. Keep his exact face, hairstyle, size and location, collar, torso details, belt and hips unchanged. Keep the TOP RIGHT separate arm (including its sleeve and epaulette), BOTTOM LEFT leg, and BOTTOM RIGHT whole figure completely unchanged, same pixels, position and dimensions. Do not create any new background: preserve true alpha transparency with completely empty transparent gutters and no glow or shadow. Keep all components at the exact same locations in the same 2x2 sheet."
+  ],
+  "generatedSources": [
+    "exec-8bbcb4fa-d383-4715-9b8a-50340256e5bb.png",
+    "exec-a3b295bd-8fd7-466b-b591-1c4c20bd8eed.png",
+    "exec-1cb609ab-789d-4766-a70d-02479a7b8236.png"
+  ],
+  "workspaceAssets": [
+    "h5/design/motion-reference/LinJian-illustrated-parts.png",
+    "h5/design/motion-reference/LinJian-illustrated-parts-alpha.png",
+    "h5/design/motion-reference/LinJian-illustrated-torso-edit.png",
+    "design/LinJian-illustrated-textures.png"
+  ],
+  "rigSource": "https://opengameart.org/content/animated-human-low-poly",
+  "rigLicense": "CC0 1.0 Universal"
+}

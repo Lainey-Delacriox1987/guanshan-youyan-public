@@ -1,0 +1,111 @@
+# ============================================================
+# 关山有眼 · 雾港来信 —— 源码仓库忽略规则
+# 只提交源码 / 工程配置 / 资源与文档，不提交生成物与本机状态
+# ============================================================
+
+# ---------- Unity 生成物与本机缓存 ----------
+**/Library/
+**/Temp/
+**/Logs/
+**/UserSettings/
+**/Builds/
+**/Build/
+**/MemoryCaptures/
+**/Recordings/
+**/SourceArchive~/
+**/RuntimeTools~/
+**/ImportReports/
+**/[Aa]ssets/AssetStoreTools*
+**/[Aa]ssets/StreamingAssets/aa.meta
+**/[Aa]ssets/StreamingAssets/aa/*
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Unity 生成的解决方案 / 工程文件
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ---------- 构建产物 / 打包文件 ----------
+output/
+dist/
+release/
+release-final.tar.gz
+release.tar.gz
+*.tar.gz
+*.zip
+*.7z
+*.rar
+
+# ---------- 依赖与运行时 ----------
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-store/
+venv/
+__pycache__/
+*.pyc
+
+# ---------- 临时目录与本机存档 ----------
+tmp/
+temp/
+*.bak
+*.blend1
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- 凭据与个人信息（绝不入库） ----------
+.env
+.env.*
+*.env
+credentials.json
+*credential*
+*secret*
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+
+# 托管平台部署配置（含项目 ID，不入库）
+.openai/
+.netlify/
+netlify.toml
+.vercel/
+# 含平台项目 ID / 部署 ID 的旧站点发布记录，不入库
+发布记录.json
+
+# ---------- 大型媒体与二进制（不入库，见 README 获取方式） ----------
+*.mp4
+*.mov
+*.avi
+*.webm
+*.exe
+*.dll
+*.so
+*.dylib
+资料手册.pdf
+关山有眼-*.zip
+
+# ---------- 嵌套 git 仓库（h5 目录自带的本地历史，不并入本仓库） ----------
+h5/.git/
+h5/.git-local-backup/
+**/.git-local-backup/
+wb-publish/

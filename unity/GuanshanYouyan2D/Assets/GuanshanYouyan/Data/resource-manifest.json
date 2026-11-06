@@ -1,0 +1,2982 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-10-28T07:39:15.477Z",
+  "assets": [
+    {
+      "source": "h5/public/assets/harbor.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/harbor.png",
+      "category": "LegacyArt",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": false,
+      "sourceSha256": "9ec38a2afb8faee8abc50ae13324dc133865570790cc48cadff3e9d2735e8714",
+      "sha256": "9ec38a2afb8faee8abc50ae13324dc133865570790cc48cadff3e9d2735e8714",
+      "bytes": 3401359,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/mark.svg",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mark-svg.png",
+      "category": "LegacyArt",
+      "width": 64,
+      "height": 64,
+      "hasAlpha": true,
+      "sourceSha256": "fe72fbe6f04e21de9326d9bc5a19a0f4a535796842c8a741d045cfdf786782a8",
+      "sha256": "a4f1d476a07d831642ddb0a7b76391964595f699a3daccc8813a0b88e293d530",
+      "bytes": 1539,
+      "conversion": "svg-to-png",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/mist/harbor-full-165b3d04a1.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/harbor-full-165b3d04a1-webp.png",
+      "category": "MistArt",
+      "width": 1536,
+      "height": 864,
+      "hasAlpha": false,
+      "sourceSha256": "165b3d04a1a93728611fe799e3cd7cf720def9a71bd1792b8f493f36f3decf14",
+      "sha256": "2dc9c31b3f927db82ab1612a8f1bbcd0b53765946ff750e243c03a8d2f6eed86",
+      "bytes": 2802283,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/harbor-mobile-935da08b7c.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/harbor-mobile-935da08b7c-webp.png",
+      "category": "MistArt",
+      "width": 960,
+      "height": 540,
+      "hasAlpha": false,
+      "sourceSha256": "935da08b7c2fe624a4ffee066d0d50c1c6a0f6f89c84916b39a39eb4e431f5b0",
+      "sha256": "52939dc8dfb5e73d6aab69fdea91294e5615c3945fb226496c22c2111737e4eb",
+      "bytes": 1178302,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/harbor-native-87e529f8e528.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/harbor-native-87e529f8e528-webp.png",
+      "category": "MistArt",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false,
+      "sourceSha256": "87e529f8e5285d72a5c2778fe5aa23bc9b4100697771eccfbbd170866874482c",
+      "sha256": "35883cb133ef410225e36196ada7be55b5d50e25eddbcfeb445d2e2b0f64e4ea",
+      "bytes": 3402585,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/harbor-native-c9f1ef88fa20.avif",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/harbor-native-c9f1ef88fa20-avif.png",
+      "category": "MistArt",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false,
+      "sourceSha256": "c9f1ef88fa20084621e4419375f87d10a4e899be8cb7e60dd35d2b52d3d871b5",
+      "sha256": "eec35107a90a69e4c77fba5e079f0ea84f71bf725492147b3421cf09a7c1e6df",
+      "bytes": 3392356,
+      "conversion": "avif-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/harbor-thumb-7a5e1582f0.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/harbor-thumb-7a5e1582f0-webp.png",
+      "category": "MistArt",
+      "width": 480,
+      "height": 270,
+      "hasAlpha": false,
+      "sourceSha256": "7a5e1582f0ffb6bbcfd61a16be8879bcb9e84aa0bc1d32c041a58b1d01037482",
+      "sha256": "bb372b0e30c0be435d3735cec88ec831f0898332e167d12407cdaf449eea8129",
+      "bytes": 321877,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/harbor-thumb-hq-099cefbbf971.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/harbor-thumb-hq-099cefbbf971-webp.png",
+      "category": "MistArt",
+      "width": 640,
+      "height": 360,
+      "hasAlpha": false,
+      "sourceSha256": "099cefbbf97181f3f3f4a015e968cb6e7854b82fad19230f765285fc403c433a",
+      "sha256": "fafece0bf435e3f7f5de28159d3fa3068fc95f7787b6a1d0b29b6644b9ceb774",
+      "bytes": 571128,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/harbor.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/harbor.png",
+      "category": "MistArt",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false,
+      "sourceSha256": "20079014c23b87c1269622e59613e3afddbe962ebb68b8d5d79c7c2f37e7bb2b",
+      "sha256": "20079014c23b87c1269622e59613e3afddbe962ebb68b8d5d79c7c2f37e7bb2b",
+      "bytes": 2433070,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/mist/interview-full-30fb80ead5.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/interview-full-30fb80ead5-webp.png",
+      "category": "MistArt",
+      "width": 1536,
+      "height": 864,
+      "hasAlpha": false,
+      "sourceSha256": "30fb80ead59fc7ec9367450c48cd3229879f087ef907fc5b192d265a649f0c50",
+      "sha256": "83c5afe5e38bb654e31700263d23df095f0327256032c7f2169b27004f36f0e8",
+      "bytes": 2151094,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/interview-mobile-e36e24fcc9.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/interview-mobile-e36e24fcc9-webp.png",
+      "category": "MistArt",
+      "width": 960,
+      "height": 540,
+      "hasAlpha": false,
+      "sourceSha256": "e36e24fcc999e47c567eeed6054d0dd1c4c6049165c4593f309c299f5daf4ff5",
+      "sha256": "830b88e27e22e70623196524c6b31ff74942cf1237219d563e1fa2f9e36025df",
+      "bytes": 937623,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/interview-native-530671edef2e.avif",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/interview-native-530671edef2e-avif.png",
+      "category": "MistArt",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false,
+      "sourceSha256": "530671edef2e7f8d6418aaf5f354414aa623c4ea3ccb81e794ba035e1ed14344",
+      "sha256": "e84d27ace8071839df2858603bf816969b39bb831549f309d7b0d3bb8a169a5f",
+      "bytes": 2592230,
+      "conversion": "avif-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/interview-native-92e5c241cc8c.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/interview-native-92e5c241cc8c-webp.png",
+      "category": "MistArt",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false,
+      "sourceSha256": "92e5c241cc8cc8a123eda67074e70b043a668990d0fd24bf329587a4a8ae29a2",
+      "sha256": "3002bab582167721eafbe5c5b0cd41b01714f26397039994a051af6fce8e324e",
+      "bytes": 2569515,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/interview-thumb-a2db053031.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/interview-thumb-a2db053031-webp.png",
+      "category": "MistArt",
+      "width": 480,
+      "height": 270,
+      "hasAlpha": false,
+      "sourceSha256": "a2db053031e9f9e554e3aa7c9c636bbe7cbd4ce4fc836cdc0081b69f812f9bed",
+      "sha256": "f8e7b971f565314b24ccf7a54aee44cbe5e82566b46d71df8eb0104e7fa66bdf",
+      "bytes": 270491,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/interview-thumb-hq-4c6553248250.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/interview-thumb-hq-4c6553248250-webp.png",
+      "category": "MistArt",
+      "width": 640,
+      "height": 360,
+      "hasAlpha": false,
+      "sourceSha256": "4c6553248250e68b6e16745747e2d78c79452d7cc2de4c8c1c11b2fd85dfe3d8",
+      "sha256": "318afe24b9f768cbe8db054d813d7f16c199e300b0e58feaa87392c7a1598f62",
+      "bytes": 465172,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/interview.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/interview.png",
+      "category": "MistArt",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false,
+      "sourceSha256": "a9f314517567eefcd973c716fc5b04fd9f02e454f3e5d5bbdded1c95c078557f",
+      "sha256": "a9f314517567eefcd973c716fc5b04fd9f02e454f3e5d5bbdded1c95c078557f",
+      "bytes": 2052593,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/mist/town-full-0244650d2e.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/town-full-0244650d2e-webp.png",
+      "category": "MistArt",
+      "width": 1536,
+      "height": 864,
+      "hasAlpha": false,
+      "sourceSha256": "0244650d2e47fffa730edb1fe298cd1f32e7ec99982df34c8b0a79b4c925a6ec",
+      "sha256": "10f6ed93707124a1be3cefb43e3229c70e89949f219a141ef9698535958d37ee",
+      "bytes": 3131674,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/town-mobile-ef5b05115f.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/town-mobile-ef5b05115f-webp.png",
+      "category": "MistArt",
+      "width": 960,
+      "height": 540,
+      "hasAlpha": false,
+      "sourceSha256": "ef5b05115f044e7cdfeee101a030b02e3134d5fe8d3e327b3bfdb252c7db5ec7",
+      "sha256": "58cdbd9a8ab6a09b6a0381e47265e7d84e261ce36ea55ff3a6975d5775d17c02",
+      "bytes": 1289812,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/town-native-6520c8586557.avif",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/town-native-6520c8586557-avif.png",
+      "category": "MistArt",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false,
+      "sourceSha256": "6520c85865579c5e3091308b6dfb9efed2e07980b4ef05fc050ca0403a35bc20",
+      "sha256": "5ee580b6814ae939b4cc3ea90774cd8a5d3a40043c1ae29619c0b5a2a77d71c7",
+      "bytes": 3776934,
+      "conversion": "avif-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/town-native-e483c751300f.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/town-native-e483c751300f-webp.png",
+      "category": "MistArt",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false,
+      "sourceSha256": "e483c751300f8c291a79c07b5ee7a8b407d68fc9802b84ca38e7ecf535a0bf4c",
+      "sha256": "43d16875131ddaf29a68c76661a703a7ba252c40d88ab7c4819f76ab2962665a",
+      "bytes": 3765819,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/town-thumb-bedbf4c666.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/town-thumb-bedbf4c666-webp.png",
+      "category": "MistArt",
+      "width": 480,
+      "height": 270,
+      "hasAlpha": false,
+      "sourceSha256": "bedbf4c6661c0253c9ffdcb4c59077b6fac91643c9c1702d260c9d237d15274e",
+      "sha256": "8bc8938f880d9e330306fa16c8c6e263cf28aa8437b1eae54ec18e4525d7aba0",
+      "bytes": 343118,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/town-thumb-hq-920596d2f584.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/town-thumb-hq-920596d2f584-webp.png",
+      "category": "MistArt",
+      "width": 640,
+      "height": 360,
+      "hasAlpha": false,
+      "sourceSha256": "920596d2f5848179f18282f0a3b8cf655596d61704cd2904bc5ced9bd1b047ca",
+      "sha256": "1157239ce1a24281f36c4e03246015619369379d6b8a58c983a66fcbe998a102",
+      "bytes": 605422,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/town.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/town.png",
+      "category": "MistArt",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false,
+      "sourceSha256": "37bb380e508d209bb19bbe1aaa4165d0510c651be677094353b228890bb48bfb",
+      "sha256": "37bb380e508d209bb19bbe1aaa4165d0510c651be677094353b228890bb48bfb",
+      "bytes": 2889741,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/mist/warehouse-full-3e91ae4658.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/warehouse-full-3e91ae4658-webp.png",
+      "category": "MistArt",
+      "width": 1536,
+      "height": 864,
+      "hasAlpha": false,
+      "sourceSha256": "3e91ae4658ebc37e58ac76382b56dc1f7bf1c02616b49f0655466d595d9b91bd",
+      "sha256": "a68a724321f34e9a8c6e94e48ea55f864a193130bfa11ae9110d86914640bfb7",
+      "bytes": 2559209,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/warehouse-mobile-680b15224f.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/warehouse-mobile-680b15224f-webp.png",
+      "category": "MistArt",
+      "width": 960,
+      "height": 540,
+      "hasAlpha": false,
+      "sourceSha256": "680b15224f3335a07a90e9c1e6c537303fe7270d36cfd6f74fece7841061fb78",
+      "sha256": "da24ffd88a279d335822a8cc6c68a55a44f1cead2f5501f50090969a25e02b56",
+      "bytes": 1093180,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/warehouse-native-2bf29f121e74.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/warehouse-native-2bf29f121e74-webp.png",
+      "category": "MistArt",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false,
+      "sourceSha256": "2bf29f121e7428bad7f4ddb4063bf6a8b71e259b2395015f4b41ce5603723ccb",
+      "sha256": "720f8898d726b5569a19b8b14460cdc3d1043fbc8d03ba9c652707ace4e3d684",
+      "bytes": 3201515,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/warehouse-native-cf76e7a6ece7.avif",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/warehouse-native-cf76e7a6ece7-avif.png",
+      "category": "MistArt",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false,
+      "sourceSha256": "cf76e7a6ece7ca939cdbf4bd6e5c02d5515fe1f6c2411727db17ae589460cc9c",
+      "sha256": "5af1816909dcee27f4b178e4b119bfab2d1dc577f30a261bce7ba3342a3148e0",
+      "bytes": 3210734,
+      "conversion": "avif-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/warehouse-thumb-7e542dd6ec.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/warehouse-thumb-7e542dd6ec-webp.png",
+      "category": "MistArt",
+      "width": 480,
+      "height": 270,
+      "hasAlpha": false,
+      "sourceSha256": "7e542dd6ec8a4bcf4751bb0e7d65bf5b5378fd3fbb39b53f07e3920b7e0ccc49",
+      "sha256": "091fae223ddc34303271cb2b984446e1aefbfc8754eaa09b282432d71bf21c38",
+      "bytes": 299693,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/warehouse-thumb-hq-a882c9099958.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/warehouse-thumb-hq-a882c9099958-webp.png",
+      "category": "MistArt",
+      "width": 640,
+      "height": 360,
+      "hasAlpha": false,
+      "sourceSha256": "a882c9099958c706b05fe5c3db233906d98f43b95c4c4a55e516c2cd9f405a67",
+      "sha256": "7e3d87934ae57163731e646f4cad1c297bec6079adaef736da41b2b557104553",
+      "bytes": 533270,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/mist/warehouse.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/warehouse.png",
+      "category": "MistArt",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false,
+      "sourceSha256": "bc8db788b5184e8f74519d11915be4fe4b8ebf3858b755a26bceaaeae38e31d3",
+      "sha256": "bc8db788b5184e8f74519d11915be4fe4b8ebf3858b755a26bceaaeae38e31d3",
+      "bytes": 2425707,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/walk/archive-510b9cbe4e71.avif",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/archive-510b9cbe4e71-avif.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "510b9cbe4e71dbbb520300e2a3c0f59d4641f91664a8085320d9883bdd8c3016",
+      "sha256": "144feab2538d194ddca2046b1c864007688593248e4ff44ffdd2ad6ae0d1c2d4",
+      "bytes": 2310902,
+      "conversion": "avif-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/archive-e78597af2451.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/archive-e78597af2451-webp.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "e78597af2451d4f3e61f4b633f985edf3624c90d0c3b3b7a42f329b6d7f55e28",
+      "sha256": "2964a38aae4d52c88f9102d7ecf4a9548b90df429f99a9f06ff55c4767bf8cc0",
+      "bytes": 2333376,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/archive-source.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/archive-source.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "07ddf1cd092964ce4ef85d9aa6cb534a8309ffe065866b20345e727e26062a5d",
+      "sha256": "07ddf1cd092964ce4ef85d9aa6cb534a8309ffe065866b20345e727e26062a5d",
+      "bytes": 2053927,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/walk/archive-thumb-026b32e4579e.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/archive-thumb-026b32e4579e-webp.png",
+      "category": "WalkArt",
+      "width": 640,
+      "height": 213,
+      "hasAlpha": false,
+      "sourceSha256": "026b32e4579ecdce03c197dc5224f061d717df362208af4b0b70d5ce231efead",
+      "sha256": "a4dc8b725ec41b5628bbf2227eb3d7e4a13e8eb9d0ea25aa46df73d031047ccc",
+      "bytes": 254641,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/cast-d4a485401ab5.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/cast-d4a485401ab5-webp.png",
+      "category": "WalkArt",
+      "width": 1080,
+      "height": 1160,
+      "hasAlpha": true,
+      "sourceSha256": "d4a485401ab57d888c509003bd3dbe79612828481f9253d6ba7cbef80d1cc22b",
+      "sha256": "7a1066bcc26f24207ea25f038fc6549f8aa8d4658671f3f44dcf3c0e1d04396c",
+      "bytes": 1043910,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/cast-source.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/cast-source.png",
+      "category": "WalkArt",
+      "width": 1448,
+      "height": 1086,
+      "hasAlpha": true,
+      "sourceSha256": "86f2b85371612f48895983d6d3b2bc2c28e02c81d0b699748907291d3b27a220",
+      "sha256": "86f2b85371612f48895983d6d3b2bc2c28e02c81d0b699748907291d3b27a220",
+      "bytes": 855372,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/walk/dispatch-61b7046f3eb7.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/dispatch-61b7046f3eb7-webp.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "61b7046f3eb737a360d7644a02f138781b48a547937b10ba04142542cc44eecb",
+      "sha256": "48b42c3a8414f6d12ebb8eb35cc428f9f3c9f8f4c548f181647cd6a0053833bb",
+      "bytes": 2541542,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/dispatch-6df249bce78d.avif",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/dispatch-6df249bce78d-avif.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "6df249bce78de0420b33728ce3f79e173fec8b9a3dfdf757820e4d764fd7c99b",
+      "sha256": "d3238e8680b46ed0ef7d747f2af8c72510b10c28e53fddbad521139d5fda11c4",
+      "bytes": 2533249,
+      "conversion": "avif-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/dispatch-source.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/dispatch-source.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "9f50ba3282f0d7158657d03eef10186b9f550484e6a704618fdb86e89112f841",
+      "sha256": "9f50ba3282f0d7158657d03eef10186b9f550484e6a704618fdb86e89112f841",
+      "bytes": 2109479,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/walk/dispatch-thumb-cb392ce1f8c8.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/dispatch-thumb-cb392ce1f8c8-webp.png",
+      "category": "WalkArt",
+      "width": 640,
+      "height": 213,
+      "hasAlpha": false,
+      "sourceSha256": "cb392ce1f8c8a09acf425fa0cee2f9a74ab325aae1de7ded0bae71dd15aa89d2",
+      "sha256": "a4c56d7b4f7490070450024a651d4c4f8d62e87d1260be70db8675c07c784787",
+      "bytes": 270914,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/gait-base-source.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/gait-base-source.png",
+      "category": "WalkArt",
+      "width": 1261,
+      "height": 1247,
+      "hasAlpha": true,
+      "sourceSha256": "58ae5cd479da0e9846f165b101ac28ad4bd919878afa2c39035661fd08910f4d",
+      "sha256": "58ae5cd479da0e9846f165b101ac28ad4bd919878afa2c39035661fd08910f4d",
+      "bytes": 875753,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/walk/gait-low-source.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/gait-low-source.png",
+      "category": "WalkArt",
+      "width": 1050,
+      "height": 1498,
+      "hasAlpha": true,
+      "sourceSha256": "a2d70f8ef75eb41062a712b212a2ee7f421e701b72fd90a400a2581a0a5dee4d",
+      "sha256": "a2d70f8ef75eb41062a712b212a2ee7f421e701b72fd90a400a2581a0a5dee4d",
+      "bytes": 1103113,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/walk/gait-opposite-source.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/gait-opposite-source.png",
+      "category": "WalkArt",
+      "width": 1261,
+      "height": 1247,
+      "hasAlpha": true,
+      "sourceSha256": "473273495b4555864e63aca46620243f78a0561981fc17cf22be07fdef8aff34",
+      "sha256": "473273495b4555864e63aca46620243f78a0561981fc17cf22be07fdef8aff34",
+      "bytes": 769095,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/walk/harbor-a3054dfad7e5.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/harbor-a3054dfad7e5-webp.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "a3054dfad7e556b34ff91363bcffa277d5f8679f7363909a9db19b47bf3d94d8",
+      "sha256": "8075e74afe927643c06f99428c0c58ed7c83fe10070dbd9a3a3df05769bc9095",
+      "bytes": 2816656,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/harbor-db6be346b256.avif",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/harbor-db6be346b256-avif.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "db6be346b256b91002fe9f9571e4bd9cf65ecb7be337526566da020e06de6300",
+      "sha256": "3787fceaff159f9c6ba1f56d7eb5d8c14e7db0510b53358f7d15e5134273b469",
+      "bytes": 2856930,
+      "conversion": "avif-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/harbor-source.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/harbor-source.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "4e2492e5a037c3871cf9424cd6ec5baa261a616a063dc61df647349b7918a7c3",
+      "sha256": "4e2492e5a037c3871cf9424cd6ec5baa261a616a063dc61df647349b7918a7c3",
+      "bytes": 2103259,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/walk/harbor-thumb-63f90d04645f.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/harbor-thumb-63f90d04645f-webp.png",
+      "category": "WalkArt",
+      "width": 640,
+      "height": 213,
+      "hasAlpha": false,
+      "sourceSha256": "63f90d04645f86220d33eb67aa8639e8d27a6cf79a6f1c42b580e94aa60e5b32",
+      "sha256": "71fd8a8438d72384dbe1fe5f0142fd2fe98d9a822473c1b707f9f49e2d621425",
+      "bytes": 303879,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/inspection-db347457fd9a.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/inspection-db347457fd9a-webp.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "db347457fd9afbdf232495cb115215b0dcf41f5fab37f8ce6f9170994ac56b7b",
+      "sha256": "cbfdc8f47062cd2ce79a330fd52c69f6a95865ea386ff304dfb2d09119b51cd3",
+      "bytes": 3167760,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/inspection-fe4e9045f2b8.avif",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/inspection-fe4e9045f2b8-avif.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "fe4e9045f2b88c639f1fe46c5510117e1445ce4f7e6f1afb652f8047fcb221fb",
+      "sha256": "a2d424dcfa761073ffb6ae878907c788866338cac0079cfb3dc115eaffad8be4",
+      "bytes": 3167468,
+      "conversion": "avif-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/inspection-source.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/inspection-source.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "5bbaac5345c28d1108e0ccb7600c7e9226c4dabff2f21ff20dece0bd6ea6f152",
+      "sha256": "5bbaac5345c28d1108e0ccb7600c7e9226c4dabff2f21ff20dece0bd6ea6f152",
+      "bytes": 2357694,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/walk/inspection-thumb-21069b38ad7a.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/inspection-thumb-21069b38ad7a-webp.png",
+      "category": "WalkArt",
+      "width": 640,
+      "height": 213,
+      "hasAlpha": false,
+      "sourceSha256": "21069b38ad7a6fc7138d867285eeec1e16a8b7debd49418f4193dbd0504c4064",
+      "sha256": "728053aaad3ac3b6334e79f69b1b36f4a97cfff281f52908f4c0750e65ed0345",
+      "bytes": 320150,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/interview-658fd8db75e4.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/interview-658fd8db75e4-webp.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "658fd8db75e4d1464de24c3d5a5afe586bce509c3bfc134875f1f49b7c60d8cb",
+      "sha256": "36a24d2784fa7f69e5db0a992f17fe830e9902fe43c807a42c4958b3a48d5828",
+      "bytes": 2042599,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/interview-e402e1e8f059.avif",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/interview-e402e1e8f059-avif.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "e402e1e8f05928b42d0dc2878bfd14c6bcf396ea92ee0911fddfdf799e8d51df",
+      "sha256": "4e0e9e89e02595dc69b267d64e6495c6321988c8cd4addff6466ab61e2f8b56a",
+      "bytes": 2066464,
+      "conversion": "avif-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/interview-source.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/interview-source.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "1d249577ec2eb64961aeb5e24c73d90acc3e2727d401bcbfec22541929df8d4d",
+      "sha256": "1d249577ec2eb64961aeb5e24c73d90acc3e2727d401bcbfec22541929df8d4d",
+      "bytes": 1879246,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/walk/interview-thumb-4c0f16535064.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/interview-thumb-4c0f16535064-webp.png",
+      "category": "WalkArt",
+      "width": 640,
+      "height": 213,
+      "hasAlpha": false,
+      "sourceSha256": "4c0f165350645080c3c01e64d870324fa89850090ddecc472233b3438ad946c5",
+      "sha256": "e4a3e26c9443a9a1a72908c1bc6f2893cfe219e79be3d8708c2ed7846816d0ca",
+      "bytes": 237153,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/mentor-original-91657858c949.avif",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/mentor-original-91657858c949-avif.png",
+      "category": "WalkArt",
+      "width": 422,
+      "height": 1400,
+      "hasAlpha": true,
+      "sourceSha256": "91657858c94987c7e2cb40b0b7238b1b75b7b30a93a8d443f299e68a9e68b89b",
+      "sha256": "e8ef165d7acb1e7fcdd685a4a69e824f1a090862b1b912bda4978e0d8b99ba1e",
+      "bytes": 495079,
+      "conversion": "avif-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/mentor-original-c5f6a7069788.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/mentor-original-c5f6a7069788-webp.png",
+      "category": "WalkArt",
+      "width": 422,
+      "height": 1400,
+      "hasAlpha": true,
+      "sourceSha256": "c5f6a70697885c2ba53f02d6623c5f30aede3bf6685e091b581c23a709543773",
+      "sha256": "e115812295e20566490a32087c022d9044d362a3c6d3a3beecd206129d10bda0",
+      "bytes": 517435,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/mentor-portrait-215facff209d.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/mentor-portrait-215facff209d-webp.png",
+      "category": "WalkArt",
+      "width": 420,
+      "height": 735,
+      "hasAlpha": true,
+      "sourceSha256": "215facff209dce01f9658c3fde2c2e39ff3e9b12f893be3bf342b491b684ebf3",
+      "sha256": "f86875b8518e7e50fb465093073d333d7a349502b32f031a5337e5e97854ba4a",
+      "bytes": 451242,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/player-e81ff0620a25.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/player-e81ff0620a25-webp.png",
+      "category": "WalkArt",
+      "width": 1774,
+      "height": 887,
+      "hasAlpha": true,
+      "sourceSha256": "e81ff0620a25c59ef52d5bb8c50a5e187618bd852d6c21eed418113f27823134",
+      "sha256": "0f74fa08e6db08382259030c004f3beb10f9495c5ff40e4d3044d288f1c6f366",
+      "bytes": 1156820,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/player-gait-16826b1c0b3d.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/player-gait-16826b1c0b3d-webp.png",
+      "category": "WalkArt",
+      "width": 1344,
+      "height": 1920,
+      "hasAlpha": true,
+      "sourceSha256": "16826b1c0b3db803392acf671da982b3926c01dcb0879315a0e5bfdde65f2746",
+      "sha256": "04d5b3d9242c9882019b7b154b95b906d2e38ee78025c130c0a30635435ed395",
+      "bytes": 1816677,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/player-gait-33ad56c835f6.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/player-gait-33ad56c835f6-webp.png",
+      "category": "WalkArt",
+      "width": 1344,
+      "height": 1920,
+      "hasAlpha": true,
+      "sourceSha256": "33ad56c835f659b6590ca68f03e6bd4915c78f7d50fcf53c15fe1a4d2f37d115",
+      "sha256": "62684e2bd7dc7915251367d1b3a47f07ed60fa888f3a013be92f042faa42247a",
+      "bytes": 1907015,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/player-gait-atlas.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/player-gait-atlas.png",
+      "category": "WalkArt",
+      "width": 1344,
+      "height": 1920,
+      "hasAlpha": true,
+      "sourceSha256": "c1e6e491fc581796a314db9c5e36aa7a5f42f9fd0caf240ad0725f312d490808",
+      "sha256": "c1e6e491fc581796a314db9c5e36aa7a5f42f9fd0caf240ad0725f312d490808",
+      "bytes": 1812497,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/walk/player-gait-f249a76586ef.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/player-gait-f249a76586ef-webp.png",
+      "category": "WalkArt",
+      "width": 1344,
+      "height": 1920,
+      "hasAlpha": true,
+      "sourceSha256": "f249a76586ef3538d954ba5e3a5e647741cdd5e0f81ee7b956a67731b10fbdaa",
+      "sha256": "072237404b7e15558b6c9b53ba114ca98e5d5a166bcee92ee80131ed3eb485f6",
+      "bytes": 1827054,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-4bb886ffed13.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/player-illustrated-4bb886ffed13-webp.png",
+      "category": "WalkArt",
+      "width": 3072,
+      "height": 3840,
+      "hasAlpha": true,
+      "sourceSha256": "4bb886ffed13ed0cc25b7477a560a1c7c5bbc44214020bb8ad9f1f152ff60b20",
+      "sha256": "200ae2856ce74114c123e0a13d612af0ff064abb4c383c440b321296c7d8f6f1",
+      "bytes": 5790837,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/player-illustrated-a0218c05c266-webp.png",
+      "category": "WalkArt",
+      "width": 3072,
+      "height": 3840,
+      "hasAlpha": true,
+      "sourceSha256": "a0218c05c2661a9cac013c5a9ac377d42d54c8bc98af5d43b7032a5a07793447",
+      "sha256": "e5a6070931850a2c5788eda9f4acdfd312d9e3fcd54bb38404058ceae6c10663",
+      "bytes": 5759043,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-fedd32e3e1d8.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/player-illustrated-fedd32e3e1d8-webp.png",
+      "category": "WalkArt",
+      "width": 3072,
+      "height": 3840,
+      "hasAlpha": true,
+      "sourceSha256": "fedd32e3e1d8aecfe676d2a72aacaeacd9e78fbcb337f51742687617b64a81e6",
+      "sha256": "3b1862dd330aa22995a8f7c7dcc3a71a1e413b27bffe79dc2f56cb3dc2d35fc5",
+      "bytes": 6046314,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-textures-520f89afc5da.avif",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/player-illustrated-textures-520f89afc5da-avif.png",
+      "category": "WalkArt",
+      "width": 1024,
+      "height": 1024,
+      "hasAlpha": true,
+      "sourceSha256": "520f89afc5da11cef63d686bfa9f7b2d8bf21ec6c50c776176af3292d3aea4a7",
+      "sha256": "f16599ba3d74f8a45684cef5760e543ce5bdf27f9cde9e62ad4ce3cfda76ff1f",
+      "bytes": 814120,
+      "conversion": "avif-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-textures-5b0e63572d62.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/player-illustrated-textures-5b0e63572d62-webp.png",
+      "category": "WalkArt",
+      "width": 1024,
+      "height": 1024,
+      "hasAlpha": true,
+      "sourceSha256": "5b0e63572d623450cca7b0b7fba08264c9d04011174caa7d1c3762a40decaf48",
+      "sha256": "ffc022cafbe719ff0544612e5cb6c445b180d0e967b711866725f78f21944f43",
+      "bytes": 831741,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-textures-814cb7431c6c.avif",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/player-illustrated-textures-814cb7431c6c-avif.png",
+      "category": "WalkArt",
+      "width": 1024,
+      "height": 1024,
+      "hasAlpha": true,
+      "sourceSha256": "814cb7431c6c47d300c8917194d8106a4f5709db5136b88891f6b742335e93f8",
+      "sha256": "592812f90e8357f9dfb960de7007822f4e3cac721aa985d991ad08c64b3b1e64",
+      "bytes": 787235,
+      "conversion": "avif-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-textures-fff091fd9a6d.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/player-illustrated-textures-fff091fd9a6d-webp.png",
+      "category": "WalkArt",
+      "width": 1024,
+      "height": 1024,
+      "hasAlpha": true,
+      "sourceSha256": "fff091fd9a6dd71d5a495e4946ed275d47b7ca3c8585f7810e928ad9240efc7b",
+      "sha256": "9d66579da585069a746794d8f9009926e1a13109e9aa0108d28b9793d51bb78e",
+      "bytes": 812522,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/player-low-step-atlas.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/player-low-step-atlas.png",
+      "category": "WalkArt",
+      "width": 1344,
+      "height": 1920,
+      "hasAlpha": true,
+      "sourceSha256": "84c2a398b647b56fd82ea6fd403f3fbf8889e686e751699bb6d6a7ac5097d82c",
+      "sha256": "84c2a398b647b56fd82ea6fd403f3fbf8889e686e751699bb6d6a7ac5097d82c",
+      "bytes": 1899270,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/walk/player-skeletal-62cb7813dcfc.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/player-skeletal-62cb7813dcfc-webp.png",
+      "category": "WalkArt",
+      "width": 1536,
+      "height": 2304,
+      "hasAlpha": true,
+      "sourceSha256": "62cb7813dcfc954e767c63cf69909292ae8cbafe33f3fe4c5f236654ed38079c",
+      "sha256": "8443d4efa304af3be042fe42d6f73d574fa144cec07549927d4240a867d0ed74",
+      "bytes": 1723317,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/player-skeletal-cf027b1853ac.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/player-skeletal-cf027b1853ac-webp.png",
+      "category": "WalkArt",
+      "width": 1536,
+      "height": 2304,
+      "hasAlpha": true,
+      "sourceSha256": "cf027b1853ac0bb7ca6cb530fea81a1501dd35a4ff5bf1b9e73f98b5c57a9b3c",
+      "sha256": "eb018af9f003529f86f9640ad978d68492bd1a611c5270e119df43623af03373",
+      "bytes": 1503755,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/player-source.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/player-source.png",
+      "category": "WalkArt",
+      "width": 1774,
+      "height": 887,
+      "hasAlpha": true,
+      "sourceSha256": "6d4a7501188cf9792bca9369f877adf4a3a5850a19982e4f5d220a1dce475c8f",
+      "sha256": "6d4a7501188cf9792bca9369f877adf4a3a5850a19982e4f5d220a1dce475c8f",
+      "bytes": 941561,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/walk/records-31c9dc271625.avif",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/records-31c9dc271625-avif.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "31c9dc27162509d4ca5ca8f54708b828af363c21ecac00d2c0444c5f08071aff",
+      "sha256": "c27e1fbb86d32c4a5743bb1b5f3845186c10589de60d4da1fec2953be2cdedf9",
+      "bytes": 2670771,
+      "conversion": "avif-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/records-4fd6c884aca0.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/records-4fd6c884aca0-webp.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "4fd6c884aca0200f76c7840496863ea34bfd70d30542756738bf65cb6282075f",
+      "sha256": "4ab07ae88bd59bccb171e7b5b88145efcb513f6e59ff228621046a54f6e65f58",
+      "bytes": 2724268,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/records-source.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/records-source.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "27bcbfb70b3e3b7c956e74d789dc5e1c600eacc6722584c94b16fca3c3e0eec2",
+      "sha256": "27bcbfb70b3e3b7c956e74d789dc5e1c600eacc6722584c94b16fca3c3e0eec2",
+      "bytes": 2238043,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/walk/records-thumb-842c8f44b22a.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/records-thumb-842c8f44b22a-webp.png",
+      "category": "WalkArt",
+      "width": 640,
+      "height": 213,
+      "hasAlpha": false,
+      "sourceSha256": "842c8f44b22ad25baec2cc3ab18e4a7ecc69b282e0825627b5f96c8c327b584f",
+      "sha256": "ec0fc9934ca575b737a09d47ed3ab6343bc1fa15916f55c8098e628de1750a65",
+      "bytes": 263839,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/shuttle-illustrated-4a5169eedfcc.avif",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/shuttle-illustrated-4a5169eedfcc-avif.png",
+      "category": "WalkArt",
+      "width": 1100,
+      "height": 478,
+      "hasAlpha": true,
+      "sourceSha256": "4a5169eedfcc7bc4640e2ba8752b3c9e040fd2569dab5b805ef043067693e1aa",
+      "sha256": "0683681ad5b3dfa21bd85d59822ae1515f0f9963d9f69811ad8f9a0e2a83c3f0",
+      "bytes": 914488,
+      "conversion": "avif-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/shuttle-illustrated-b832fcdcf1e5.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/shuttle-illustrated-b832fcdcf1e5-webp.png",
+      "category": "WalkArt",
+      "width": 1100,
+      "height": 478,
+      "hasAlpha": true,
+      "sourceSha256": "b832fcdcf1e5e23afafd831deb9cd38020c65d8c5edb862e949c9560301dc1c7",
+      "sha256": "16473fc0970a61977aff4d79221388c84a811641fba5bd01e126a2fcac2dcacf",
+      "bytes": 924434,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/town-92aa998001cf.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/town-92aa998001cf-webp.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "92aa998001cf0c2b245033fc38d4d1a22db4c471d69e20c39cd94afe73a809df",
+      "sha256": "2a7c5f11adda3458a6840a3591fcefef9121f37b1fd5843c7e1075ef14d5ba97",
+      "bytes": 3604213,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/town-bb66e153e6ca.avif",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/town-bb66e153e6ca-avif.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "bb66e153e6cac5bd739bcaf31834109606cd27834a2b5148bc2326a6b67f1fe0",
+      "sha256": "43e5aa2dd787c91b2a63a426b7c776ca8b7b69802dd7cbdb3e8993d3588535b6",
+      "bytes": 3626845,
+      "conversion": "avif-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/town-source.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/town-source.png",
+      "category": "WalkArt",
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "8d7bc36bd5503d941f3ea3587ab8f6b879a8391ef4d70246244e7724d6013796",
+      "sha256": "8d7bc36bd5503d941f3ea3587ab8f6b879a8391ef4d70246244e7724d6013796",
+      "bytes": 2793064,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/walk/town-thumb-2f9c6c77701e.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/town-thumb-2f9c6c77701e-webp.png",
+      "category": "WalkArt",
+      "width": 640,
+      "height": 213,
+      "hasAlpha": false,
+      "sourceSha256": "2f9c6c77701e4d5ae50a3b34596da9f974c18f99ff779bf96aa0c9425369bdf3",
+      "sha256": "da128c949b3a075ee2f3fc099ad3036606fe5efcc8aa4774f0be1b88687bcb94",
+      "bytes": 348040,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/warehouse-014e95e3b701.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/warehouse-014e95e3b701-webp.png",
+      "category": "WalkArt",
+      "width": 2171,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "014e95e3b70153e9c5db0d6884de14ac216be07d60ea25292cb86e1ae5a0fa5c",
+      "sha256": "26f98dff640315bdfc6cda8dcbe1ba5fa38d33c67266d4f7d301f5004ef51c32",
+      "bytes": 2823958,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/warehouse-531febef5342.avif",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/warehouse-531febef5342-avif.png",
+      "category": "WalkArt",
+      "width": 2171,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "531febef5342d37549fd3993826ced59b7d2af14a8a0b7dbb56e56fa7b890442",
+      "sha256": "7246998de4542df787cc7514d3e23a8c99a063ccb6d826db478339596489eb3b",
+      "bytes": 2800682,
+      "conversion": "avif-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/public/assets/walk/warehouse-source.png",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/warehouse-source.png",
+      "category": "WalkArt",
+      "width": 2171,
+      "height": 724,
+      "hasAlpha": false,
+      "sourceSha256": "cf98ebca645b476c5e357cc5c05ae30307993e008fbf8b917b1ed8488b692022",
+      "sha256": "cf98ebca645b476c5e357cc5c05ae30307993e008fbf8b917b1ed8488b692022",
+      "bytes": 2263186,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/walk/warehouse-thumb-50545edf4b73.webp",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/warehouse-thumb-50545edf4b73-webp.png",
+      "category": "WalkArt",
+      "width": 640,
+      "height": 213,
+      "hasAlpha": false,
+      "sourceSha256": "50545edf4b7327716eceaff922a8fbfc0d0689406b7a4470d8e34acd7cb4ddb5",
+      "sha256": "3cb3814e9e030c445dab6a4bf231a9e1fa2b9ce31f7dda3a70e49fc5438d37db",
+      "bytes": 288321,
+      "conversion": "webp-to-png",
+      "pixelVerified": true
+    },
+    {
+      "source": "h5/design/motion-reference/LinJian-illustrated-parts-alpha.png",
+      "destination": "Assets/GuanshanYouyan/Art/ProductionReference/LinJian-illustrated-parts-alpha.png",
+      "category": "ProductionReference",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sourceSha256": "1da31194a8147428ce234d86ef0c86d193ad1e27ca0b76124ea2015756bfcee0",
+      "sha256": "1da31194a8147428ce234d86ef0c86d193ad1e27ca0b76124ea2015756bfcee0",
+      "bytes": 1540977,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/design/motion-reference/LinJian-illustrated-parts.png",
+      "destination": "Assets/GuanshanYouyan/Art/ProductionReference/LinJian-illustrated-parts.png",
+      "category": "ProductionReference",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sourceSha256": "d86ace72824276fb9a0d04a6ea1afabef7438f988ff39f16fe082438c17d9377",
+      "sha256": "d86ace72824276fb9a0d04a6ea1afabef7438f988ff39f16fe082438c17d9377",
+      "bytes": 1578072,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/design/motion-reference/LinJian-illustrated-torso-edit.png",
+      "destination": "Assets/GuanshanYouyan/Art/ProductionReference/LinJian-illustrated-torso-edit.png",
+      "category": "ProductionReference",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "sourceSha256": "519603a4dcfc982cea869f213a60a27c85a2b1203f1c1077180ea98e1663119b",
+      "sha256": "519603a4dcfc982cea869f213a60a27c85a2b1203f1c1077180ea98e1663119b",
+      "bytes": 1539510,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/design/motion-reference/LinJian-torso-single-epaulette.png",
+      "destination": "Assets/GuanshanYouyan/Art/ProductionReference/LinJian-torso-single-epaulette.png",
+      "category": "ProductionReference",
+      "width": 772,
+      "height": 2038,
+      "hasAlpha": true,
+      "sourceSha256": "304ffc1ce5de8e5ed7e0f6ddaab2d8c53a94c59111a2a153e40c945d31514f7e",
+      "sha256": "304ffc1ce5de8e5ed7e0f6ddaab2d8c53a94c59111a2a153e40c945d31514f7e",
+      "bytes": 1652158,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/design/motion-reference/Port-shuttle-illustrated.png",
+      "destination": "Assets/GuanshanYouyan/Art/ProductionReference/Port-shuttle-illustrated.png",
+      "category": "ProductionReference",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "sourceSha256": "7a2030e3b849e091ada2821d7ab0987ef9598839b5889c19e0dc30e7a8268dd4",
+      "sha256": "7a2030e3b849e091ada2821d7ab0987ef9598839b5889c19e0dc30e7a8268dd4",
+      "bytes": 1872732,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/design/motion-reference/XuLan-original-identity.png",
+      "destination": "Assets/GuanshanYouyan/Art/ProductionReference/XuLan-original-identity.png",
+      "category": "ProductionReference",
+      "width": 422,
+      "height": 1400,
+      "hasAlpha": true,
+      "sourceSha256": "330b892199eee7912524b02621d537eee67e3891b948598b7978dce9eb3a70fe",
+      "sha256": "330b892199eee7912524b02621d537eee67e3891b948598b7978dce9eb3a70fe",
+      "bytes": 669736,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedDarkSkin.png",
+      "destination": "Assets/GuanshanYouyan/Art/ProductionReference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedDarkSkin.png",
+      "category": "ProductionReference",
+      "width": 32,
+      "height": 32,
+      "hasAlpha": false,
+      "sourceSha256": "9a8e7595c414a42b3d8a65d71428c6291bd36cb8274919cc79d2a016f8e1287c",
+      "sha256": "9a8e7595c414a42b3d8a65d71428c6291bd36cb8274919cc79d2a016f8e1287c",
+      "bytes": 197,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedDarkSkin1.png",
+      "destination": "Assets/GuanshanYouyan/Art/ProductionReference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedDarkSkin1.png",
+      "category": "ProductionReference",
+      "width": 32,
+      "height": 32,
+      "hasAlpha": true,
+      "sourceSha256": "41b9987bca46de1feb6ac73921d22517f8a86a24d0f122c3884fab5750869810",
+      "sha256": "41b9987bca46de1feb6ac73921d22517f8a86a24d0f122c3884fab5750869810",
+      "bytes": 170,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedDarkSkin2.png",
+      "destination": "Assets/GuanshanYouyan/Art/ProductionReference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedDarkSkin2.png",
+      "category": "ProductionReference",
+      "width": 32,
+      "height": 32,
+      "hasAlpha": true,
+      "sourceSha256": "a1729d709ac16eed5433d420e73e138251972e3509aa2dcb4778321b8659fffd",
+      "sha256": "a1729d709ac16eed5433d420e73e138251972e3509aa2dcb4778321b8659fffd",
+      "bytes": 170,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedLightSkin.png",
+      "destination": "Assets/GuanshanYouyan/Art/ProductionReference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedLightSkin.png",
+      "category": "ProductionReference",
+      "width": 32,
+      "height": 32,
+      "hasAlpha": true,
+      "sourceSha256": "c8a975424739500699e27618f1e57ece309dff5ffeff657f4ae3c3c7a309eb57",
+      "sha256": "c8a975424739500699e27618f1e57ece309dff5ffeff657f4ae3c3c7a309eb57",
+      "bytes": 189,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedLightSkin1.png",
+      "destination": "Assets/GuanshanYouyan/Art/ProductionReference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedLightSkin1.png",
+      "category": "ProductionReference",
+      "width": 32,
+      "height": 32,
+      "hasAlpha": true,
+      "sourceSha256": "2c9e13a77685aace180edc74586485da4eb46d382034346f8d7918e30b13215d",
+      "sha256": "2c9e13a77685aace180edc74586485da4eb46d382034346f8d7918e30b13215d",
+      "bytes": 170,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedLightSkin2.png",
+      "destination": "Assets/GuanshanYouyan/Art/ProductionReference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedLightSkin2.png",
+      "category": "ProductionReference",
+      "width": 32,
+      "height": 32,
+      "hasAlpha": true,
+      "sourceSha256": "be8736c012f6d8ebc9570ddfa5a2405092b738e2f4b10a9978af950cce666c73",
+      "sha256": "be8736c012f6d8ebc9570ddfa5a2405092b738e2f4b10a9978af950cce666c73",
+      "bytes": 169,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/NakedDarkSkin.png",
+      "destination": "Assets/GuanshanYouyan/Art/ProductionReference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/NakedDarkSkin.png",
+      "category": "ProductionReference",
+      "width": 32,
+      "height": 32,
+      "hasAlpha": true,
+      "sourceSha256": "a2fd7cdb916f2c8eaff3b4e79df5c3f356f06eb5ca79cce78ed9ca0719427be2",
+      "sha256": "a2fd7cdb916f2c8eaff3b4e79df5c3f356f06eb5ca79cce78ed9ca0719427be2",
+      "bytes": 170,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/NakedLightSkin.png",
+      "destination": "Assets/GuanshanYouyan/Art/ProductionReference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/NakedLightSkin.png",
+      "category": "ProductionReference",
+      "width": 32,
+      "height": 32,
+      "hasAlpha": true,
+      "sourceSha256": "1e0f4d0e20e7409e9aec0b1a6d7c8d7c921584a6f857e0c3416931bc8849a828",
+      "sha256": "1e0f4d0e20e7409e9aec0b1a6d7c8d7c921584a6f857e0c3416931bc8849a828",
+      "bytes": 168,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/TextureTutorial.png",
+      "destination": "Assets/GuanshanYouyan/Art/ProductionReference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/TextureTutorial.png",
+      "category": "ProductionReference",
+      "width": 1266,
+      "height": 1266,
+      "hasAlpha": true,
+      "sourceSha256": "c8f681a72f6b8a3088fff39c0c0a56fc421d0f6caf36fef8bd2b04d2e61228fb",
+      "sha256": "c8f681a72f6b8a3088fff39c0c0a56fc421d0f6caf36fef8bd2b04d2e61228fb",
+      "bytes": 72013,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/FBX/Animated Human.fbx",
+      "destination": "Assets/GuanshanYouyan/Models/Quaternius/Animated Human.fbx",
+      "category": "ReferenceModel",
+      "sha256": "edd4fde3a73afe2a22ddb5a10a215373a0880d9a4ee32a0815879a260b8e8445",
+      "bytes": 2399964
+    },
+    {
+      "source": "design/LinJian-illustrated-skeletal-atlas.png",
+      "destination": "Assets/GuanshanYouyan/Art/CharacterAtlases/LinJian-illustrated-skeletal-atlas.png",
+      "category": "CharacterAtlas",
+      "width": 3072,
+      "height": 3840,
+      "hasAlpha": true,
+      "sourceSha256": "55b08027838e8b815f266d7df16f07e4d0f800d5fb6f281b9b27acc28b344dcf",
+      "sha256": "55b08027838e8b815f266d7df16f07e4d0f800d5fb6f281b9b27acc28b344dcf",
+      "bytes": 5367636,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "design/LinJian-illustrated-textures.png",
+      "destination": "Assets/GuanshanYouyan/Art/CharacterAtlases/LinJian-illustrated-textures.png",
+      "category": "CharacterAtlas",
+      "width": 1024,
+      "height": 1024,
+      "hasAlpha": true,
+      "sourceSha256": "a58057581b7cad86e1ef2570a37cc419db07e7fe8f904b5ed1bccba1bb03f55e",
+      "sha256": "a58057581b7cad86e1ef2570a37cc419db07e7fe8f904b5ed1bccba1bb03f55e",
+      "bytes": 897308,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "design/LinJian-skeletal-atlas.png",
+      "destination": "Assets/GuanshanYouyan/Art/CharacterAtlases/LinJian-skeletal-atlas.png",
+      "category": "CharacterAtlas",
+      "width": 1536,
+      "height": 2304,
+      "hasAlpha": true,
+      "sourceSha256": "01f34810a32234f3664af6c081f0baf2a1ca9626ec89e0f6eccfab6d320f00c0",
+      "sha256": "01f34810a32234f3664af6c081f0baf2a1ca9626ec89e0f6eccfab6d320f00c0",
+      "bytes": 1397911,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "output/imagegen/关山有眼-剪纸挂旗-中间修订版.png",
+      "destination": "Assets/GuanshanYouyan/Art/PaperCut/关山有眼-剪纸挂旗-中间修订版.png",
+      "category": "PaperCut",
+      "width": 1931,
+      "height": 814,
+      "hasAlpha": false,
+      "sourceSha256": "f3b30b108e851da77ced1923fad06309eef9777f9f1a86ae36c6d90fd2d7769a",
+      "sha256": "f3b30b108e851da77ced1923fad06309eef9777f9f1a86ae36c6d90fd2d7769a",
+      "bytes": 1959430,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "output/imagegen/关山有眼-剪纸挂旗-六格版.png",
+      "destination": "Assets/GuanshanYouyan/Art/PaperCut/关山有眼-剪纸挂旗-六格版.png",
+      "category": "PaperCut",
+      "width": 1931,
+      "height": 814,
+      "hasAlpha": false,
+      "sourceSha256": "f7958f2200f29e34e17aa4e70bcfc6d94a400cb074cb9e07f7df69b4be8ee197",
+      "sha256": "f7958f2200f29e34e17aa4e70bcfc6d94a400cb074cb9e07f7df69b4be8ee197",
+      "bytes": 2118080,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "output/imagegen/关山有眼-剪纸挂旗-左侧阴刻云浪版.png",
+      "destination": "Assets/GuanshanYouyan/Art/PaperCut/关山有眼-剪纸挂旗-左侧阴刻云浪版.png",
+      "category": "PaperCut",
+      "width": 1931,
+      "height": 814,
+      "hasAlpha": false,
+      "sourceSha256": "94ccca63b495e39ca2d34e5672c64d04665453b1662dcc35d2d5c22393b750ad",
+      "sha256": "94ccca63b495e39ca2d34e5672c64d04665453b1662dcc35d2d5c22393b750ad",
+      "bytes": 1896878,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "output/imagegen/关山有眼-剪纸挂旗-恢复底部花边版.png",
+      "destination": "Assets/GuanshanYouyan/Art/PaperCut/关山有眼-剪纸挂旗-恢复底部花边版.png",
+      "category": "PaperCut",
+      "width": 1932,
+      "height": 814,
+      "hasAlpha": false,
+      "sourceSha256": "313ed456cb548950f8d54fef7990bc2c43991e2ce17a29ebbbe51a14a5d87993",
+      "sha256": "313ed456cb548950f8d54fef7990bc2c43991e2ce17a29ebbbe51a14a5d87993",
+      "bytes": 1869194,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "output/imagegen/关山有眼-剪纸挂旗-无云浪延伸版.png",
+      "destination": "Assets/GuanshanYouyan/Art/PaperCut/关山有眼-剪纸挂旗-无云浪延伸版.png",
+      "category": "PaperCut",
+      "width": 1932,
+      "height": 814,
+      "hasAlpha": false,
+      "sourceSha256": "514de092f1d8e7eaeb26801d33070b2c805949b656cbf227ebea398a3269a38f",
+      "sha256": "514de092f1d8e7eaeb26801d33070b2c805949b656cbf227ebea398a3269a38f",
+      "bytes": 1918082,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "output/imagegen/关山有眼-剪纸挂旗-网格补齐云浪连通版.png",
+      "destination": "Assets/GuanshanYouyan/Art/PaperCut/关山有眼-剪纸挂旗-网格补齐云浪连通版.png",
+      "category": "PaperCut",
+      "width": 1932,
+      "height": 814,
+      "hasAlpha": false,
+      "sourceSha256": "63e61e3780ccc076c0e2db288a70f625c7c11f2e8be730dd8a65b931178ea2f5",
+      "sha256": "63e61e3780ccc076c0e2db288a70f625c7c11f2e8be730dd8a65b931178ea2f5",
+      "bytes": 1895119,
+      "conversion": "byte-copy",
+      "pixelVerified": false
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_00.png",
+      "category": "LinJianFrame",
+      "frameIndex": 0,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "14b1eb7ed3a2eee2e2f95109ea53b63377ff23a3499192b27714b2c1fa0ee845",
+      "bytes": 138685,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_01.png",
+      "category": "LinJianFrame",
+      "frameIndex": 1,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "18b050d934574745a3c035d5f79ac8340bdc75f88e99f9fd4c08069e7b83212a",
+      "bytes": 154144,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_02.png",
+      "category": "LinJianFrame",
+      "frameIndex": 2,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "459599ff33be7236a74e83baacf78f023b171cf3b598c809cedb11b9c47ea796",
+      "bytes": 148449,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_03.png",
+      "category": "LinJianFrame",
+      "frameIndex": 3,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "5f683b4cfa02bc126e5636e8085da7f254ce669756121cb920bc34a2d0e19125",
+      "bytes": 157874,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_04.png",
+      "category": "LinJianFrame",
+      "frameIndex": 4,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "8442d3f523e171b5ea560e9a3e744c02bf57a051c86c9220f4b9ae9d7fecf93c",
+      "bytes": 164245,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_05.png",
+      "category": "LinJianFrame",
+      "frameIndex": 5,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "8a2f6d014a94ae042665e12fd5ea4546efda955817b66f734ad83a7a7d2815e4",
+      "bytes": 167342,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_06.png",
+      "category": "LinJianFrame",
+      "frameIndex": 6,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "d24587fbb3e11ee0c3714025166722fce0431e31560f2419cbf2f46b17c78be3",
+      "bytes": 170030,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_07.png",
+      "category": "LinJianFrame",
+      "frameIndex": 7,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "978996a857c30dbb3b930f28dd1666190008aa59a35985e2a659705f35420e6c",
+      "bytes": 175117,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_08.png",
+      "category": "LinJianFrame",
+      "frameIndex": 8,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "38338f299f1664b836afa3c6fe2c75fc7a36ab4f90f0d710caa97f5832222c3d",
+      "bytes": 178030,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_09.png",
+      "category": "LinJianFrame",
+      "frameIndex": 9,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "16728fc331350517a980105ff02349caaabb18c4b73498152de13c1165feda6f",
+      "bytes": 178737,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_10.png",
+      "category": "LinJianFrame",
+      "frameIndex": 10,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "c1f1354e0f2c95723c0c0583d53be026979586954e49807f27ae97bc1cfd6d59",
+      "bytes": 179769,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_11.png",
+      "category": "LinJianFrame",
+      "frameIndex": 11,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "e7fafef46c78b5db9a9250d26ab6c54ec26715f0ad8d3c847f01b44b61917bf8",
+      "bytes": 179918,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_12.png",
+      "category": "LinJianFrame",
+      "frameIndex": 12,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "144ebe963ebc09270b9bea9fcc86d88f44ffd8cb26ae6fe79659b500c207ae0a",
+      "bytes": 176409,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_13.png",
+      "category": "LinJianFrame",
+      "frameIndex": 13,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "03e2404f3d9ee3489797908e7847a67fec875539f0fcd9d3e8942fad08809d9b",
+      "bytes": 176148,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_14.png",
+      "category": "LinJianFrame",
+      "frameIndex": 14,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "383610450fff299cfe9461dfc840884db1216ac84f40207ada563d6b694a5d33",
+      "bytes": 171056,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_15.png",
+      "category": "LinJianFrame",
+      "frameIndex": 15,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "fc863c145e7fa6ad1204c76332e987526eb8891819036c67f881c678a5757976",
+      "bytes": 164724,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_16.png",
+      "category": "LinJianFrame",
+      "frameIndex": 16,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "a02a7f51f35382551e4742128643c03506e07bfc9ba5e7e2331b5703df070c3c",
+      "bytes": 158208,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_17.png",
+      "category": "LinJianFrame",
+      "frameIndex": 17,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "9831babcc62f1660559b1668d5f83ab3f4ebc78ddde084d3f3e9390393b730a6",
+      "bytes": 148984,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_18.png",
+      "category": "LinJianFrame",
+      "frameIndex": 18,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "217f2776171cc3b1ea871eb5b2170375c68d323b7be4c588b4b3056b0b05dafb",
+      "bytes": 149401,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_19.png",
+      "category": "LinJianFrame",
+      "frameIndex": 19,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "c1eb6f30cad690c441e43ed69f5beed9c4327b191523658783a0452a860e0be2",
+      "bytes": 164683,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_20.png",
+      "category": "LinJianFrame",
+      "frameIndex": 20,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "adf497d03ce723be5f17ef5444adebc6d60853efdb1485fc1eb07715e0c73061",
+      "bytes": 167753,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_21.png",
+      "category": "LinJianFrame",
+      "frameIndex": 21,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "c7fdc4461c0f9eae2fdd86df249889eec34519f7fbc9e5b6ccf0343c7af44199",
+      "bytes": 174331,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_22.png",
+      "category": "LinJianFrame",
+      "frameIndex": 22,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "ad6a3dc3a02d7a1f2a76431a5679bce407c8a8acc83a88c977da132d0ebfb153",
+      "bytes": 178136,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_23.png",
+      "category": "LinJianFrame",
+      "frameIndex": 23,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "64574be36fe5ba8ab435c207ec89b267a354817679cef814fe2cb0092e6bc689",
+      "bytes": 181487,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_24.png",
+      "category": "LinJianFrame",
+      "frameIndex": 24,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "8dd201c8d482df071e8a11e96ae1ab64a438c4e0e22624383d8d875b9dfaee12",
+      "bytes": 185856,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_25.png",
+      "category": "LinJianFrame",
+      "frameIndex": 25,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "c5a41944786924820b674c3838c29958dd74a1304e51851c6a5e11f6cfe85ad6",
+      "bytes": 188501,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_26.png",
+      "category": "LinJianFrame",
+      "frameIndex": 26,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "11d52027f3a1c37a074e3021a598bae4233bfcbb7d4c22301dda521247114af9",
+      "bytes": 190000,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_27.png",
+      "category": "LinJianFrame",
+      "frameIndex": 27,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "12c7c727eb90ae0341ce69bec5fdff43e9dbcc0782548426661091ce86041780",
+      "bytes": 188845,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_28.png",
+      "category": "LinJianFrame",
+      "frameIndex": 28,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "b6b633b075846968829361ed2d892758bb3ec00c17e2372fb3fd2c4c60443cf9",
+      "bytes": 187060,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_29.png",
+      "category": "LinJianFrame",
+      "frameIndex": 29,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "168ac62cc10fa09c21f37f5e9c6c17237605ecec383184e45db7040d0325d1f7",
+      "bytes": 183497,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_30.png",
+      "category": "LinJianFrame",
+      "frameIndex": 30,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "22d7993486e19cd6333d4527b49f7fa370108027dc6807d2547fab97ff0d6482",
+      "bytes": 180020,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_31.png",
+      "category": "LinJianFrame",
+      "frameIndex": 31,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "10a6d2feb4f90eece2a01565065af369585b675500cbf5207218123b26fc4223",
+      "bytes": 171862,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_32.png",
+      "category": "LinJianFrame",
+      "frameIndex": 32,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "d07f933c0b8b2fdc2d8deddbb6138bda38ea00aefa1b25cf7f73e5b48de0cce7",
+      "bytes": 163459,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJian/Frame_33.png",
+      "category": "LinJianFrame",
+      "frameIndex": 33,
+      "width": 512,
+      "height": 640,
+      "hasAlpha": true,
+      "sha256": "9bfcb47dd04055b130de707277c22e87e2500d557f30b14f8a65b9f8cec8465c",
+      "bytes": 139506,
+      "conversion": "exact-grid-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-textures-fff091fd9a6d.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJianParts/body.png",
+      "category": "LinJianPart",
+      "width": 248,
+      "height": 654,
+      "hasAlpha": true,
+      "sha256": "1067ba0abcf4a42a16f9978ecb201474ba8a1ed12fb19e9691120c7e2a93a787",
+      "bytes": 263498,
+      "conversion": "exact-region-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-textures-fff091fd9a6d.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJianParts/arm.png",
+      "category": "LinJianPart",
+      "width": 151,
+      "height": 546,
+      "hasAlpha": true,
+      "sha256": "f59d5b698384449507d57a4294fdeeae908d658fe7e98dfbe936f3117ac2fb56",
+      "bytes": 112039,
+      "conversion": "exact-region-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-textures-fff091fd9a6d.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJianParts/leg.png",
+      "category": "LinJianPart",
+      "width": 236,
+      "height": 704,
+      "hasAlpha": true,
+      "sha256": "c87a4648d64ceebacf9a6ab40d185d16d44445c62e332007dcca9f8f779e76be",
+      "bytes": 163250,
+      "conversion": "exact-region-extraction"
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-textures-fff091fd9a6d.webp",
+      "destination": "Assets/GuanshanYouyan/Art/Characters/LinJianParts/portrait.png",
+      "category": "LinJianPart",
+      "width": 182,
+      "height": 777,
+      "hasAlpha": true,
+      "sha256": "45056310ab4db87206ec84c1573a2803964b45a486685dde17ca0206867c3bf1",
+      "bytes": 209224,
+      "conversion": "exact-region-extraction"
+    },
+    {
+      "source": "user-downloads/harumachimusic-underwater-mysterious-ambient-music-297537.mp3",
+      "destination": "Assets/GuanshanYouyan/Audio/Music/underwater-297537-first-120s.wav",
+      "category": "BackgroundMusic",
+      "sha256": "61461593d38de792b502260541e0acf5b3fd4e34ddc0b456743f5f914a4c0b04",
+      "bytes": 23040078,
+      "sourceUrl": "https://pixabay.com/music/mystery-underwater-mysterious-ambient-music-297537/",
+      "conversion": "first-120-seconds-pcm-wav"
+    },
+    {
+      "source": "user-downloads/mondamusic-mystery-mysterious-mystical-519335.mp3",
+      "destination": "Assets/GuanshanYouyan/Audio/Music/mondamusic-mystery-mysterious-mystical-519335.mp3",
+      "category": "BackgroundMusic",
+      "sha256": "01d97304c3f291204fdc3043e32d82313ea2cf2bb3204c38d3a87754fb118e49",
+      "bytes": 3841044,
+      "sourceUrl": "https://pixabay.com/music/modern-classical-mystery-mysterious-mystical-519335/",
+      "conversion": "byte-copy"
+    }
+  ],
+  "archive": [
+    {
+      "source": "h5/public/assets/harbor.png",
+      "destination": "SourceArchive~/h5/public/assets/harbor.png",
+      "sha256": "9ec38a2afb8faee8abc50ae13324dc133865570790cc48cadff3e9d2735e8714",
+      "bytes": 3401359
+    },
+    {
+      "source": "h5/public/assets/mark.svg",
+      "destination": "SourceArchive~/h5/public/assets/mark.svg",
+      "sha256": "fe72fbe6f04e21de9326d9bc5a19a0f4a535796842c8a741d045cfdf786782a8",
+      "bytes": 328
+    },
+    {
+      "source": "h5/public/assets/mist/harbor-full-165b3d04a1.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/harbor-full-165b3d04a1.webp",
+      "sha256": "165b3d04a1a93728611fe799e3cd7cf720def9a71bd1792b8f493f36f3decf14",
+      "bytes": 186770
+    },
+    {
+      "source": "h5/public/assets/mist/harbor-mobile-935da08b7c.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/harbor-mobile-935da08b7c.webp",
+      "sha256": "935da08b7c2fe624a4ffee066d0d50c1c6a0f6f89c84916b39a39eb4e431f5b0",
+      "bytes": 87956
+    },
+    {
+      "source": "h5/public/assets/mist/harbor-native-87e529f8e528.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/harbor-native-87e529f8e528.webp",
+      "sha256": "87e529f8e5285d72a5c2778fe5aa23bc9b4100697771eccfbbd170866874482c",
+      "bytes": 499830
+    },
+    {
+      "source": "h5/public/assets/mist/harbor-native-c9f1ef88fa20.avif",
+      "destination": "SourceArchive~/h5/public/assets/mist/harbor-native-c9f1ef88fa20.avif",
+      "sha256": "c9f1ef88fa20084621e4419375f87d10a4e899be8cb7e60dd35d2b52d3d871b5",
+      "bytes": 260591
+    },
+    {
+      "source": "h5/public/assets/mist/harbor-thumb-7a5e1582f0.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/harbor-thumb-7a5e1582f0.webp",
+      "sha256": "7a5e1582f0ffb6bbcfd61a16be8879bcb9e84aa0bc1d32c041a58b1d01037482",
+      "bytes": 25234
+    },
+    {
+      "source": "h5/public/assets/mist/harbor-thumb-hq-099cefbbf971.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/harbor-thumb-hq-099cefbbf971.webp",
+      "sha256": "099cefbbf97181f3f3f4a015e968cb6e7854b82fad19230f765285fc403c433a",
+      "bytes": 67986
+    },
+    {
+      "source": "h5/public/assets/mist/harbor.png",
+      "destination": "SourceArchive~/h5/public/assets/mist/harbor.png",
+      "sha256": "20079014c23b87c1269622e59613e3afddbe962ebb68b8d5d79c7c2f37e7bb2b",
+      "bytes": 2433070
+    },
+    {
+      "source": "h5/public/assets/mist/interview-full-30fb80ead5.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/interview-full-30fb80ead5.webp",
+      "sha256": "30fb80ead59fc7ec9367450c48cd3229879f087ef907fc5b192d265a649f0c50",
+      "bytes": 115456
+    },
+    {
+      "source": "h5/public/assets/mist/interview-mobile-e36e24fcc9.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/interview-mobile-e36e24fcc9.webp",
+      "sha256": "e36e24fcc999e47c567eeed6054d0dd1c4c6049165c4593f309c299f5daf4ff5",
+      "bytes": 59550
+    },
+    {
+      "source": "h5/public/assets/mist/interview-native-530671edef2e.avif",
+      "destination": "SourceArchive~/h5/public/assets/mist/interview-native-530671edef2e.avif",
+      "sha256": "530671edef2e7f8d6418aaf5f354414aa623c4ea3ccb81e794ba035e1ed14344",
+      "bytes": 154767
+    },
+    {
+      "source": "h5/public/assets/mist/interview-native-92e5c241cc8c.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/interview-native-92e5c241cc8c.webp",
+      "sha256": "92e5c241cc8cc8a123eda67074e70b043a668990d0fd24bf329587a4a8ae29a2",
+      "bytes": 334502
+    },
+    {
+      "source": "h5/public/assets/mist/interview-thumb-a2db053031.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/interview-thumb-a2db053031.webp",
+      "sha256": "a2db053031e9f9e554e3aa7c9c636bbe7cbd4ce4fc836cdc0081b69f812f9bed",
+      "bytes": 19164
+    },
+    {
+      "source": "h5/public/assets/mist/interview-thumb-hq-4c6553248250.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/interview-thumb-hq-4c6553248250.webp",
+      "sha256": "4c6553248250e68b6e16745747e2d78c79452d7cc2de4c8c1c11b2fd85dfe3d8",
+      "bytes": 48934
+    },
+    {
+      "source": "h5/public/assets/mist/interview.png",
+      "destination": "SourceArchive~/h5/public/assets/mist/interview.png",
+      "sha256": "a9f314517567eefcd973c716fc5b04fd9f02e454f3e5d5bbdded1c95c078557f",
+      "bytes": 2052593
+    },
+    {
+      "source": "h5/public/assets/mist/town-full-0244650d2e.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/town-full-0244650d2e.webp",
+      "sha256": "0244650d2e47fffa730edb1fe298cd1f32e7ec99982df34c8b0a79b4c925a6ec",
+      "bytes": 262530
+    },
+    {
+      "source": "h5/public/assets/mist/town-mobile-ef5b05115f.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/town-mobile-ef5b05115f.webp",
+      "sha256": "ef5b05115f044e7cdfeee101a030b02e3134d5fe8d3e327b3bfdb252c7db5ec7",
+      "bytes": 119514
+    },
+    {
+      "source": "h5/public/assets/mist/town-native-6520c8586557.avif",
+      "destination": "SourceArchive~/h5/public/assets/mist/town-native-6520c8586557.avif",
+      "sha256": "6520c85865579c5e3091308b6dfb9efed2e07980b4ef05fc050ca0403a35bc20",
+      "bytes": 355862
+    },
+    {
+      "source": "h5/public/assets/mist/town-native-e483c751300f.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/town-native-e483c751300f.webp",
+      "sha256": "e483c751300f8c291a79c07b5ee7a8b407d68fc9802b84ca38e7ecf535a0bf4c",
+      "bytes": 650032
+    },
+    {
+      "source": "h5/public/assets/mist/town-thumb-bedbf4c666.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/town-thumb-bedbf4c666.webp",
+      "sha256": "bedbf4c6661c0253c9ffdcb4c59077b6fac91643c9c1702d260c9d237d15274e",
+      "bytes": 31638
+    },
+    {
+      "source": "h5/public/assets/mist/town-thumb-hq-920596d2f584.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/town-thumb-hq-920596d2f584.webp",
+      "sha256": "920596d2f5848179f18282f0a3b8cf655596d61704cd2904bc5ced9bd1b047ca",
+      "bytes": 85026
+    },
+    {
+      "source": "h5/public/assets/mist/town.png",
+      "destination": "SourceArchive~/h5/public/assets/mist/town.png",
+      "sha256": "37bb380e508d209bb19bbe1aaa4165d0510c651be677094353b228890bb48bfb",
+      "bytes": 2889741
+    },
+    {
+      "source": "h5/public/assets/mist/warehouse-full-3e91ae4658.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/warehouse-full-3e91ae4658.webp",
+      "sha256": "3e91ae4658ebc37e58ac76382b56dc1f7bf1c02616b49f0655466d595d9b91bd",
+      "bytes": 175232
+    },
+    {
+      "source": "h5/public/assets/mist/warehouse-mobile-680b15224f.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/warehouse-mobile-680b15224f.webp",
+      "sha256": "680b15224f3335a07a90e9c1e6c537303fe7270d36cfd6f74fece7841061fb78",
+      "bytes": 81794
+    },
+    {
+      "source": "h5/public/assets/mist/warehouse-native-2bf29f121e74.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/warehouse-native-2bf29f121e74.webp",
+      "sha256": "2bf29f121e7428bad7f4ddb4063bf6a8b71e259b2395015f4b41ce5603723ccb",
+      "bytes": 492890
+    },
+    {
+      "source": "h5/public/assets/mist/warehouse-native-cf76e7a6ece7.avif",
+      "destination": "SourceArchive~/h5/public/assets/mist/warehouse-native-cf76e7a6ece7.avif",
+      "sha256": "cf76e7a6ece7ca939cdbf4bd6e5c02d5515fe1f6c2411727db17ae589460cc9c",
+      "bytes": 258161
+    },
+    {
+      "source": "h5/public/assets/mist/warehouse-thumb-7e542dd6ec.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/warehouse-thumb-7e542dd6ec.webp",
+      "sha256": "7e542dd6ec8a4bcf4751bb0e7d65bf5b5378fd3fbb39b53f07e3920b7e0ccc49",
+      "bytes": 23976
+    },
+    {
+      "source": "h5/public/assets/mist/warehouse-thumb-hq-a882c9099958.webp",
+      "destination": "SourceArchive~/h5/public/assets/mist/warehouse-thumb-hq-a882c9099958.webp",
+      "sha256": "a882c9099958c706b05fe5c3db233906d98f43b95c4c4a55e516c2cd9f405a67",
+      "bytes": 63826
+    },
+    {
+      "source": "h5/public/assets/mist/warehouse.png",
+      "destination": "SourceArchive~/h5/public/assets/mist/warehouse.png",
+      "sha256": "bc8db788b5184e8f74519d11915be4fe4b8ebf3858b755a26bceaaeae38e31d3",
+      "bytes": 2425707
+    },
+    {
+      "source": "h5/public/assets/walk/archive-510b9cbe4e71.avif",
+      "destination": "SourceArchive~/h5/public/assets/walk/archive-510b9cbe4e71.avif",
+      "sha256": "510b9cbe4e71dbbb520300e2a3c0f59d4641f91664a8085320d9883bdd8c3016",
+      "bytes": 165997
+    },
+    {
+      "source": "h5/public/assets/walk/archive-e78597af2451.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/archive-e78597af2451.webp",
+      "sha256": "e78597af2451d4f3e61f4b633f985edf3624c90d0c3b3b7a42f329b6d7f55e28",
+      "bytes": 338832
+    },
+    {
+      "source": "h5/public/assets/walk/archive-source.png",
+      "destination": "SourceArchive~/h5/public/assets/walk/archive-source.png",
+      "sha256": "07ddf1cd092964ce4ef85d9aa6cb534a8309ffe065866b20345e727e26062a5d",
+      "bytes": 2053927
+    },
+    {
+      "source": "h5/public/assets/walk/archive-thumb-026b32e4579e.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/archive-thumb-026b32e4579e.webp",
+      "sha256": "026b32e4579ecdce03c197dc5224f061d717df362208af4b0b70d5ce231efead",
+      "bytes": 25768
+    },
+    {
+      "source": "h5/public/assets/walk/cast-d4a485401ab5.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/cast-d4a485401ab5.webp",
+      "sha256": "d4a485401ab57d888c509003bd3dbe79612828481f9253d6ba7cbef80d1cc22b",
+      "bytes": 223126
+    },
+    {
+      "source": "h5/public/assets/walk/cast-source.png",
+      "destination": "SourceArchive~/h5/public/assets/walk/cast-source.png",
+      "sha256": "86f2b85371612f48895983d6d3b2bc2c28e02c81d0b699748907291d3b27a220",
+      "bytes": 855372
+    },
+    {
+      "source": "h5/public/assets/walk/dispatch-61b7046f3eb7.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/dispatch-61b7046f3eb7.webp",
+      "sha256": "61b7046f3eb737a360d7644a02f138781b48a547937b10ba04142542cc44eecb",
+      "bytes": 372276
+    },
+    {
+      "source": "h5/public/assets/walk/dispatch-6df249bce78d.avif",
+      "destination": "SourceArchive~/h5/public/assets/walk/dispatch-6df249bce78d.avif",
+      "sha256": "6df249bce78de0420b33728ce3f79e173fec8b9a3dfdf757820e4d764fd7c99b",
+      "bytes": 195139
+    },
+    {
+      "source": "h5/public/assets/walk/dispatch-source.png",
+      "destination": "SourceArchive~/h5/public/assets/walk/dispatch-source.png",
+      "sha256": "9f50ba3282f0d7158657d03eef10186b9f550484e6a704618fdb86e89112f841",
+      "bytes": 2109479
+    },
+    {
+      "source": "h5/public/assets/walk/dispatch-thumb-cb392ce1f8c8.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/dispatch-thumb-cb392ce1f8c8.webp",
+      "sha256": "cb392ce1f8c8a09acf425fa0cee2f9a74ab325aae1de7ded0bae71dd15aa89d2",
+      "bytes": 29550
+    },
+    {
+      "source": "h5/public/assets/walk/gait-base-source.png",
+      "destination": "SourceArchive~/h5/public/assets/walk/gait-base-source.png",
+      "sha256": "58ae5cd479da0e9846f165b101ac28ad4bd919878afa2c39035661fd08910f4d",
+      "bytes": 875753
+    },
+    {
+      "source": "h5/public/assets/walk/gait-low-source.png",
+      "destination": "SourceArchive~/h5/public/assets/walk/gait-low-source.png",
+      "sha256": "a2d70f8ef75eb41062a712b212a2ee7f421e701b72fd90a400a2581a0a5dee4d",
+      "bytes": 1103113
+    },
+    {
+      "source": "h5/public/assets/walk/gait-opposite-source.png",
+      "destination": "SourceArchive~/h5/public/assets/walk/gait-opposite-source.png",
+      "sha256": "473273495b4555864e63aca46620243f78a0561981fc17cf22be07fdef8aff34",
+      "bytes": 769095
+    },
+    {
+      "source": "h5/public/assets/walk/harbor-a3054dfad7e5.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/harbor-a3054dfad7e5.webp",
+      "sha256": "a3054dfad7e556b34ff91363bcffa277d5f8679f7363909a9db19b47bf3d94d8",
+      "bytes": 383820
+    },
+    {
+      "source": "h5/public/assets/walk/harbor-db6be346b256.avif",
+      "destination": "SourceArchive~/h5/public/assets/walk/harbor-db6be346b256.avif",
+      "sha256": "db6be346b256b91002fe9f9571e4bd9cf65ecb7be337526566da020e06de6300",
+      "bytes": 210876
+    },
+    {
+      "source": "h5/public/assets/walk/harbor-source.png",
+      "destination": "SourceArchive~/h5/public/assets/walk/harbor-source.png",
+      "sha256": "4e2492e5a037c3871cf9424cd6ec5baa261a616a063dc61df647349b7918a7c3",
+      "bytes": 2103259
+    },
+    {
+      "source": "h5/public/assets/walk/harbor-thumb-63f90d04645f.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/harbor-thumb-63f90d04645f.webp",
+      "sha256": "63f90d04645f86220d33eb67aa8639e8d27a6cf79a6f1c42b580e94aa60e5b32",
+      "bytes": 33086
+    },
+    {
+      "source": "h5/public/assets/walk/inspection-db347457fd9a.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/inspection-db347457fd9a.webp",
+      "sha256": "db347457fd9afbdf232495cb115215b0dcf41f5fab37f8ce6f9170994ac56b7b",
+      "bytes": 456714
+    },
+    {
+      "source": "h5/public/assets/walk/inspection-fe4e9045f2b8.avif",
+      "destination": "SourceArchive~/h5/public/assets/walk/inspection-fe4e9045f2b8.avif",
+      "sha256": "fe4e9045f2b88c639f1fe46c5510117e1445ce4f7e6f1afb652f8047fcb221fb",
+      "bytes": 244101
+    },
+    {
+      "source": "h5/public/assets/walk/inspection-source.png",
+      "destination": "SourceArchive~/h5/public/assets/walk/inspection-source.png",
+      "sha256": "5bbaac5345c28d1108e0ccb7600c7e9226c4dabff2f21ff20dece0bd6ea6f152",
+      "bytes": 2357694
+    },
+    {
+      "source": "h5/public/assets/walk/inspection-thumb-21069b38ad7a.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/inspection-thumb-21069b38ad7a.webp",
+      "sha256": "21069b38ad7a6fc7138d867285eeec1e16a8b7debd49418f4193dbd0504c4064",
+      "bytes": 34674
+    },
+    {
+      "source": "h5/public/assets/walk/interview-658fd8db75e4.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/interview-658fd8db75e4.webp",
+      "sha256": "658fd8db75e4d1464de24c3d5a5afe586bce509c3bfc134875f1f49b7c60d8cb",
+      "bytes": 274022
+    },
+    {
+      "source": "h5/public/assets/walk/interview-e402e1e8f059.avif",
+      "destination": "SourceArchive~/h5/public/assets/walk/interview-e402e1e8f059.avif",
+      "sha256": "e402e1e8f05928b42d0dc2878bfd14c6bcf396ea92ee0911fddfdf799e8d51df",
+      "bytes": 133499
+    },
+    {
+      "source": "h5/public/assets/walk/interview-source.png",
+      "destination": "SourceArchive~/h5/public/assets/walk/interview-source.png",
+      "sha256": "1d249577ec2eb64961aeb5e24c73d90acc3e2727d401bcbfec22541929df8d4d",
+      "bytes": 1879246
+    },
+    {
+      "source": "h5/public/assets/walk/interview-thumb-4c0f16535064.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/interview-thumb-4c0f16535064.webp",
+      "sha256": "4c0f165350645080c3c01e64d870324fa89850090ddecc472233b3438ad946c5",
+      "bytes": 21526
+    },
+    {
+      "source": "h5/public/assets/walk/mentor-original-91657858c949.avif",
+      "destination": "SourceArchive~/h5/public/assets/walk/mentor-original-91657858c949.avif",
+      "sha256": "91657858c94987c7e2cb40b0b7238b1b75b7b30a93a8d443f299e68a9e68b89b",
+      "bytes": 70499
+    },
+    {
+      "source": "h5/public/assets/walk/mentor-original-c5f6a7069788.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/mentor-original-c5f6a7069788.webp",
+      "sha256": "c5f6a70697885c2ba53f02d6623c5f30aede3bf6685e091b581c23a709543773",
+      "bytes": 114146
+    },
+    {
+      "source": "h5/public/assets/walk/mentor-portrait-215facff209d.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/mentor-portrait-215facff209d.webp",
+      "sha256": "215facff209dce01f9658c3fde2c2e39ff3e9b12f893be3bf342b491b684ebf3",
+      "bytes": 83752
+    },
+    {
+      "source": "h5/public/assets/walk/player-e81ff0620a25.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/player-e81ff0620a25.webp",
+      "sha256": "e81ff0620a25c59ef52d5bb8c50a5e187618bd852d6c21eed418113f27823134",
+      "bytes": 259246
+    },
+    {
+      "source": "h5/public/assets/walk/player-gait-16826b1c0b3d.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/player-gait-16826b1c0b3d.webp",
+      "sha256": "16826b1c0b3db803392acf671da982b3926c01dcb0879315a0e5bfdde65f2746",
+      "bytes": 418662
+    },
+    {
+      "source": "h5/public/assets/walk/player-gait-33ad56c835f6.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/player-gait-33ad56c835f6.webp",
+      "sha256": "33ad56c835f659b6590ca68f03e6bd4915c78f7d50fcf53c15fe1a4d2f37d115",
+      "bytes": 432894
+    },
+    {
+      "source": "h5/public/assets/walk/player-gait-atlas.png",
+      "destination": "SourceArchive~/h5/public/assets/walk/player-gait-atlas.png",
+      "sha256": "c1e6e491fc581796a314db9c5e36aa7a5f42f9fd0caf240ad0725f312d490808",
+      "bytes": 1812497
+    },
+    {
+      "source": "h5/public/assets/walk/player-gait-f249a76586ef.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/player-gait-f249a76586ef.webp",
+      "sha256": "f249a76586ef3538d954ba5e3a5e647741cdd5e0f81ee7b956a67731b10fbdaa",
+      "bytes": 422812
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-4bb886ffed13.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/player-illustrated-4bb886ffed13.webp",
+      "sha256": "4bb886ffed13ed0cc25b7477a560a1c7c5bbc44214020bb8ad9f1f152ff60b20",
+      "bytes": 1311350
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/player-illustrated-a0218c05c266.webp",
+      "sha256": "a0218c05c2661a9cac013c5a9ac377d42d54c8bc98af5d43b7032a5a07793447",
+      "bytes": 1303466
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-fedd32e3e1d8.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/player-illustrated-fedd32e3e1d8.webp",
+      "sha256": "fedd32e3e1d8aecfe676d2a72aacaeacd9e78fbcb337f51742687617b64a81e6",
+      "bytes": 1335836
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-textures-520f89afc5da.avif",
+      "destination": "SourceArchive~/h5/public/assets/walk/player-illustrated-textures-520f89afc5da.avif",
+      "sha256": "520f89afc5da11cef63d686bfa9f7b2d8bf21ec6c50c776176af3292d3aea4a7",
+      "bytes": 99653
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-textures-5b0e63572d62.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/player-illustrated-textures-5b0e63572d62.webp",
+      "sha256": "5b0e63572d623450cca7b0b7fba08264c9d04011174caa7d1c3762a40decaf48",
+      "bytes": 155736
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-textures-814cb7431c6c.avif",
+      "destination": "SourceArchive~/h5/public/assets/walk/player-illustrated-textures-814cb7431c6c.avif",
+      "sha256": "814cb7431c6c47d300c8917194d8106a4f5709db5136b88891f6b742335e93f8",
+      "bytes": 99985
+    },
+    {
+      "source": "h5/public/assets/walk/player-illustrated-textures-fff091fd9a6d.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/player-illustrated-textures-fff091fd9a6d.webp",
+      "sha256": "fff091fd9a6dd71d5a495e4946ed275d47b7ca3c8585f7810e928ad9240efc7b",
+      "bytes": 159760
+    },
+    {
+      "source": "h5/public/assets/walk/player-low-step-atlas.png",
+      "destination": "SourceArchive~/h5/public/assets/walk/player-low-step-atlas.png",
+      "sha256": "84c2a398b647b56fd82ea6fd403f3fbf8889e686e751699bb6d6a7ac5097d82c",
+      "bytes": 1899270
+    },
+    {
+      "source": "h5/public/assets/walk/player-skeletal-62cb7813dcfc.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/player-skeletal-62cb7813dcfc.webp",
+      "sha256": "62cb7813dcfc954e767c63cf69909292ae8cbafe33f3fe4c5f236654ed38079c",
+      "bytes": 268320
+    },
+    {
+      "source": "h5/public/assets/walk/player-skeletal-cf027b1853ac.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/player-skeletal-cf027b1853ac.webp",
+      "sha256": "cf027b1853ac0bb7ca6cb530fea81a1501dd35a4ff5bf1b9e73f98b5c57a9b3c",
+      "bytes": 265326
+    },
+    {
+      "source": "h5/public/assets/walk/player-source.png",
+      "destination": "SourceArchive~/h5/public/assets/walk/player-source.png",
+      "sha256": "6d4a7501188cf9792bca9369f877adf4a3a5850a19982e4f5d220a1dce475c8f",
+      "bytes": 941561
+    },
+    {
+      "source": "h5/public/assets/walk/records-31c9dc271625.avif",
+      "destination": "SourceArchive~/h5/public/assets/walk/records-31c9dc271625.avif",
+      "sha256": "31c9dc27162509d4ca5ca8f54708b828af363c21ecac00d2c0444c5f08071aff",
+      "bytes": 200835
+    },
+    {
+      "source": "h5/public/assets/walk/records-4fd6c884aca0.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/records-4fd6c884aca0.webp",
+      "sha256": "4fd6c884aca0200f76c7840496863ea34bfd70d30542756738bf65cb6282075f",
+      "bytes": 408910
+    },
+    {
+      "source": "h5/public/assets/walk/records-source.png",
+      "destination": "SourceArchive~/h5/public/assets/walk/records-source.png",
+      "sha256": "27bcbfb70b3e3b7c956e74d789dc5e1c600eacc6722584c94b16fca3c3e0eec2",
+      "bytes": 2238043
+    },
+    {
+      "source": "h5/public/assets/walk/records-thumb-842c8f44b22a.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/records-thumb-842c8f44b22a.webp",
+      "sha256": "842c8f44b22ad25baec2cc3ab18e4a7ecc69b282e0825627b5f96c8c327b584f",
+      "bytes": 28000
+    },
+    {
+      "source": "h5/public/assets/walk/shuttle-illustrated-4a5169eedfcc.avif",
+      "destination": "SourceArchive~/h5/public/assets/walk/shuttle-illustrated-4a5169eedfcc.avif",
+      "sha256": "4a5169eedfcc7bc4640e2ba8752b3c9e040fd2569dab5b805ef043067693e1aa",
+      "bytes": 92064
+    },
+    {
+      "source": "h5/public/assets/walk/shuttle-illustrated-b832fcdcf1e5.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/shuttle-illustrated-b832fcdcf1e5.webp",
+      "sha256": "b832fcdcf1e5e23afafd831deb9cd38020c65d8c5edb862e949c9560301dc1c7",
+      "bytes": 161872
+    },
+    {
+      "source": "h5/public/assets/walk/town-92aa998001cf.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/town-92aa998001cf.webp",
+      "sha256": "92aa998001cf0c2b245033fc38d4d1a22db4c471d69e20c39cd94afe73a809df",
+      "bytes": 610788
+    },
+    {
+      "source": "h5/public/assets/walk/town-bb66e153e6ca.avif",
+      "destination": "SourceArchive~/h5/public/assets/walk/town-bb66e153e6ca.avif",
+      "sha256": "bb66e153e6cac5bd739bcaf31834109606cd27834a2b5148bc2326a6b67f1fe0",
+      "bytes": 352811
+    },
+    {
+      "source": "h5/public/assets/walk/town-source.png",
+      "destination": "SourceArchive~/h5/public/assets/walk/town-source.png",
+      "sha256": "8d7bc36bd5503d941f3ea3587ab8f6b879a8391ef4d70246244e7724d6013796",
+      "bytes": 2793064
+    },
+    {
+      "source": "h5/public/assets/walk/town-thumb-2f9c6c77701e.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/town-thumb-2f9c6c77701e.webp",
+      "sha256": "2f9c6c77701e4d5ae50a3b34596da9f974c18f99ff779bf96aa0c9425369bdf3",
+      "bytes": 47338
+    },
+    {
+      "source": "h5/public/assets/walk/warehouse-014e95e3b701.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/warehouse-014e95e3b701.webp",
+      "sha256": "014e95e3b70153e9c5db0d6884de14ac216be07d60ea25292cb86e1ae5a0fa5c",
+      "bytes": 436244
+    },
+    {
+      "source": "h5/public/assets/walk/warehouse-531febef5342.avif",
+      "destination": "SourceArchive~/h5/public/assets/walk/warehouse-531febef5342.avif",
+      "sha256": "531febef5342d37549fd3993826ced59b7d2af14a8a0b7dbb56e56fa7b890442",
+      "bytes": 235696
+    },
+    {
+      "source": "h5/public/assets/walk/warehouse-source.png",
+      "destination": "SourceArchive~/h5/public/assets/walk/warehouse-source.png",
+      "sha256": "cf98ebca645b476c5e357cc5c05ae30307993e008fbf8b917b1ed8488b692022",
+      "bytes": 2263186
+    },
+    {
+      "source": "h5/public/assets/walk/warehouse-thumb-50545edf4b73.webp",
+      "destination": "SourceArchive~/h5/public/assets/walk/warehouse-thumb-50545edf4b73.webp",
+      "sha256": "50545edf4b7327716eceaff922a8fbfc0d0689406b7a4470d8e34acd7cb4ddb5",
+      "bytes": 31516
+    },
+    {
+      "source": "h5/design/motion-reference/LinJian-illustrated-parts-alpha.png",
+      "destination": "SourceArchive~/h5/design/motion-reference/LinJian-illustrated-parts-alpha.png",
+      "sha256": "1da31194a8147428ce234d86ef0c86d193ad1e27ca0b76124ea2015756bfcee0",
+      "bytes": 1540977
+    },
+    {
+      "source": "h5/design/motion-reference/LinJian-illustrated-parts.png",
+      "destination": "SourceArchive~/h5/design/motion-reference/LinJian-illustrated-parts.png",
+      "sha256": "d86ace72824276fb9a0d04a6ea1afabef7438f988ff39f16fe082438c17d9377",
+      "bytes": 1578072
+    },
+    {
+      "source": "h5/design/motion-reference/LinJian-illustrated-torso-edit.png",
+      "destination": "SourceArchive~/h5/design/motion-reference/LinJian-illustrated-torso-edit.png",
+      "sha256": "519603a4dcfc982cea869f213a60a27c85a2b1203f1c1077180ea98e1663119b",
+      "bytes": 1539510
+    },
+    {
+      "source": "h5/design/motion-reference/LinJian-skeletal-walk.blend",
+      "destination": "SourceArchive~/h5/design/motion-reference/LinJian-skeletal-walk.blend",
+      "sha256": "f6c73bf755f57c905a38ecdaaeca5256788a07ed1c28248efd086dd7df5a4f5d",
+      "bytes": 19976146
+    },
+    {
+      "source": "h5/design/motion-reference/LinJian-torso-single-epaulette.png",
+      "destination": "SourceArchive~/h5/design/motion-reference/LinJian-torso-single-epaulette.png",
+      "sha256": "304ffc1ce5de8e5ed7e0f6ddaab2d8c53a94c59111a2a153e40c945d31514f7e",
+      "bytes": 1652158
+    },
+    {
+      "source": "h5/design/motion-reference/Port-shuttle-illustrated.png",
+      "destination": "SourceArchive~/h5/design/motion-reference/Port-shuttle-illustrated.png",
+      "sha256": "7a2030e3b849e091ada2821d7ab0987ef9598839b5889c19e0dc30e7a8268dd4",
+      "bytes": 1872732
+    },
+    {
+      "source": "h5/design/motion-reference/README.md",
+      "destination": "SourceArchive~/h5/design/motion-reference/README.md",
+      "sha256": "042d80fd3b911d3acd227fb54d85cffd0ab8b4712048a336f61888d2a529108a",
+      "bytes": 752
+    },
+    {
+      "source": "h5/design/motion-reference/XuLan-original-identity.png",
+      "destination": "SourceArchive~/h5/design/motion-reference/XuLan-original-identity.png",
+      "sha256": "330b892199eee7912524b02621d537eee67e3891b948598b7978dce9eb3a70fe",
+      "bytes": 669736
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Animated Human.blend",
+      "destination": "SourceArchive~/h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Animated Human.blend",
+      "sha256": "6ffdf7b8a269c7d214c7775c01808b2cd6e780c8fb44b8fa3a3abb03858487f7",
+      "bytes": 19505664
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedDarkSkin.png",
+      "destination": "SourceArchive~/h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedDarkSkin.png",
+      "sha256": "9a8e7595c414a42b3d8a65d71428c6291bd36cb8274919cc79d2a016f8e1287c",
+      "bytes": 197
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedDarkSkin1.png",
+      "destination": "SourceArchive~/h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedDarkSkin1.png",
+      "sha256": "41b9987bca46de1feb6ac73921d22517f8a86a24d0f122c3884fab5750869810",
+      "bytes": 170
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedDarkSkin2.png",
+      "destination": "SourceArchive~/h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedDarkSkin2.png",
+      "sha256": "a1729d709ac16eed5433d420e73e138251972e3509aa2dcb4778321b8659fffd",
+      "bytes": 170
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedLightSkin.png",
+      "destination": "SourceArchive~/h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedLightSkin.png",
+      "sha256": "c8a975424739500699e27618f1e57ece309dff5ffeff657f4ae3c3c7a309eb57",
+      "bytes": 189
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedLightSkin1.png",
+      "destination": "SourceArchive~/h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedLightSkin1.png",
+      "sha256": "2c9e13a77685aace180edc74586485da4eb46d382034346f8d7918e30b13215d",
+      "bytes": 170
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedLightSkin2.png",
+      "destination": "SourceArchive~/h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/ClothedLightSkin2.png",
+      "sha256": "be8736c012f6d8ebc9570ddfa5a2405092b738e2f4b10a9978af950cce666c73",
+      "bytes": 169
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/NakedDarkSkin.png",
+      "destination": "SourceArchive~/h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/NakedDarkSkin.png",
+      "sha256": "a2fd7cdb916f2c8eaff3b4e79df5c3f356f06eb5ca79cce78ed9ca0719427be2",
+      "bytes": 170
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/NakedLightSkin.png",
+      "destination": "SourceArchive~/h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/NakedLightSkin.png",
+      "sha256": "1e0f4d0e20e7409e9aec0b1a6d7c8d7c921584a6f857e0c3416931bc8849a828",
+      "bytes": 168
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/TextureTutorial.png",
+      "destination": "SourceArchive~/h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/Blend/Textures/TextureTutorial.png",
+      "sha256": "c8f681a72f6b8a3088fff39c0c0a56fc421d0f6caf36fef8bd2b04d2e61228fb",
+      "bytes": 72013
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/DAE/Animated Human.dae",
+      "destination": "SourceArchive~/h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/DAE/Animated Human.dae",
+      "sha256": "ee51d1090ef3e59c44f8c32e83782a85420e35c8a79922e43d7c1c00688292aa",
+      "bytes": 2123099
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/FBX/Animated Human.fbx",
+      "destination": "SourceArchive~/h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/FBX/Animated Human.fbx",
+      "sha256": "edd4fde3a73afe2a22ddb5a10a215373a0880d9a4ee32a0815879a260b8e8445",
+      "bytes": 2399964
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/License.txt",
+      "destination": "SourceArchive~/h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/License.txt",
+      "sha256": "e83a9e5b832cfbb2269fe5fca24e323e3d394fd986833f191d05791f53e94c2e",
+      "bytes": 358
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/OBJ/Animated Human.mtl",
+      "destination": "SourceArchive~/h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/OBJ/Animated Human.mtl",
+      "sha256": "151bdd92d6afc945234b8387a5921493684b5c0c837c7e0b4aa35c115da9dd63",
+      "bytes": 243
+    },
+    {
+      "source": "h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/OBJ/Animated Human.obj",
+      "destination": "SourceArchive~/h5/design/motion-reference/quaternius-human/Animated Human by @Quaternius/OBJ/Animated Human.obj",
+      "sha256": "16f10a42b9b33b5ca681286bcf449a0982a55221bd5b28a137d54fdbc922b7ea",
+      "bytes": 123017
+    },
+    {
+      "source": "design/LinJian-illustrated-skeletal-atlas.png",
+      "destination": "SourceArchive~/design/LinJian-illustrated-skeletal-atlas.png",
+      "sha256": "55b08027838e8b815f266d7df16f07e4d0f800d5fb6f281b9b27acc28b344dcf",
+      "bytes": 5367636
+    },
+    {
+      "source": "design/LinJian-illustrated-textures.png",
+      "destination": "SourceArchive~/design/LinJian-illustrated-textures.png",
+      "sha256": "a58057581b7cad86e1ef2570a37cc419db07e7fe8f904b5ed1bccba1bb03f55e",
+      "bytes": 897308
+    },
+    {
+      "source": "design/LinJian-skeletal-atlas.png",
+      "destination": "SourceArchive~/design/LinJian-skeletal-atlas.png",
+      "sha256": "01f34810a32234f3664af6c081f0baf2a1ca9626ec89e0f6eccfab6d320f00c0",
+      "bytes": 1397911
+    },
+    {
+      "source": "output/imagegen/关山有眼-剪纸挂旗-中间修订版.png",
+      "destination": "SourceArchive~/output/imagegen/关山有眼-剪纸挂旗-中间修订版.png",
+      "sha256": "f3b30b108e851da77ced1923fad06309eef9777f9f1a86ae36c6d90fd2d7769a",
+      "bytes": 1959430
+    },
+    {
+      "source": "output/imagegen/关山有眼-剪纸挂旗-六格版.png",
+      "destination": "SourceArchive~/output/imagegen/关山有眼-剪纸挂旗-六格版.png",
+      "sha256": "f7958f2200f29e34e17aa4e70bcfc6d94a400cb074cb9e07f7df69b4be8ee197",
+      "bytes": 2118080
+    },
+    {
+      "source": "output/imagegen/关山有眼-剪纸挂旗-左侧阴刻云浪版.png",
+      "destination": "SourceArchive~/output/imagegen/关山有眼-剪纸挂旗-左侧阴刻云浪版.png",
+      "sha256": "94ccca63b495e39ca2d34e5672c64d04665453b1662dcc35d2d5c22393b750ad",
+      "bytes": 1896878
+    },
+    {
+      "source": "output/imagegen/关山有眼-剪纸挂旗-恢复底部花边版.png",
+      "destination": "SourceArchive~/output/imagegen/关山有眼-剪纸挂旗-恢复底部花边版.png",
+      "sha256": "313ed456cb548950f8d54fef7990bc2c43991e2ce17a29ebbbe51a14a5d87993",
+      "bytes": 1869194
+    },
+    {
+      "source": "output/imagegen/关山有眼-剪纸挂旗-无云浪延伸版.png",
+      "destination": "SourceArchive~/output/imagegen/关山有眼-剪纸挂旗-无云浪延伸版.png",
+      "sha256": "514de092f1d8e7eaeb26801d33070b2c805949b656cbf227ebea398a3269a38f",
+      "bytes": 1918082
+    },
+    {
+      "source": "output/imagegen/关山有眼-剪纸挂旗-网格补齐云浪连通版.png",
+      "destination": "SourceArchive~/output/imagegen/关山有眼-剪纸挂旗-网格补齐云浪连通版.png",
+      "sha256": "63e61e3780ccc076c0e2db288a70f625c7c11f2e8be730dd8a65b931178ea2f5",
+      "bytes": 1895119
+    },
+    {
+      "source": "h5/public/docs/01-优化后的执行提示词.md",
+      "destination": "SourceArchive~/h5/public/docs/01-优化后的执行提示词.md",
+      "sha256": "bbedf8dbac09af8c1f5158a1b61e89acf03ec8729faa3b58d47304f70e6cc6b3",
+      "bytes": 2893
+    },
+    {
+      "source": "h5/public/docs/02-完整游戏策划与技术设计.md",
+      "destination": "SourceArchive~/h5/public/docs/02-完整游戏策划与技术设计.md",
+      "sha256": "84d55bb36518ae3589d68ec4a32b4a576155eba209257d3ce9f3ac43f1729e09",
+      "bytes": 10413
+    },
+    {
+      "source": "h5/public/docs/03-素材与普法研究.md",
+      "destination": "SourceArchive~/h5/public/docs/03-素材与普法研究.md",
+      "sha256": "8ce607d7894b3d74a342c9e4bb2768c6030f44aa5acc19c265e379cfebb2a8a1",
+      "bytes": 9495
+    },
+    {
+      "source": "h5/public/docs/04-AI创作与提交说明.md",
+      "destination": "SourceArchive~/h5/public/docs/04-AI创作与提交说明.md",
+      "sha256": "9ed4869e2bf8ef0afc0371f1719a08ea41bf0244b5779546606cd24eabd9fe85",
+      "bytes": 5402
+    },
+    {
+      "source": "h5/public/docs/05-测试与修复记录.md",
+      "destination": "SourceArchive~/h5/public/docs/05-测试与修复记录.md",
+      "sha256": "c9bae649329cd2e7068742c4dda729c57828d2ac44381fa255dd88d6f09fde4f",
+      "bytes": 3846
+    },
+    {
+      "source": "h5/public/docs/mist/00-雾港来信第一版实施规划.md",
+      "destination": "SourceArchive~/h5/public/docs/mist/00-雾港来信第一版实施规划.md",
+      "sha256": "feae48f27fe217f38cf7cf715962b0907c2f263b21b262ec871bf9b2d2f7bfea",
+      "bytes": 3194
+    },
+    {
+      "source": "h5/public/docs/mist/06-雾港来信美术生成记录.json",
+      "destination": "SourceArchive~/h5/public/docs/mist/06-雾港来信美术生成记录.json",
+      "sha256": "78460ac531b8418d42a88ddb884c2b9680ae04377aff3a7d6d3d4dfb6db1dfbe",
+      "bytes": 5445
+    },
+    {
+      "source": "h5/public/docs/mist/07-雾港来信验收报告.md",
+      "destination": "SourceArchive~/h5/public/docs/mist/07-雾港来信验收报告.md",
+      "sha256": "f529f51fed40dea6dd65c14ee571389625c2d4c6c6158b50a744027ee527b0ac",
+      "bytes": 3108
+    },
+    {
+      "source": "h5/public/docs/mist/09-图片加载优化.md",
+      "destination": "SourceArchive~/h5/public/docs/mist/09-图片加载优化.md",
+      "sha256": "7dff2087eab19a35c4637bbaefb4764caa7b5bb2dc4855f3a39f59223f549000",
+      "bytes": 2285
+    },
+    {
+      "source": "h5/public/docs/mist/10-取消模糊等待与场景预备.md",
+      "destination": "SourceArchive~/h5/public/docs/mist/10-取消模糊等待与场景预备.md",
+      "sha256": "68a66b56a9e367ec4171ae8f509421a1bef66eb3e34f170d9253e55a5b3ac703",
+      "bytes": 1795
+    },
+    {
+      "source": "h5/public/docs/mist/11-高清资源与加载流程整改规划.md",
+      "destination": "SourceArchive~/h5/public/docs/mist/11-高清资源与加载流程整改规划.md",
+      "sha256": "e4a3df9ece24ae414ce88e0640f3126afcdf76277197056fe7c0e44b6bc0de89",
+      "bytes": 2044
+    },
+    {
+      "source": "h5/public/docs/mist/12-原尺寸画质与加载验收.md",
+      "destination": "SourceArchive~/h5/public/docs/mist/12-原尺寸画质与加载验收.md",
+      "sha256": "bd679d744954b938930817fbe66128267e040468f221007b2fd3a1eb4b2e1bd2",
+      "bytes": 3167
+    },
+    {
+      "source": "h5/public/docs/mist/13-V1.0.2参考对照与验收.md",
+      "destination": "SourceArchive~/h5/public/docs/mist/13-V1.0.2参考对照与验收.md",
+      "sha256": "8f9e89436ae907b9fc296fde94706d2bc886ede9e7f072fb9737ed44cc65ae95",
+      "bytes": 3740
+    },
+    {
+      "source": "h5/public/docs/mist/14-行走探索与对话推进规划.md",
+      "destination": "SourceArchive~/h5/public/docs/mist/14-行走探索与对话推进规划.md",
+      "sha256": "00d1ab5b1b079e6cc8052f6b2a06e04a80959972f478f4344dd4903604dd697c",
+      "bytes": 2994
+    },
+    {
+      "source": "h5/public/docs/mist/15-自然交互调整.md",
+      "destination": "SourceArchive~/h5/public/docs/mist/15-自然交互调整.md",
+      "sha256": "6fb00b3cc69d55f1556defc7a9f18dce3cefc6b90b4d830a39dc7d4a534a37d4",
+      "bytes": 1228
+    },
+    {
+      "source": "h5/public/docs/mist/16-左右脚步态调整.md",
+      "destination": "SourceArchive~/h5/public/docs/mist/16-左右脚步态调整.md",
+      "sha256": "be60122831b7a3c099080c814a97d1c803d4de7b39a24220ddb5a5e053a7ce2e",
+      "bytes": 1748
+    },
+    {
+      "source": "h5/public/docs/mist/17-贴地小步修正.md",
+      "destination": "SourceArchive~/h5/public/docs/mist/17-贴地小步修正.md",
+      "sha256": "44939310d3eeba8750877695cbb45df8e7febc5e7a27a06d4c836caeb046ad80",
+      "bytes": 1076
+    },
+    {
+      "source": "h5/public/docs/mist/17-骨骼步态重做.md",
+      "destination": "SourceArchive~/h5/public/docs/mist/17-骨骼步态重做.md",
+      "sha256": "1f1580b2f46fcbfc56525889ffd5d9897de9e4d1e0884e3d74b2b94b3b4d770d",
+      "bytes": 3274
+    },
+    {
+      "source": "h5/public/docs/mist/18-人物插画风格恢复.md",
+      "destination": "SourceArchive~/h5/public/docs/mist/18-人物插画风格恢复.md",
+      "sha256": "fd7505851e7638ab4794a16295a09ae98e58feb218f00255ae020bbd18198fe9",
+      "bytes": 2455
+    },
+    {
+      "source": "h5/public/docs/mist/20-空间比例与自动通行.md",
+      "destination": "SourceArchive~/h5/public/docs/mist/20-空间比例与自动通行.md",
+      "sha256": "be77967ea76665866f14e6335cba3309b610fdc338fd9f652a22988c1013871c",
+      "bytes": 1312
+    },
+    {
+      "source": "h5/public/docs/mist/illustrated-character-generation.json",
+      "destination": "SourceArchive~/h5/public/docs/mist/illustrated-character-generation.json",
+      "sha256": "b46ca07331ef687fb778ca9a7824a76783e0df80417cbb7878bb56da849e677b",
+      "bytes": 4805
+    },
+    {
+      "source": "h5/public/docs/mist/illustrated-rig.json",
+      "destination": "SourceArchive~/h5/public/docs/mist/illustrated-rig.json",
+      "sha256": "e8c2d630e636c24f2ada02b77caa26b42c200cac3c97977efddabd6cd7ca1367",
+      "bytes": 61922
+    },
+    {
+      "source": "h5/public/docs/mist/skeletal-walk-model.json",
+      "destination": "SourceArchive~/h5/public/docs/mist/skeletal-walk-model.json",
+      "sha256": "c1db9168602bbe72cdb8bfd9d2170fe45479849f01c422845e0cd55d5140cdff",
+      "bytes": 444877
+    },
+    {
+      "source": "h5/public/docs/mist/spatial-polish-generation.json",
+      "destination": "SourceArchive~/h5/public/docs/mist/spatial-polish-generation.json",
+      "sha256": "cad0c90396d10d202a08911b30f56f22f625b68e7616aad8c08d3586b4dee11f",
+      "bytes": 2661
+    },
+    {
+      "source": "h5/public/docs/mist/walk-cast-generation.json",
+      "destination": "SourceArchive~/h5/public/docs/mist/walk-cast-generation.json",
+      "sha256": "86e23d1b20163366a0f018679d6684cb5f0fc45f33aeacb0b572aa96ee636331",
+      "bytes": 2062
+    },
+    {
+      "source": "h5/public/docs/mist/walk-gait-generation.json",
+      "destination": "SourceArchive~/h5/public/docs/mist/walk-gait-generation.json",
+      "sha256": "0acbeaef2825825cd1575124b3d87a6e3954ee91a2cb652f68ef6c8a6f5f8afd",
+      "bytes": 3936
+    },
+    {
+      "source": "h5/public/docs/mist/walk-generation-inputs.json",
+      "destination": "SourceArchive~/h5/public/docs/mist/walk-generation-inputs.json",
+      "sha256": "6e349f752029f74d7444e177166852f39d4ce5cc46dd0084506f12f417a6a2b1",
+      "bytes": 10868
+    },
+    {
+      "source": "h5/public/docs/mist/walk-interior-generation.json",
+      "destination": "SourceArchive~/h5/public/docs/mist/walk-interior-generation.json",
+      "sha256": "2e355c7f9695be9352c248f6e6988d99ad58f177d40f1151154ec376db7333d0",
+      "bytes": 3724
+    },
+    {
+      "source": "h5/public/docs/mist/walk-low-step-generation.json",
+      "destination": "SourceArchive~/h5/public/docs/mist/walk-low-step-generation.json",
+      "sha256": "8c58b002618d11e4b88bd099e009d152f1ab0d72794c064ca9b32e76381f9a21",
+      "bytes": 2143
+    },
+    {
+      "source": "h5/public/docs/mist/xulan-identity-generation.json",
+      "destination": "SourceArchive~/h5/public/docs/mist/xulan-identity-generation.json",
+      "sha256": "21e1db0cfc249d54b0511b7ee935f0200fc3e6b8519a633ce43993766aa2ac7f",
+      "bytes": 2184
+    },
+    {
+      "source": "h5/public/mist-art.js",
+      "destination": "SourceArchive~/h5/public/mist-art.js",
+      "sha256": "36615dd38e4e497679434bb930c98e468b6113117495871795c5d94ea1a280a9",
+      "bytes": 2071
+    },
+    {
+      "source": "h5/public/mist-walk-art.js",
+      "destination": "SourceArchive~/h5/public/mist-walk-art.js",
+      "sha256": "d0011ed55a610ca6668a09919dca36bad48624d41bb83c2e43252e0a2cd72514",
+      "bytes": 4771
+    },
+    {
+      "source": "h5/public/game-data.js",
+      "destination": "SourceArchive~/h5/public/game-data.js",
+      "sha256": "f08994cac215e1e3cfb0b13df2eb42adef1b30bc5b482c1e846bd7079e1742eb",
+      "bytes": 11043
+    },
+    {
+      "source": "h5/public/mist-data.js",
+      "destination": "SourceArchive~/h5/public/mist-data.js",
+      "sha256": "9c34245db1e75b208367f20a466313623cf32a6869df92b5db7a7f127768460a",
+      "bytes": 16125
+    },
+    {
+      "source": "h5/public/mist-walk-data.js",
+      "destination": "SourceArchive~/h5/public/mist-walk-data.js",
+      "sha256": "30036cb2bc44ebdab1245c1590f8ed722f21b2a897e034efcd1396b57cb84f8f",
+      "bytes": 5590
+    },
+    {
+      "source": "h5/public/mist-player-rig-data.js",
+      "destination": "SourceArchive~/h5/public/mist-player-rig-data.js",
+      "sha256": "b44e3e1c78ff1406d2594f9815905d269633098ebf538a17ad7ae2c9152416f9",
+      "bytes": 16207
+    },
+    {
+      "source": "user-downloads/harumachimusic-underwater-mysterious-ambient-music-297537.mp3",
+      "destination": "SourceArchive~/Audio/Pixabay/harumachimusic-underwater-mysterious-ambient-music-297537.mp3",
+      "sha256": "97093b6da247c46b2aaeb96c10109097665d8afad77afcfd167a9dd6cb370160",
+      "bytes": 4001280,
+      "sourceUrl": "https://pixabay.com/music/mystery-underwater-mysterious-ambient-music-297537/"
+    },
+    {
+      "source": "user-downloads/mondamusic-mystery-mysterious-mystical-519335.mp3",
+      "destination": "SourceArchive~/Audio/Pixabay/mondamusic-mystery-mysterious-mystical-519335.mp3",
+      "sha256": "01d97304c3f291204fdc3043e32d82313ea2cf2bb3204c38d3a87754fb118e49",
+      "bytes": 3841044,
+      "sourceUrl": "https://pixabay.com/music/modern-classical-mystery-mysterious-mystical-519335/"
+    }
+  ],
+  "activeArt": {
+    "harbor": "Assets/GuanshanYouyan/Art/WebLibrary/mist/harbor-native-87e529f8e528-webp.png",
+    "warehouse": "Assets/GuanshanYouyan/Art/WebLibrary/mist/warehouse-native-2bf29f121e74-webp.png",
+    "town": "Assets/GuanshanYouyan/Art/WebLibrary/mist/town-native-e483c751300f-webp.png",
+    "interview": "Assets/GuanshanYouyan/Art/WebLibrary/mist/interview-native-92e5c241cc8c-webp.png",
+    "walker": "Assets/GuanshanYouyan/Art/WebLibrary/walk/player-illustrated-textures-fff091fd9a6d-webp.png",
+    "walk-warehouse": "Assets/GuanshanYouyan/Art/WebLibrary/walk/warehouse-014e95e3b701-webp.png",
+    "walk-harbor": "Assets/GuanshanYouyan/Art/WebLibrary/walk/harbor-a3054dfad7e5-webp.png",
+    "walk-town": "Assets/GuanshanYouyan/Art/WebLibrary/walk/town-92aa998001cf-webp.png",
+    "walk-interview": "Assets/GuanshanYouyan/Art/WebLibrary/walk/interview-658fd8db75e4-webp.png",
+    "walk-records": "Assets/GuanshanYouyan/Art/WebLibrary/walk/records-4fd6c884aca0-webp.png",
+    "cast": "Assets/GuanshanYouyan/Art/WebLibrary/walk/cast-d4a485401ab5-webp.png",
+    "walk-inspection": "Assets/GuanshanYouyan/Art/WebLibrary/walk/inspection-db347457fd9a-webp.png",
+    "walk-dispatch": "Assets/GuanshanYouyan/Art/WebLibrary/walk/dispatch-61b7046f3eb7-webp.png",
+    "walk-archive": "Assets/GuanshanYouyan/Art/WebLibrary/walk/archive-e78597af2451-webp.png",
+    "mentor": "Assets/GuanshanYouyan/Art/WebLibrary/walk/mentor-original-c5f6a7069788-webp.png",
+    "shuttle": "Assets/GuanshanYouyan/Art/WebLibrary/walk/shuttle-illustrated-b832fcdcf1e5-webp.png"
+  },
+  "notes": [
+    "Snapshot excludes dist duplicates, test screenshots, benchmarks, node_modules and .blend1 backups.",
+    "SourceArchive~ retains original browser formats, Blender files and source data without triggering Unity imports.",
+    "PNG conversions preserve decoded RGBA pixels; SVG is rasterized.",
+    "Only resources and data are migrated; H5 JavaScript gameplay is not a Unity implementation.",
+    "Current scene backgrounds are illustrations, not a prepared terrain RuleTile tileset."
+  ],
+  "activeEntries": [
+    {
+      "key": "harbor",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/harbor-native-87e529f8e528-webp.png"
+    },
+    {
+      "key": "warehouse",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/warehouse-native-2bf29f121e74-webp.png"
+    },
+    {
+      "key": "town",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/town-native-e483c751300f-webp.png"
+    },
+    {
+      "key": "interview",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/mist/interview-native-92e5c241cc8c-webp.png"
+    },
+    {
+      "key": "walker",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/player-illustrated-textures-fff091fd9a6d-webp.png"
+    },
+    {
+      "key": "walk-warehouse",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/warehouse-014e95e3b701-webp.png"
+    },
+    {
+      "key": "walk-harbor",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/harbor-a3054dfad7e5-webp.png"
+    },
+    {
+      "key": "walk-town",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/town-92aa998001cf-webp.png"
+    },
+    {
+      "key": "walk-interview",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/interview-658fd8db75e4-webp.png"
+    },
+    {
+      "key": "walk-records",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/records-4fd6c884aca0-webp.png"
+    },
+    {
+      "key": "cast",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/cast-d4a485401ab5-webp.png"
+    },
+    {
+      "key": "walk-inspection",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/inspection-db347457fd9a-webp.png"
+    },
+    {
+      "key": "walk-dispatch",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/dispatch-61b7046f3eb7-webp.png"
+    },
+    {
+      "key": "walk-archive",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/archive-e78597af2451-webp.png"
+    },
+    {
+      "key": "mentor",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/mentor-original-c5f6a7069788-webp.png"
+    },
+    {
+      "key": "shuttle",
+      "destination": "Assets/GuanshanYouyan/Art/WebLibrary/walk/shuttle-illustrated-b832fcdcf1e5-webp.png"
+    }
+  ]
+}

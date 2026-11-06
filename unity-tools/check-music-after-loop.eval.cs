@@ -1,0 +1,20 @@
+var before = Newtonsoft.Json.Linq.JObject.Parse(System.IO.File.ReadAllText("ImportReports/music-playback-before-loop.json"));
+var sources = UnityEngine.GameObject.Find("背景音乐 BGM").GetComponentsInChildren<UnityEngine.AudioSource>();
+var layers = System.Array.ConvertAll(sources, source => {
+    var previous = System.Linq.Enumerable.First(before["layers"], item => (string)item["clip"] == source.clip.name);
+    var start = (int)previous["seekSample"];
+    var wrapped = source.timeSamples < start;
+    if (!source.isPlaying || !wrapped) throw new System.Exception("Loop did not continue: " + source.clip.name);
+    var data = new float[2048];
+    source.GetOutputData(data, 0);
+    float peak = 0;
+    foreach (var sample in data) peak = System.Math.Max(peak, System.Math.Abs(sample));
+    return new { clip = source.clip.name, playing = source.isPlaying, outputPeak = peak, wrapped = wrapped, timeSamples = source.timeSamples, loop = source.loop };
+});
+var mixed = new float[2048];
+UnityEngine.AudioListener.GetOutputData(mixed, 0);
+float mixedPeak = 0;
+foreach (var sample in mixed) mixedPeak = System.Math.Max(mixedPeak, System.Math.Abs(sample));
+var report = new { success = true, verifiedAt = System.DateTime.UtcNow.ToString("o"), frameAdvanced = UnityEngine.Time.frameCount > (int)before["frame"], elapsedDspSeconds = UnityEngine.AudioSettings.dspTime - (double)before["dspTime"], mixedPeak = mixedPeak, layers = layers };
+System.IO.File.WriteAllText("ImportReports/music-playback-validation.json", Newtonsoft.Json.JsonConvert.SerializeObject(report, Newtonsoft.Json.Formatting.Indented));
+return report;

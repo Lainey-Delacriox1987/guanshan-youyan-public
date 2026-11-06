@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: 362878bde9a1eee4d8aff052df05d79c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 606304195738937996
+    second: LinJian-illustrated-torso-edit_0
+  - first:
+      213: 8815134034179786592
+    second: LinJian-illustrated-torso-edit_1
+  - first:
+      213: 111115817285144161
+    second: LinJian-illustrated-torso-edit_2
+  - first:
+      213: -8962983083821287576
+    second: LinJian-illustrated-torso-edit_3
+  - first:
+      213: -3332230798447569144
+    second: LinJian-illustrated-torso-edit_4
+  - first:
+      213: 1638367400861691264
+    second: LinJian-illustrated-torso-edit_5
+  - first:
+      213: 182133704553379629
+    second: LinJian-illustrated-torso-edit_6
+  - first:
+      213: 6081357190619635166
+    second: LinJian-illustrated-torso-edit_7
+  - first:
+      213: -5527910661919227636
+    second: LinJian-illustrated-torso-edit_8
+  - first:
+      213: 9165368865666279737
+    second: LinJian-illustrated-torso-edit_9
+  - first:
+      213: -4967386480295297367
+    second: LinJian-illustrated-torso-edit_10
+  - first:
+      213: 6966110877620666375
+    second: LinJian-illustrated-torso-edit_11
+  - first:
+      213: -4466331748121387673
+    second: LinJian-illustrated-torso-edit_12
+  - first:
+      213: -769114191396015068
+    second: LinJian-illustrated-torso-edit_13
+  - first:
+      213: -512892091898392552
+    second: LinJian-illustrated-torso-edit_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LinJian-illustrated-torso-edit_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 792
+        width: 531
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a29d424760a6800800000000000000
+      internalID: 606304195738937996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-torso-edit_1
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1322
+        width: 43
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0670eb213b5a55a70800000000000000
+      internalID: 8815134034179786592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-torso-edit_2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 726
+        width: 335
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e45324f33ca8100800000000000000
+      internalID: 111115817285144161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-torso-edit_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1229
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8673ff88f561d9380800000000000000
+      internalID: -8962983083821287576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-torso-edit_4
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 871
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8079ae46eb981c1d0800000000000000
+      internalID: -3332230798447569144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-torso-edit_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 19
+        width: 553
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08de0fb7876acb610800000000000000
+      internalID: 1638367400861691264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-torso-edit_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 711
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27b789a3a1178200800000000000000
+      internalID: 182133704553379629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-torso-edit_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 31
+        width: 365
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd962bf422556450800000000000000
+      internalID: 6081357190619635166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-torso-edit_8
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 587
+        width: 21
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01c5368a8ae843b0800000000000000
+      internalID: -5527910661919227636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-torso-edit_9
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 495
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939a6715c6ee13f70800000000000000
+      internalID: 9165368865666279737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-torso-edit_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 493
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aebbe3805c401bb0800000000000000
+      internalID: -4967386480295297367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-torso-edit_11
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 463
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70080966fe89ca060800000000000000
+      internalID: 6966110877620666375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-torso-edit_12
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 399
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ddc2050f66402c0800000000000000
+      internalID: -4466331748121387673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-torso-edit_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 405
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424f026c7be8355f0800000000000000
+      internalID: -769114191396015068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-torso-edit_14
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 137
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8101a4e1c57d1e8f0800000000000000
+      internalID: -512892091898392552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

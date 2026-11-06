@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: d1a560965e4d7e842bab9a3c5938be28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2549598066681829266
+    second: player-gait-16826b1c0b3d-webp_0
+  - first:
+      213: -8301957653068022131
+    second: player-gait-16826b1c0b3d-webp_1
+  - first:
+      213: 3591951570558376083
+    second: player-gait-16826b1c0b3d-webp_2
+  - first:
+      213: -1949672902845991201
+    second: player-gait-16826b1c0b3d-webp_3
+  - first:
+      213: 8769005680868726655
+    second: player-gait-16826b1c0b3d-webp_4
+  - first:
+      213: 7921822580694351387
+    second: player-gait-16826b1c0b3d-webp_5
+  - first:
+      213: -503195863499942678
+    second: player-gait-16826b1c0b3d-webp_6
+  - first:
+      213: 6215582200088651726
+    second: player-gait-16826b1c0b3d-webp_7
+  - first:
+      213: -2761565940296856946
+    second: player-gait-16826b1c0b3d-webp_8
+  - first:
+      213: -9213551253467944701
+    second: player-gait-16826b1c0b3d-webp_9
+  - first:
+      213: -4408234971814668269
+    second: player-gait-16826b1c0b3d-webp_10
+  - first:
+      213: -1156615930917568285
+    second: player-gait-16826b1c0b3d-webp_11
+  - first:
+      213: 2563776314259381339
+    second: player-gait-16826b1c0b3d-webp_12
+  - first:
+      213: 2589333506316827851
+    second: player-gait-16826b1c0b3d-webp_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player-gait-16826b1c0b3d-webp_0
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1303
+        width: 127
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297d79ceeedf16320800000000000000
+      internalID: 2549598066681829266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-gait-16826b1c0b3d-webp_1
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1303
+        width: 360
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e7b8c008589cc80800000000000000
+      internalID: -8301957653068022131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-gait-16826b1c0b3d-webp_2
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1303
+        width: 268
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398d9852cec29d130800000000000000
+      internalID: 3591951570558376083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-gait-16826b1c0b3d-webp_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 663
+        width: 225
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6f8ad13de51f4e0800000000000000
+      internalID: -1949672902845991201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-gait-16826b1c0b3d-webp_4
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1216
+        width: 83
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f771091e434c1b970800000000000000
+      internalID: 8769005680868726655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-gait-16826b1c0b3d-webp_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 663
+        width: 267
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e74ff5aa7ffed60800000000000000
+      internalID: 7921822580694351387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-gait-16826b1c0b3d-webp_6
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1218
+        width: 70
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4d3a7370a4409f0800000000000000
+      internalID: -503195863499942678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-gait-16826b1c0b3d-webp_7
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 663
+        width: 406
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec76684541f224650800000000000000
+      internalID: 6215582200088651726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-gait-16826b1c0b3d-webp_8
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1119
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ac9c0a862fca9d0800000000000000
+      internalID: -2761565940296856946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-gait-16826b1c0b3d-webp_9
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1133
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309203153f3e22080800000000000000
+      internalID: -9213551253467944701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-gait-16826b1c0b3d-webp_10
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1133
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318588226adc2d2c0800000000000000
+      internalID: -4408234971814668269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-gait-16826b1c0b3d-webp_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 23
+        width: 304
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0c91850ffd2ffe0800000000000000
+      internalID: -1156615930917568285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-gait-16826b1c0b3d-webp_12
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 23
+        width: 264
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c9dfe69fc549320800000000000000
+      internalID: 2563776314259381339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-gait-16826b1c0b3d-webp_13
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 23
+        width: 411
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccf709ea192fe320800000000000000
+      internalID: 2589333506316827851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

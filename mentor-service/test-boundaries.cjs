@@ -1,0 +1,12 @@
+const assert=require('assert/strict'),fs=require('fs'),path=require('path');
+const {context,constrain,allowedOrigin}=require('./server.cjs');
+const checked=[];const test=(name,run)=>{run();checked.push(name);};
+test('no whole-save or hidden material context',()=>{const c=context({chapter:0,materials:['weight','dispatch'],events:['letterReceived','unknown'],journal:[{secret:'not sent'}]});assert(c.text.includes('800kg'));assert(!c.text.includes('修改签字'));assert(!c.text.includes('not sent'));assert(!c.owned.has('dispatch'));});
+test('new data cannot enter a guarded reply',()=>{const c=context({chapter:0,materials:['weight'],events:[]});assert(constrain('净重差900公斤。',c).guarded);});
+test('known numeric comparison stays model output',()=>{const c=context({chapter:0,materials:['weight'],events:[]});const r=constrain('同票净重1260与800相差460，先报告再核对品名。',c);assert(!r.guarded);});
+test('unknown people and later address guarded',()=>{const c=context({chapter:0,materials:[],events:['letterReceived']});assert(constrain('陈渡把货送到了青禾镇17号。',c).guarded);});
+test('later events excluded from early chapter',()=>{const c=context({chapter:0,materials:[],events:['letterIdentity','roleQuestioned']});assert(!c.text.includes('老赵'));assert(!c.text.includes('补充回应'));});
+test('species and guilt cannot be invented',()=>{const c=context({chapter:2,materials:['wildlife'],events:['observed']});assert(constrain('这是穿山甲鳞片，陈渡一定有罪。',c).guarded);});
+test('loopback-only browser origins',()=>{assert(allowedOrigin('http://127.0.0.1:8731'));assert(allowedOrigin('http://localhost:8731'));assert(!allowedOrigin('https://example.com'));});
+const output={success:true,checked,scope:'Deterministic context/output guards only; no real model response is claimed',verifiedAt:new Date().toISOString()};
+fs.writeFileSync(path.resolve(__dirname,'../unity/GuanshanYouyan2D/ImportReports/mentor-boundary-tests.json'),JSON.stringify(output,null,2));console.log(JSON.stringify(output,null,2));

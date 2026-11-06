@@ -1,0 +1,1854 @@
+{
+  "version": 2,
+  "chapter": 1,
+  "title": "关山有眼 · 雾港来信",
+  "subtitle": "四幕调查故事",
+  "rooms": [
+    {
+      "id": "harbor",
+      "act": 0,
+      "title": "雾港 · 查验区",
+      "floor": -1.35,
+      "mentorX": 5.4,
+      "spawn": 3.4,
+      "spots": [
+        {
+          "id": "departure",
+          "title": "接驳车",
+          "kind": "travel",
+          "x": 2.4,
+          "target": "warehouse",
+          "actor": -1
+        },
+        {
+          "id": "mentor",
+          "title": "许岚",
+          "kind": "mentor",
+          "x": 5.4,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "handover",
+          "title": "值班员",
+          "kind": "action",
+          "x": 7.5,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "seal",
+          "title": "交接标签",
+          "kind": "action",
+          "x": 11.7,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "cargo",
+          "title": "查验货箱",
+          "kind": "action",
+          "x": 15.1,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "door",
+          "title": "查验办公室",
+          "kind": "door",
+          "x": 21.5,
+          "target": "inspection",
+          "actor": -1
+        }
+      ],
+      "actors": [
+        {
+          "actor": 4,
+          "x": 5.4
+        },
+        {
+          "actor": 5,
+          "x": 7.5
+        }
+      ],
+      "strip": 0.25
+    },
+    {
+      "id": "inspection",
+      "act": 0,
+      "title": "查验办公室",
+      "floor": -2.5,
+      "mentorX": 12.7,
+      "spawn": 3.4,
+      "spots": [
+        {
+          "id": "door",
+          "title": "返回堆场",
+          "kind": "door",
+          "x": 2.4,
+          "target": "harbor",
+          "actor": -1
+        },
+        {
+          "id": "weight",
+          "title": "重量记录",
+          "kind": "action",
+          "x": 8.1,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "mentor",
+          "title": "许岚",
+          "kind": "mentor",
+          "x": 12.7,
+          "target": "",
+          "actor": -1
+        }
+      ],
+      "actors": [
+        {
+          "actor": 4,
+          "x": 12.7
+        }
+      ],
+      "strip": 0.12
+    },
+    {
+      "id": "warehouse",
+      "act": 1,
+      "title": "顺达仓库 · 分拣区",
+      "floor": -2.1,
+      "mentorX": 14.1,
+      "spawn": 3.4,
+      "spots": [
+        {
+          "id": "back",
+          "title": "港口接驳车",
+          "kind": "travel",
+          "x": 1.5,
+          "target": "harbor",
+          "actor": -1
+        },
+        {
+          "id": "parcels",
+          "title": "原始入库联与子运单",
+          "kind": "action",
+          "x": 6.3,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "worker",
+          "title": "老赵",
+          "kind": "worker",
+          "x": 10.8,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "mentor",
+          "title": "许岚",
+          "kind": "mentor",
+          "x": 14.1,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "door",
+          "title": "楼梯 · 上调度室",
+          "kind": "door",
+          "x": 16.5,
+          "target": "dispatch",
+          "actor": -1
+        },
+        {
+          "id": "advance",
+          "title": "去青禾镇",
+          "kind": "travel",
+          "x": 23.1,
+          "target": "town",
+          "actor": -1
+        }
+      ],
+      "actors": [
+        {
+          "actor": 6,
+          "x": 10.8
+        },
+        {
+          "actor": 4,
+          "x": 14.1
+        }
+      ],
+      "strip": 0.2
+    },
+    {
+      "id": "dispatch",
+      "act": 1,
+      "title": "顺达仓库 · 二层调度室",
+      "floor": -2.1,
+      "mentorX": 17,
+      "spawn": 3.4,
+      "spots": [
+        {
+          "id": "door",
+          "title": "楼梯 · 回分拣区",
+          "kind": "door",
+          "x": 2.4,
+          "target": "warehouse",
+          "actor": -1
+        },
+        {
+          "id": "camera",
+          "title": "出库复核与装车影像",
+          "kind": "action",
+          "x": 7.2,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "dispatch",
+          "title": "目的地修改登记",
+          "kind": "action",
+          "x": 12.9,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "mentor",
+          "title": "许岚",
+          "kind": "mentor",
+          "x": 17,
+          "target": "",
+          "actor": -1
+        }
+      ],
+      "actors": [
+        {
+          "actor": 4,
+          "x": 17
+        }
+      ],
+      "strip": 0.2
+    },
+    {
+      "id": "town",
+      "act": 2,
+      "title": "青禾镇 · 禾记美妆街巷",
+      "floor": -1.25,
+      "mentorX": 18.5,
+      "spawn": 3.4,
+      "spots": [
+        {
+          "id": "back",
+          "title": "返回仓库",
+          "kind": "travel",
+          "x": 1,
+          "target": "warehouse",
+          "actor": -1
+        },
+        {
+          "id": "courier",
+          "title": "周叔",
+          "kind": "action",
+          "x": 3.6,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "door",
+          "title": "禾记美妆",
+          "kind": "door",
+          "x": 10.1,
+          "target": "records",
+          "actor": -1
+        },
+        {
+          "id": "shelf",
+          "title": "橱窗与到货清单",
+          "kind": "action",
+          "x": 13.7,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "denial",
+          "title": "联系陈渡",
+          "kind": "action",
+          "x": 17,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "mentor",
+          "title": "许岚",
+          "kind": "mentor",
+          "x": 18.5,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "advance",
+          "title": "前往调查中心",
+          "kind": "travel",
+          "x": 22.6,
+          "target": "interview",
+          "actor": -1
+        }
+      ],
+      "actors": [
+        {
+          "actor": 8,
+          "x": 3.6
+        },
+        {
+          "actor": 4,
+          "x": 18.5
+        }
+      ],
+      "strip": 0.3
+    },
+    {
+      "id": "records",
+      "act": 2,
+      "title": "禾记美妆 · 店内与后室",
+      "floor": -2.1,
+      "mentorX": 20.4,
+      "spawn": 3.4,
+      "spots": [
+        {
+          "id": "door",
+          "title": "返回街巷",
+          "kind": "door",
+          "x": 2.4,
+          "target": "town",
+          "actor": -1
+        },
+        {
+          "id": "shopShare",
+          "title": "苏禾",
+          "kind": "shop",
+          "x": 6.5,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "account",
+          "title": "历史结算账簿",
+          "kind": "action",
+          "x": 11.8,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "wildlife",
+          "title": "待核物件",
+          "kind": "ecology",
+          "x": 16,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "mentor",
+          "title": "许岚",
+          "kind": "mentor",
+          "x": 20.4,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "backdoor",
+          "title": "后门 · 返回街巷",
+          "kind": "door",
+          "x": 22,
+          "target": "town",
+          "actor": -1
+        }
+      ],
+      "actors": [
+        {
+          "actor": 7,
+          "x": 6.5
+        },
+        {
+          "actor": 4,
+          "x": 20.4
+        }
+      ],
+      "strip": 0.2
+    },
+    {
+      "id": "interview",
+      "act": 3,
+      "title": "调查中心 · 询问室",
+      "floor": -2.1,
+      "mentorX": 5.3,
+      "spawn": 3.4,
+      "spots": [
+        {
+          "id": "back",
+          "title": "返回青禾镇",
+          "kind": "travel",
+          "x": 1,
+          "target": "town",
+          "actor": -1
+        },
+        {
+          "id": "mentor",
+          "title": "许岚",
+          "kind": "mentor",
+          "x": 5.3,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "suspect",
+          "title": "陈渡",
+          "kind": "inquiries",
+          "x": 12.8,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "door",
+          "title": "电梯 · 案卷室",
+          "kind": "door",
+          "x": 21.8,
+          "target": "archive",
+          "actor": -1
+        }
+      ],
+      "actors": [
+        {
+          "actor": 4,
+          "x": 5.3
+        },
+        {
+          "actor": 9,
+          "x": 12.8
+        }
+      ],
+      "strip": 0.2
+    },
+    {
+      "id": "archive",
+      "act": 3,
+      "title": "调查中心 · 案卷室",
+      "floor": -1.95,
+      "mentorX": 19.1,
+      "spawn": 3.4,
+      "spots": [
+        {
+          "id": "door",
+          "title": "电梯 · 询问室",
+          "kind": "door",
+          "x": 2.4,
+          "target": "interview",
+          "actor": -1
+        },
+        {
+          "id": "board",
+          "title": "已核对关系",
+          "kind": "board",
+          "x": 7.8,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "notes",
+          "title": "调查手记",
+          "kind": "notes",
+          "x": 13.2,
+          "target": "",
+          "actor": -1
+        },
+        {
+          "id": "mentor",
+          "title": "许岚 · 开始复盘",
+          "kind": "mentor",
+          "x": 19.1,
+          "target": "",
+          "actor": -1
+        }
+      ],
+      "actors": [
+        {
+          "actor": 4,
+          "x": 19.1
+        }
+      ],
+      "strip": 0.2
+    }
+  ],
+  "materials": [
+    {
+      "id": "weight",
+      "title": "QJ-017 · 重量比对",
+      "kind": "记录",
+      "text": "第一日16:40，同票、同一净重口径：申报收纳盒800kg，复核1260kg，差460kg。重量差不能单独解释成因。",
+      "act": 0
+    },
+    {
+      "id": "seal",
+      "title": "标签边缘 · 胶痕观察",
+      "kind": "待核观察",
+      "text": "你亲自观察到两层胶痕。仅凭外观不能证明擅自启封。",
+      "act": 0
+    },
+    {
+      "id": "cargo",
+      "title": "QJ-017 · 查验实物",
+      "kind": "记录",
+      "text": "当前票实物为乳霜等化妆品，生产批次K17，与申报收纳盒不一致。K17不能单独证明同一票货物。",
+      "act": 0
+    },
+    {
+      "id": "handover",
+      "title": "计划交接 · 历史往来附件",
+      "kind": "记录",
+      "text": "当前QJ-017计划送顺达仓库，联系人陈渡。附件提到两天前的历史仓储作业SD-0615。计划不等于已出港；历史作业另行核对。",
+      "act": 0
+    },
+    {
+      "id": "parcels",
+      "title": "SD-0615 · 原始入库联与子运单",
+      "kind": "记录",
+      "text": "调查开始前两日，原始入库联的作业单号为SD-0615，登记品名为日用收纳盒。A/B/C子运单均关联该主单，只用于核对作业归属和去向；姓名不同或集中送达本身不构成异常。境内作业单不是进口手续证明。",
+      "act": 1
+    },
+    {
+      "id": "camera",
+      "title": "SD-0615 · 出库复核与装车影像",
+      "kind": "记录",
+      "text": "调查开始前两日，出库复核影像归档在SD-0615下，开箱照片显示成箱乳霜，并记录随后分为A/B/C三个包裹组装车。它与同作业单原始入库联的收纳盒品名不符，原因待查；不能仅凭影像确定谁填写品名或谁了解进口手续。",
+      "act": 1
+    },
+    {
+      "id": "dispatch",
+      "title": "SD-0615 · 目的地修改登记",
+      "kind": "记录",
+      "text": "调查开始前两日，原分散交接地点被改为青禾镇17号集中交接；登记有陈渡签字。调整目的地本身不能直接判为违法。",
+      "act": 1
+    },
+    {
+      "id": "worker",
+      "title": "老赵 · 经手说明与来信回收",
+      "kind": "经手陈述",
+      "text": "老赵经手的是调查开始前两日SD-0615的收发记录，未代其他人确认全部行为。他确认自己向线索受理渠道提交了开场来信。",
+      "act": 1
+    },
+    {
+      "id": "shelf",
+      "title": "禾记美妆 · 商品与到货匹配",
+      "kind": "记录",
+      "text": "店内商品批次K17，到货清单列SD-0615及A/B/C子单范围，日期为调查开始前一日。主单和到货清单相符，才支持与历史作业的对应。",
+      "act": 2
+    },
+    {
+      "id": "account",
+      "title": "SD-0615 · 店铺结算记录",
+      "kind": "记录",
+      "text": "店主提供的账簿列SD-0615供货，结算联系人陈渡。仅记名不足以认定资金最终归属，仍需核对付款与结算关系。",
+      "act": 2
+    },
+    {
+      "id": "courier",
+      "title": "SD-0615 · 签收及交接附件",
+      "kind": "记录",
+      "text": "周叔提供调查开始前一日的交接记录和附件，地点青禾镇17号，陈渡参与现场交接。只说明该次交接，不说明进口环节或全部责任。",
+      "act": 2
+    },
+    {
+      "id": "S1",
+      "title": "S1 · 陈渡首次电话陈述",
+      "kind": "陈述",
+      "text": "第二日17:10，在许岚在场的电话中，陈渡说：“我负责联系运输，没到青禾镇现场，也不清楚店里具体怎么收货。”陈述确被记录，内容仍待核对。",
+      "act": 2
+    },
+    {
+      "id": "wildlife",
+      "title": "待核物件 · 独立生态线索",
+      "kind": "旁支观察",
+      "text": "店内一块所谓护身片。没有鉴定结果，材质、物种与来源均无法确认，不能并入K17主线或用作人员组织关系的证据。",
+      "act": 2
+    }
+  ],
+  "actions": [
+    {
+      "id": "prologue",
+      "title": "一封未署名的信",
+      "room": "",
+      "x": 0,
+      "required": [],
+      "gives": [
+        "letterReceived"
+      ],
+      "lines": [
+        {
+          "speaker": "旁白",
+          "text": "雾港。你是林见，第一次跟随许岚参与现场核查。"
+        },
+        {
+          "speaker": "来信摘要",
+          "text": "“我是顺达仓库的收发员。前两天，SD-0615的原始入库联写着‘日用收纳盒’，出库复核记录里却是成箱乳霜。我经手过收货，但不知道两处品名为什么对不上。原始入库联和复核影像还在，请求帮忙核对。”"
+        },
+        {
+          "speaker": "旁白",
+          "text": "一封信只能提供方向。你们今天要核对的一票货，也计划送往顺达仓库。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "act": 0,
+      "actor": 3,
+      "feedback": "请先比较同票、同口径记录，再计算净重差。"
+    },
+    {
+      "id": "intro",
+      "title": "先从哪里查起？",
+      "room": "harbor",
+      "x": 5.4,
+      "required": [
+        "letterReceived"
+      ],
+      "gives": [
+        "introDone"
+      ],
+      "lines": [
+        {
+          "speaker": "许岚",
+          "text": "信里说了什么，先记着。我们先核对眼前这份货单。"
+        },
+        {
+          "speaker": "林见",
+          "text": "从哪里看？"
+        },
+        {
+          "speaker": "许岚",
+          "text": "先进右边的查验办公室，确认申报和复核记录说的是同一票货，再比较计量口径。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "act": 0,
+      "actor": 4,
+      "feedback": "请先比较同票、同口径记录，再计算净重差。"
+    },
+    {
+      "id": "weight",
+      "title": "核对重量记录",
+      "room": "inspection",
+      "x": 8.1,
+      "required": [
+        "letterReceived"
+      ],
+      "gives": [
+        "weight"
+      ],
+      "lines": [
+        {
+          "speaker": "记录",
+          "text": "第一日 16:40｜票号 QJ-017\n申报品名：收纳盒；申报净重 800 kg。\n同票复核净重 1260 kg；计量口径一致。"
+        },
+        {
+          "speaker": "林见",
+          "text": "同一票、同一计量口径，多了460公斤。重量差值得报告，但它还解释不了原因。"
+        }
+      ],
+      "choices": [
+        "净重多出 460 kg",
+        "净重多出 2060 kg",
+        "仅凭重量差就能确定组织者"
+      ],
+      "correct": 0,
+      "act": 0,
+      "actor": 3,
+      "feedback": "请先比较同票、同口径记录，再计算净重差。"
+    },
+    {
+      "id": "seal",
+      "title": "观察交接标签",
+      "room": "harbor",
+      "x": 11.7,
+      "required": [
+        "letterReceived"
+      ],
+      "gives": [
+        "seal"
+      ],
+      "lines": [
+        {
+          "speaker": "林见",
+          "text": "标签边缘有两层胶痕，编号可以辨认。先记录为待解释的外观观察。"
+        },
+        {
+          "speaker": "许岚",
+          "text": "得看交接记录怎么解释。胶痕本身不能证明有人擅自启封。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "act": 0,
+      "actor": 3,
+      "feedback": "请先比较同票、同口径记录，再计算净重差。"
+    },
+    {
+      "id": "reportWeight",
+      "title": "报告重量差异",
+      "room": "*",
+      "x": 0,
+      "required": [
+        "weight"
+      ],
+      "gives": [
+        "inspectionReady"
+      ],
+      "lines": [
+        {
+          "speaker": "林见",
+          "text": "QJ-017 的两份记录口径一致，净重差460公斤。"
+        },
+        {
+          "speaker": "许岚",
+          "text": "重量还解释不了品名。后续查验已经安排，我们去堆场查验点记录结果。"
+        },
+        {
+          "speaker": "许岚",
+          "text": "另外，交接记录说明标签覆盖了旧胶痕。这份核验说明不能证明擅自启封；也不代表其他异常已解释。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "act": 0,
+      "actor": 4,
+      "feedback": "请先比较同票、同口径记录，再计算净重差。"
+    },
+    {
+      "id": "cargo",
+      "title": "查看查验实物",
+      "room": "harbor",
+      "x": 15.1,
+      "required": [
+        "weight",
+        "inspectionReady"
+      ],
+      "gives": [
+        "cargo"
+      ],
+      "lines": [
+        {
+          "speaker": "查验记录",
+          "text": "第一日｜当前票 QJ-017\n申报：收纳盒。\n实物：乳霜等化妆品；生产批次 K17。"
+        },
+        {
+          "speaker": "林见",
+          "text": "申报的是收纳盒，里面却是乳霜。"
+        },
+        {
+          "speaker": "许岚",
+          "text": "票号、品名、批次分别记清。K17 是生产批次，不是一票货物的唯一身份。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "act": 0,
+      "actor": 3,
+      "feedback": "请先比较同票、同口径记录，再计算净重差。"
+    },
+    {
+      "id": "handover",
+      "title": "询问计划去向",
+      "room": "harbor",
+      "x": 7.5,
+      "required": [
+        "letterReceived"
+      ],
+      "gives": [
+        "handover"
+      ],
+      "lines": [
+        {
+          "speaker": "值班员",
+          "text": "这票还没出去。计划送顺达仓库，联系人是陈渡。"
+        },
+        {
+          "speaker": "值班员",
+          "text": "这是计划交接的副本。附件里还有他前两天的仓储往来，作业单 SD-0615。"
+        },
+        {
+          "speaker": "林见",
+          "text": "“计划送达”不等于已经出港。附件里的旧出货，要另查当时的记录。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "act": 0,
+      "actor": 5,
+      "feedback": "请先比较同票、同口径记录，再计算净重差。"
+    },
+    {
+      "id": "departure",
+      "title": "带着记录出发",
+      "room": "harbor",
+      "x": 2.4,
+      "required": [
+        "portMismatch",
+        "portDestination"
+      ],
+      "gives": [
+        "act1Complete"
+      ],
+      "lines": [
+        {
+          "speaker": "许岚",
+          "text": "走吧，去顺达仓库核对附件指向的旧出货记录。"
+        },
+        {
+          "speaker": "旁白",
+          "text": "QJ-017 仍留在港区，由负责人员继续处理。你们带走的是记录副本。"
+        },
+        {
+          "speaker": "旁白",
+          "text": "你们带着记录前往顺达。这里要核对的是两天前的 SD-0615，当前 QJ-017 并没有随车离港。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "act": 0,
+      "actor": 4,
+      "feedback": "请先比较同票、同口径记录，再计算净重差。",
+      "destination": "warehouse"
+    },
+    {
+      "id": "workerIntro",
+      "title": "先问老赵经手范围",
+      "act": 1,
+      "room": "warehouse",
+      "x": 10.8,
+      "required": [
+        "act1Complete"
+      ],
+      "gives": [
+        "workerMet"
+      ],
+      "lines": [
+        {
+          "speaker": "老赵",
+          "text": "今天没有拆你们在港口核查的 QJ-017。你们要找的是前两天的 SD-0615。"
+        },
+        {
+          "speaker": "老赵",
+          "text": "分拣台留着原始入库联和子运单，楼上有出库复核影像、调度登记。品名为什么不一样，我也想弄清。"
+        },
+        {
+          "speaker": "林见",
+          "text": "先核对日期和作业单，确认比较的是同一次作业。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "actor": 6,
+      "feedback": "请回看记录的来源与字段。"
+    },
+    {
+      "id": "parcels",
+      "title": "核对原始入库联与子运单",
+      "act": 1,
+      "room": "warehouse",
+      "x": 6.3,
+      "required": [
+        "act1Complete"
+      ],
+      "gives": [
+        "parcels"
+      ],
+      "lines": [
+        {
+          "speaker": "记录",
+          "text": "日期：调查开始前两日\n原始入库联：SD-0615；登记品名：日用收纳盒。\n子运单A/B/C均关联SD-0615。"
+        },
+        {
+          "speaker": "林见",
+          "text": "先确定作业归属，再与出库复核记录比较。收件姓名和集中送达本身不能说明货有问题。"
+        }
+      ],
+      "choices": [
+        "收件姓名不同，所以货物可疑",
+        "原始入库联登记为收纳盒，三个子单同属SD-0615",
+        "仅凭K17认定已经证实同一票进口货"
+      ],
+      "correct": 1,
+      "actor": 3,
+      "feedback": "这里核对的是原始登记和作业归属。是否存在品名差异，要与同次出库复核记录比较，不能靠收件姓名判断。",
+      "inspect": "parcels"
+    },
+    {
+      "id": "camera",
+      "title": "读取出库复核与装车影像",
+      "act": 1,
+      "room": "dispatch",
+      "x": 7.2,
+      "required": [
+        "act1Complete"
+      ],
+      "gives": [
+        "camera"
+      ],
+      "lines": [
+        {
+          "speaker": "记录",
+          "text": "日期：调查开始前两日\n归档作业单：SD-0615。\n出库复核的开箱照片显示成箱乳霜；后续影像记录A/B/C包裹组装车。"
+        },
+        {
+          "speaker": "许岚",
+          "text": "先确认影像对应的日期和作业单。若同一作业的入库联记收纳盒，出库复核却是乳霜，就要查清是登记差错、记录对应错误，还是另有原因。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "actor": 3,
+      "feedback": "请回看记录的来源与字段。",
+      "inspect": "camera"
+    },
+    {
+      "id": "dispatch",
+      "title": "比较目的地修改登记",
+      "act": 1,
+      "room": "dispatch",
+      "x": 12.9,
+      "required": [
+        "act1Complete"
+      ],
+      "gives": [
+        "dispatch"
+      ],
+      "lines": [
+        {
+          "speaker": "记录",
+          "text": "SD-0615 · 调查开始前两日\n原分散交接地点 → 青禾镇17号集中交接\n修改签字：陈渡。"
+        },
+        {
+          "speaker": "林见",
+          "text": "这解释了计划去向。实际是否在那里交接，还得找签收记录。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "actor": 3,
+      "feedback": "请回看记录的来源与字段。",
+      "inspect": "dispatch"
+    },
+    {
+      "id": "worker",
+      "title": "拿具体记录回访老赵",
+      "act": 1,
+      "room": "warehouse",
+      "x": 10.8,
+      "required": [
+        "parcels",
+        "camera",
+        "dispatch"
+      ],
+      "gives": [
+        "worker",
+        "letterIdentity"
+      ],
+      "lines": [
+        {
+          "speaker": "林见",
+          "text": "SD-0615原始入库联写收纳盒，出库复核却记乳霜。你经手的是哪一步？"
+        },
+        {
+          "speaker": "老赵",
+          "text": "我按送来的单据做收货登记，没有拆箱。出库复核是后来做的，我不能替复核人员解释照片之外的事。"
+        },
+        {
+          "speaker": "老赵",
+          "text": "那封信是我递的。我翻到两份记录时发现品名对不上，所以把原始入库联留下来，请你们核对。"
+        },
+        {
+          "speaker": "许岚",
+          "text": "我们会把原始记录、形成时间和你的经手范围分别核实。谢谢你保留资料。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "actor": 6,
+      "feedback": "请回看记录的来源与字段。"
+    },
+    {
+      "id": "warehouseDeparture",
+      "title": "去核对实际交接",
+      "act": 1,
+      "room": "warehouse",
+      "x": 23.1,
+      "required": [
+        "historicalRoute",
+        "worker",
+        "letterIdentity"
+      ],
+      "gives": [
+        "act2Complete"
+      ],
+      "lines": [
+        {
+          "speaker": "许岚",
+          "text": "同次作业的品名记录对不上，原因还没查清。调度登记指向青禾镇17号，我们去核对那里实际收到的货和交接资料。"
+        },
+        {
+          "speaker": "旁白",
+          "text": "你们带着原始入库联、出库复核和调度记录的副本前往青禾镇。集中交接只说明去向；陈渡的具体参与，还需要下一站的材料。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "actor": 4,
+      "feedback": "请回看记录的来源与字段。",
+      "destination": "town"
+    },
+    {
+      "id": "shopShare",
+      "title": "向苏禾说明来意",
+      "act": 2,
+      "room": "records",
+      "x": 6.5,
+      "required": [
+        "act2Complete"
+      ],
+      "gives": [
+        "shopRecordsShared"
+      ],
+      "lines": [
+        {
+          "speaker": "苏禾",
+          "text": "供货人说这批商品没问题，我也担心会影响顾客。你们要核对哪一次？"
+        },
+        {
+          "speaker": "林见",
+          "text": "我们想看 SD-0615 的到货与结算记录，只核对这次具体往来。"
+        },
+        {
+          "speaker": "苏禾",
+          "text": "账簿和到货清单都在这里，可以查。"
+        },
+        {
+          "speaker": "许岚",
+          "text": "先把资料提供的范围记清。配合提供资料，不等于具体责任已经查明。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "actor": 7,
+      "feedback": "请回看记录的来源与字段。"
+    },
+    {
+      "id": "shelf",
+      "title": "核对商品与到货清单",
+      "act": 2,
+      "room": "town",
+      "x": 13.7,
+      "required": [
+        "act2Complete",
+        "shopRecordsShared",
+        "parcels"
+      ],
+      "gives": [
+        "shelf"
+      ],
+      "lines": [
+        {
+          "speaker": "林见",
+          "text": "橱窗商品也是 K17。但批次相同，还不能直接认成那次出货。"
+        },
+        {
+          "speaker": "记录",
+          "text": "店主提供的到货清单：调查开始前一日；SD-0615；子单范围A/B/C。"
+        },
+        {
+          "speaker": "林见",
+          "text": "主作业单和到货清单互相对应，才支持这次历史流转联系。"
+        }
+      ],
+      "choices": [
+        "只看K17便认定同一票货",
+        "把到货清单SD-0615与仓库主子单核对",
+        "进口商品出现在商店就能证明违法"
+      ],
+      "correct": 1,
+      "actor": 3,
+      "feedback": "批次相同只提供方向，请把到货清单的作业单号和子单范围与仓库记录核对。",
+      "inspect": "shelf"
+    },
+    {
+      "id": "account",
+      "title": "查看历史结算账簿",
+      "act": 2,
+      "room": "records",
+      "x": 11.8,
+      "required": [
+        "act2Complete",
+        "shopRecordsShared"
+      ],
+      "gives": [
+        "account"
+      ],
+      "lines": [
+        {
+          "speaker": "记录",
+          "text": "SD-0615 · 调查开始前一日的结算记录\n涉及本次供货；结算联系人：陈渡。"
+        },
+        {
+          "speaker": "许岚",
+          "text": "记名支持核查联系，不能直接说明全部资金的最终归属。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "actor": 3,
+      "feedback": "请回看记录的来源与字段。",
+      "inspect": "account"
+    },
+    {
+      "id": "denial",
+      "title": "在许岚在场时联系陈渡",
+      "act": 2,
+      "room": "town",
+      "x": 17,
+      "required": [
+        "act2Complete"
+      ],
+      "gives": [
+        "S1",
+        "denialRecorded"
+      ],
+      "lines": [
+        {
+          "speaker": "许岚",
+          "text": "陈先生，我们想核对 SD-0615 在青禾镇的交接经过。"
+        },
+        {
+          "speaker": "陈渡",
+          "text": "我负责联系运输，没到青禾镇现场，也不清楚店里具体怎么收货。"
+        },
+        {
+          "speaker": "林见",
+          "text": "这段陈述先记为 S1，之后再与实际记录核对。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "actor": 9,
+      "feedback": "请回看记录的来源与字段。"
+    },
+    {
+      "id": "courier",
+      "title": "向周叔核对交接",
+      "act": 2,
+      "room": "town",
+      "x": 3.6,
+      "required": [
+        "act2Complete"
+      ],
+      "gives": [
+        "courier"
+      ],
+      "lines": [
+        {
+          "speaker": "周叔",
+          "text": "我记得那次送货，但记忆说不清全部细节。这里有交接记录和附件。"
+        },
+        {
+          "speaker": "记录",
+          "text": "SD-0615 · 调查开始前一日\n地点：青禾镇17号。陈渡参与现场交接。"
+        },
+        {
+          "speaker": "周叔",
+          "text": "我能说明的是这次送货和交接，其他环节得看其他记录。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "actor": 8,
+      "feedback": "请回看记录的来源与字段。"
+    },
+    {
+      "id": "wildlife",
+      "title": "观察待核物件",
+      "act": 2,
+      "room": "records",
+      "x": 16,
+      "required": [
+        "act2Complete",
+        "shopRecordsShared"
+      ],
+      "gives": [
+        "wildlife",
+        "observed"
+      ],
+      "lines": [
+        {
+          "speaker": "林见",
+          "text": "这块所谓护身片是什么材质？目前看不出来。"
+        },
+        {
+          "speaker": "许岚",
+          "text": "单独记下观察。没有鉴定，不写具体物种，也不把它当作化妆品主线的材料。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "actor": 3,
+      "feedback": "请回看记录的来源与字段。",
+      "inspect": "wildlife"
+    },
+    {
+      "id": "wildlifeSource",
+      "title": "问苏禾物件来源",
+      "act": 2,
+      "room": "records",
+      "x": 6.5,
+      "required": [
+        "observed"
+      ],
+      "gives": [
+        "sourceAsked"
+      ],
+      "lines": [
+        {
+          "speaker": "苏禾",
+          "text": "这块东西是别人以前留下的，我拿不出确切的来源记录。"
+        },
+        {
+          "speaker": "许岚",
+          "text": "来源仍无法确认。把她的回答和不能确认的部分分别记下。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "actor": 7,
+      "feedback": "请回看记录的来源与字段。"
+    },
+    {
+      "id": "wildlifeRefer",
+      "title": "将观察另行提交核验",
+      "act": 2,
+      "room": "records",
+      "x": 20.4,
+      "required": [
+        "observed",
+        "sourceAsked"
+      ],
+      "gives": [
+        "referred"
+      ],
+      "lines": [
+        {
+          "speaker": "林见",
+          "text": "这条观察与来源问题单独整理，不参与K17材料关联。"
+        },
+        {
+          "speaker": "许岚",
+          "text": "已交工作人员按流程另行核验。这里没有鉴定结果，材质和物种仍待确认。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "actor": 4,
+      "feedback": "请回看记录的来源与字段。"
+    },
+    {
+      "id": "townDeparture",
+      "title": "安排进一步询问",
+      "act": 2,
+      "room": "town",
+      "x": 22.6,
+      "required": [
+        "shelf",
+        "account",
+        "receiptContradiction",
+        "participantScope"
+      ],
+      "gives": [
+        "act3Complete"
+      ],
+      "lines": [
+        {
+          "speaker": "林见",
+          "text": "签收与“没到现场”的说法对不上，调度和结算也显示额外联系。"
+        },
+        {
+          "speaker": "许岚",
+          "text": "我来联系后续询问安排。明早在调查中心，让陈渡逐项解释。"
+        },
+        {
+          "speaker": "旁白",
+          "text": "第三日09:00。经工作人员安排，陈渡到调查中心接受进一步询问，林见协助记录。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "actor": 4,
+      "feedback": "请回看记录的来源与字段。",
+      "destination": "interview"
+    },
+    {
+      "id": "receiptInquiry",
+      "title": "核对“没有到现场”",
+      "act": 3,
+      "room": "interview",
+      "x": 12.8,
+      "required": [
+        "act3Complete",
+        "S1",
+        "courier",
+        "denialRecorded"
+      ],
+      "gives": [
+        "receiptQuestioned"
+      ],
+      "lines": [
+        {
+          "speaker": "林见",
+          "text": "您在 S1 中说没到现场。SD-0615 的签收记录和附件却记载您参与交接，请核对。"
+        },
+        {
+          "speaker": "陈渡",
+          "text": "这份签收我需要再核对，可能是我帮忙接了一次。"
+        },
+        {
+          "speaker": "许岚",
+          "text": "把补充解释记下来。现有陈述与交接记录不一致，不能跳成全部行为的认定。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "actor": 9,
+      "feedback": "请回看记录的来源与字段。",
+      "mode": "inquiry",
+      "evidence": [
+        "S1",
+        "courier"
+      ]
+    },
+    {
+      "id": "roleInquiry",
+      "title": "核对“只联系运输”",
+      "act": 3,
+      "room": "interview",
+      "x": 12.8,
+      "required": [
+        "act3Complete",
+        "dispatch",
+        "courier",
+        "account"
+      ],
+      "gives": [
+        "roleQuestioned"
+      ],
+      "lines": [
+        {
+          "speaker": "林见",
+          "text": "调度登记有您修改地址的签字，交接与结算也留下联系。您说的“只联系运输”，包括哪些具体环节？"
+        },
+        {
+          "speaker": "陈渡",
+          "text": "地址是我改的，账目也经过我，但不代表你说的所有事情都是我安排。"
+        },
+        {
+          "speaker": "许岚",
+          "text": "继续核查实际分工、资金和知情范围。回应并不自动等于认罪，也不能省略其他环节。"
+        }
+      ],
+      "choices": [],
+      "correct": 0,
+      "actor": 9,
+      "feedback": "请回看记录的来源与字段。",
+      "mode": "inquiry",
+      "evidence": [
+        "dispatch",
+        "courier",
+        "account"
+      ]
+    },
+    {
+      "id": "scopeReview",
+      "title": "复盘其他人员的责任边界",
+      "act": 3,
+      "room": "interview",
+      "x": 5.3,
+      "required": [
+        "receiptQuestioned",
+        "roleQuestioned",
+        "worker",
+        "shopRecordsShared"
+      ],
+      "gives": [
+        "scopeReviewed"
+      ],
+      "lines": [
+        {
+          "speaker": "许岚",
+          "text": "老赵、苏禾和周叔的记录，都只说明各自经手的范围。你准备怎么写？"
+        },
+        {
+          "speaker": "林见",
+          "text": "现有材料不足以直接认定或排除其他人员责任，要按各自记录分别核查。"
+        },
+        {
+          "speaker": "许岚",
+          "text": "对。去案卷室，把已知事实、推测和待核事项分开。"
+        }
+      ],
+      "choices": [
+        "提供了资料的人都已经免责",
+        "签收人承担所有环节责任",
+        "按各自材料分别核查，不直接认定或排除"
+      ],
+      "correct": 2,
+      "actor": 4,
+      "feedback": "配合、签收和经手记录各自只支持有限范围。不能据此直接认定或排除所有人的责任。"
+    }
+  ],
+  "relations": [
+    {
+      "id": "portMismatch",
+      "title": "眼前这票货，有什么异常？",
+      "required": [
+        "weight",
+        "cargo"
+      ],
+      "evidence": [
+        "weight",
+        "cargo"
+      ],
+      "correct": 1,
+      "claims": [
+        "封条编号一致，已经解释全部异常",
+        "同票申报品名与查验实物不一致",
+        "重量差已说明是谁组织的"
+      ],
+      "success": "申报与实物不一致值得继续核查；差异的原因和责任仍待调查。",
+      "feedback": "把同一票的申报字段与实物记录放在一起；外观或重量差不能替代对组织者的调查。",
+      "act": 0,
+      "room": "*",
+      "target": "mentor",
+      "actor": 4
+    },
+    {
+      "id": "portDestination",
+      "title": "准备去仓库确认什么？",
+      "required": [
+        "portMismatch",
+        "handover"
+      ],
+      "evidence": [
+        "handover"
+      ],
+      "correct": 0,
+      "claims": [
+        "核对附件指向的旧出货记录",
+        "跟着QJ-017去看它正在拆包",
+        "同为K17就能证明历史货物手续有问题"
+      ],
+      "success": "计划交接与历史往来附件说明了下一站的核查方向。眼前这票货仍留在港口。",
+      "feedback": "分清当前计划交接和两天前的仓储往来。下一步是核对旧记录，不是追随当前票出港。",
+      "act": 0,
+      "room": "*",
+      "target": "mentor",
+      "actor": 4
+    },
+    {
+      "id": "historicalRoute",
+      "title": "品名记录对不上，下一站查什么？",
+      "act": 1,
+      "room": "*",
+      "target": "mentor",
+      "actor": 4,
+      "required": [
+        "parcels",
+        "camera",
+        "dispatch"
+      ],
+      "evidence": [
+        "parcels",
+        "dispatch"
+      ],
+      "claims": [
+        "不同姓名集中收货就说明走私",
+        "沿作业单与调度记录，核对青禾镇实际收到的货与交接",
+        "境内品名差异已经证明此前进口手续有问题"
+      ],
+      "correct": 1,
+      "success": "同次作业的入库与出库品名不一致，原因待查。原始入库联及其子运单、调度登记提供追查实际收货的方向，青禾镇17号是核对地点，不是仅凭集中收货认定的可疑地点。",
+      "feedback": "先分清异常与路径：要核对的是品名记录为何不一致；作业单和调度记录用来找对应货物与实际交接，不能直接证明此前进口手续。"
+    },
+    {
+      "id": "receiptContradiction",
+      "title": "签收与哪句陈述冲突？",
+      "act": 2,
+      "room": "*",
+      "target": "mentor",
+      "actor": 4,
+      "required": [
+        "denialRecorded",
+        "S1",
+        "courier"
+      ],
+      "evidence": [
+        "S1",
+        "courier"
+      ],
+      "claims": [
+        "记录与“没到青禾镇现场”的说法存在冲突",
+        "一份签收已经证明全部责任",
+        "电话否认足以推翻所有记录"
+      ],
+      "correct": 0,
+      "success": "S1与SD-0615交接记录存在矛盾，需要向陈渡出示材料并听取解释。",
+      "feedback": "对照他实际说过的话和具体签收记录。矛盾成立也不能替代对其他环节的核查。"
+    },
+    {
+      "id": "participantScope",
+      "title": "陈渡的参与，是否只是运输？",
+      "act": 2,
+      "room": "*",
+      "target": "mentor",
+      "actor": 4,
+      "required": [
+        "dispatch",
+        "courier",
+        "account",
+        "shelf",
+        "receiptContradiction"
+      ],
+      "evidence": [
+        "dispatch",
+        "account"
+      ],
+      "claims": [
+        "店主提供账簿就能排除店主责任",
+        "签收人承担所有进口责任",
+        "调度、交接、结算提示多环节参与，需进一步核查"
+      ],
+      "correct": 2,
+      "success": "现有材料支持继续核查陈渡多环节参与，不直接确定全部资金归属或其他人的责任。",
+      "feedback": "把调度和结算放回已核对的交接链。参与联系与全部责任之间，还缺少进一步调查。"
+    }
+  ],
+  "hints": [
+    {
+      "required": "weight",
+      "question": "先确认两张记录说的是同一票货。",
+      "type": "比一比票号、净重口径和数值。",
+      "specific": "进入右侧办公室，查看台面上的重量记录。",
+      "act": 0
+    },
+    {
+      "required": "inspectionReady",
+      "question": "发现异常以后，该请谁组织后续核查？",
+      "type": "带着重量比对向许岚报告。",
+      "specific": "走近许岚，选择“报告重量差异”。",
+      "act": 0
+    },
+    {
+      "required": "cargo",
+      "question": "重量还不能回答里面究竟是什么。",
+      "type": "查验已安排，去看当前票的实物记录。",
+      "specific": "到堆场中部偏右的查验货箱。",
+      "act": 0
+    },
+    {
+      "required": "handover",
+      "question": "下一站的依据在哪里？",
+      "type": "问清计划交接与历史往来。",
+      "specific": "在堆场走近值班员，听完他提供资料的对话。",
+      "act": 0
+    },
+    {
+      "required": "portMismatch",
+      "question": "哪两份记录解释不了彼此？",
+      "type": "向许岚复盘当前异常，出示申报与实物。",
+      "specific": "走近许岚，选“核对当前异常”，点选重量比对与查验实物。",
+      "act": 0
+    },
+    {
+      "required": "portDestination",
+      "question": "去仓库需要一个具体的调查问题。",
+      "type": "向许岚出示有下一站信息的资料。",
+      "specific": "选择“确认下一站”，核对历史往来附件。",
+      "act": 0
+    },
+    {
+      "required": "act1Complete",
+      "question": "下一站的问题已经明确。",
+      "type": "当前票留港，只带记录副本去查旧往来。",
+      "specific": "回堆场左侧接驳车，出发去顺达仓库。",
+      "act": 0
+    },
+    {
+      "required": "parcels",
+      "question": "原始入库联登记的是什么？",
+      "type": "先核对日期、主单号和子单范围。",
+      "specific": "到仓库分拣台查看原始入库联与子运单。",
+      "act": 1
+    },
+    {
+      "required": "camera",
+      "question": "同次出库复核记录的又是什么？",
+      "type": "将归档影像与入库联比较，区分记录差异与成因。",
+      "specific": "从右侧楼梯进入二层调度室，看出库复核与装车影像。",
+      "act": 1
+    },
+    {
+      "required": "dispatch",
+      "question": "登记中的货物准备送到哪里？",
+      "type": "核对修改前后地址和签字，追查去向。",
+      "specific": "查看二层中间的目的地修改登记。",
+      "act": 1
+    },
+    {
+      "required": "worker",
+      "question": "两处品名对不上，老赵经手了哪一步？",
+      "type": "回访老赵，核对原始记录和经手范围。",
+      "specific": "回楼下和老赵谈SD-0615的入库联、复核影像与来信。",
+      "act": 1
+    },
+    {
+      "required": "historicalRoute",
+      "question": "下一站要去核实什么？",
+      "type": "向许岚出示原始入库联与子运单、目的地修改登记。",
+      "specific": "向许岚完成“品名记录对不上，下一站查什么？”。",
+      "act": 1
+    },
+    {
+      "required": "act2Complete",
+      "question": "记录差异还需要实际收货资料核对。",
+      "type": "沿已记录的去向前往青禾镇。",
+      "specific": "走到仓库右侧出口，前往青禾镇。",
+      "act": 1
+    },
+    {
+      "required": "shopRecordsShared",
+      "question": "先取得对方愿意提供的资料。",
+      "type": "向店主说明本次核对的具体往来。",
+      "specific": "进入禾记美妆，走近苏禾说明来意。",
+      "act": 2
+    },
+    {
+      "required": "shelf",
+      "question": "同批次还不足以对应一次出货。",
+      "type": "比较到货清单与仓库主子单。",
+      "specific": "到街面橱窗核对SD-0615到货清单。",
+      "act": 2
+    },
+    {
+      "required": "account",
+      "question": "款项结算留下了哪种联系？",
+      "type": "只按账簿能支持的范围记录。",
+      "specific": "在店内查看结算账簿。",
+      "act": 2
+    },
+    {
+      "required": "denialRecorded",
+      "question": "现在还不知道陈渡如何解释交接。",
+      "type": "在许岚在场时联系陈渡。",
+      "specific": "到街巷右侧电话点，记录首次陈述S1。",
+      "act": 2
+    },
+    {
+      "required": "courier",
+      "question": "实际交接不能只依靠记忆。",
+      "type": "向承运人核对记录与附件。",
+      "specific": "向街巷左侧周叔询问交接。",
+      "act": 2
+    },
+    {
+      "required": "receiptContradiction",
+      "question": "哪一句话与具体记录对不上？",
+      "type": "对照S1和签收记录。",
+      "specific": "向许岚出示S1与SD-0615交接记录。",
+      "act": 2
+    },
+    {
+      "required": "participantScope",
+      "question": "“只运输”是否完整解释了材料？",
+      "type": "把调度和结算放回交接链。",
+      "specific": "向许岚核对多环节参与，出示调度与账簿。",
+      "act": 2
+    },
+    {
+      "required": "act3Complete",
+      "question": "矛盾要给对方逐项解释的机会。",
+      "type": "许岚联系工作人员安排后续询问。",
+      "specific": "走到街巷右侧出口，前往调查中心。",
+      "act": 2
+    },
+    {
+      "required": "receiptQuestioned",
+      "question": "在S1与签收之间，还缺一次实际核对。",
+      "type": "向陈渡出示记录，听完他的补充说明。",
+      "specific": "在询问室选择“没有到现场”，出示S1与签收。",
+      "act": 3
+    },
+    {
+      "required": "roleQuestioned",
+      "question": "另一组问题是“只联系运输”。",
+      "type": "同时核对调度、交接和结算。",
+      "specific": "向陈渡出示调度、签收与账簿，听完回应。",
+      "act": 3
+    },
+    {
+      "required": "scopeReviewed",
+      "question": "其他人的责任也不能被一句话替代。",
+      "type": "向许岚区分已经知道和仍待核查的部分。",
+      "specific": "回询问室许岚处，复盘其他人员的责任边界。",
+      "act": 3
+    },
+    {
+      "required": "reportSubmitted",
+      "question": "把事实和未知分别写进建议。",
+      "type": "在案卷室向许岚开始四段复盘。",
+      "specific": "乘电梯去案卷室，走到右侧许岚身边开始复盘。",
+      "act": 3
+    }
+  ],
+  "id": "mist-story-v2-full",
+  "chapters": [
+    {
+      "title": "多出的460公斤",
+      "time": "第一日 · 16:40",
+      "question": "眼前这票货，究竟哪里不一致？"
+    },
+    {
+      "title": "对不上的品名",
+      "time": "第一日 · 18:20",
+      "question": "同一次作业的入库品名，为什么与出库复核记录不同？"
+    },
+    {
+      "title": "他说自己没来过",
+      "time": "第二日 · 17:10",
+      "question": "陈渡的说法能解释实际交接吗？"
+    },
+    {
+      "title": "把话放回记录里",
+      "time": "第三日 · 09:00",
+      "question": "哪些说法站不住，哪些事情仍待核实？"
+    }
+  ],
+  "reports": [
+    {
+      "id": "current",
+      "title": "当前异常",
+      "question": "先说眼前这票QJ-017。你已经核对出什么？",
+      "required": [
+        "weight",
+        "cargo"
+      ],
+      "evidence": [
+        "weight",
+        "cargo"
+      ],
+      "claims": [
+        "申报品名与查验实物不一致，成因仍待核查",
+        "净重差足以确定全部参与人员",
+        "封条有解释，其他异常都不再需要查"
+      ],
+      "correct": 0,
+      "feedback": "当前票的核心是申报与实物不一致；净重差或标签说明都不能代替其他问题的核查。"
+    },
+    {
+      "id": "history",
+      "title": "历史流转",
+      "question": "再说SD-0615。哪一部分有记录，哪一部分尚不能推定？",
+      "required": [
+        "historicalRoute",
+        "shelf",
+        "courier",
+        "account"
+      ],
+      "evidence": [
+        "parcels",
+        "shelf"
+      ],
+      "claims": [
+        "同为K17即可认定同一票货的违法进口",
+        "境内流转记录已经证明此前进口手续有问题",
+        "主单、到货与交接形成历史路径，此前进口手续另查"
+      ],
+      "correct": 2,
+      "feedback": "K17是生产批次，SD-0615是仓库作业号。历史流转路径不能自动证明此前进口环节。"
+    },
+    {
+      "id": "people",
+      "title": "人员参与",
+      "question": "结合陈渡的回应，哪些参与关系需要重点核查？",
+      "required": [
+        "receiptQuestioned",
+        "roleQuestioned",
+        "scopeReviewed"
+      ],
+      "evidence": [
+        "dispatch",
+        "account"
+      ],
+      "claims": [
+        "签收人承担所有责任，其他人都已排除",
+        "陈渡涉及多环节联系，其他人员按各自材料分别核查",
+        "只要回应不认同，现有记录就没有价值"
+      ],
+      "correct": 1,
+      "feedback": "签收与配合不等于全部责任或免责。结合调度、交接、结算与询问回应，分别记录参与范围和待核事项。"
+    },
+    {
+      "id": "next",
+      "title": "下一步",
+      "question": "最后，你要提交什么，又准备留下什么问题？",
+      "required": [
+        "act3Complete",
+        "scopeReviewed"
+      ],
+      "evidence": [
+        "worker",
+        "courier"
+      ],
+      "claims": [
+        "把有依据的记录与待核事项提交，生态观察按实际状态单列",
+        "把推测写成定论，立即宣告所有人的责任",
+        "只提交人物猜测，不保留记录来源"
+      ],
+      "correct": 0,
+      "feedback": "调查建议应留下记录来源、询问回应和未知事项；生态旁支只写实际完成的观察与核验步骤。"
+    }
+  ],
+  "knowledge": [
+    {
+      "title": "品名要回到实物核对",
+      "unlock": "act1Complete",
+      "text": "官方历史通报介绍过将化妆品申报为化纤布的案件。本作“收纳盒”和QJ-017是虚构设定；玩家核对的是当前记录，不能把现实案件的结论直接套给游戏人物。",
+      "source": "济宁市打击走私办公室转引海关总署 · 2018-12-17",
+      "url": "https://www.jining.gov.cn/art/2018/12/17/art_77109_2765580.html"
+    },
+    {
+      "title": "拆包不等于已经查明跨境行为",
+      "unlock": "act2Complete",
+      "text": "澳门海关2020年的通报涉及店铺和分批携带货物出境。本作SD-0615是境内历史仓库作业；主单、运输与签收支持流转路径，不能仅按包裹大小判断此前进口环节。",
+      "source": "澳门特别行政区政府 · 澳门海关 · 2020-08-05",
+      "url": "https://www.gov.mo/zh-hans/news/302909/"
+    },
+    {
+      "title": "不明物件需要独立核验",
+      "unlock": "act3Complete",
+      "text": "香港海关2024年通报过一宗穿山甲鳞片案件的判刑情况，适用当地法律。这不证明游戏中物件的材质、来源或物种。观察、询问来源和提交核验分别记录，不能相互替代。",
+      "source": "香港海关 · 2024-02-28",
+      "url": "https://www.customs.gov.hk/sc/customs-announcement/press-release/index_id_4088.html?m=02&p=1&y=2024"
+    },
+    {
+      "title": "真实办事信息到官方平台查询",
+      "unlock": "reportSubmitted",
+      "text": "海关政务服务平台提供办事指南与咨询信息。游戏里的受理与回信属于剧情，不会向现实机构发送调查资料。需要真实办理信息时，可以打开官方来源自行查询。",
+      "source": "海关政务服务一体化平台 · 办事指南",
+      "url": "https://online.customs.gov.cn/static/pages/guides/000629002001/000629002001.html"
+    }
+  ]
+}

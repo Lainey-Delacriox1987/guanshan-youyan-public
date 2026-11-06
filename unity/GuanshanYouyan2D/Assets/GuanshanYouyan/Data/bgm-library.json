@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "addedAt": "2026-10-28T12:38:37.049Z",
+  "playbackMode": "simultaneous-layers",
+  "enabledTrackIds": [
+    "297537",
+    "519335"
+  ],
+  "loop": true,
+  "tracks": [
+    {
+      "id": "297537",
+      "title": "Underwater - mysterious ambient music (first 120 seconds)",
+      "artist": "HarumachiMusic",
+      "file": "underwater-297537-first-120s.wav",
+      "originalFile": "harumachimusic-underwater-mysterious-ambient-music-297537.mp3",
+      "trimStartSeconds": 0,
+      "trimDurationSeconds": 120,
+      "volume": 0.65,
+      "sourceUrl": "https://pixabay.com/music/mystery-underwater-mysterious-ambient-music-297537/",
+      "enabled": true,
+      "assetPath": "Assets/GuanshanYouyan/Audio/Music/underwater-297537-first-120s.wav",
+      "archivePath": "SourceArchive~/Audio/Pixabay/harumachimusic-underwater-mysterious-ambient-music-297537.mp3",
+      "originalSha256": "97093b6da247c46b2aaeb96c10109097665d8afad77afcfd167a9dd6cb370160",
+      "sha256": "61461593d38de792b502260541e0acf5b3fd4e34ddc0b456743f5f914a4c0b04",
+      "bytes": 23040078,
+      "license": "Pixabay Content License",
+      "licenseUrl": "https://pixabay.com/service/license-summary/",
+      "contentIdRegistered": true,
+      "provenance": "MP3 supplied by the user after downloading from the linked Pixabay page."
+    },
+    {
+      "id": "519335",
+      "title": "Mystery Mysterious Mystical",
+      "artist": "MondaMusic",
+      "file": "mondamusic-mystery-mysterious-mystical-519335.mp3",
+      "originalFile": "mondamusic-mystery-mysterious-mystical-519335.mp3",
+      "volume": 0.55,
+      "sourceUrl": "https://pixabay.com/music/modern-classical-mystery-mysterious-mystical-519335/",
+      "enabled": true,
+      "assetPath": "Assets/GuanshanYouyan/Audio/Music/mondamusic-mystery-mysterious-mystical-519335.mp3",
+      "archivePath": "SourceArchive~/Audio/Pixabay/mondamusic-mystery-mysterious-mystical-519335.mp3",
+      "originalSha256": "01d97304c3f291204fdc3043e32d82313ea2cf2bb3204c38d3a87754fb118e49",
+      "sha256": "01d97304c3f291204fdc3043e32d82313ea2cf2bb3204c38d3a87754fb118e49",
+      "bytes": 3841044,
+      "license": "Pixabay Content License",
+      "licenseUrl": "https://pixabay.com/service/license-summary/",
+      "contentIdRegistered": true,
+      "provenance": "MP3 supplied by the user after downloading from the linked Pixabay page."
+    }
+  ]
+}

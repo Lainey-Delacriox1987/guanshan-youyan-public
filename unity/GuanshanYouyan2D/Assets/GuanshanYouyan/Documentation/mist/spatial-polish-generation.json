@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "prompts": {
+    "torso": "Use case: precise-object-edit. This is an isolated head-and-torso texture for an existing illustrated game character rig. Remove ONLY the black-and-gold shoulder epaulette visible near the upper-left shoulder, replace its shape with continuous light blue shirt fabric matching adjacent folds and lighting. The separate animated arm layer already carries the uniform epaulette; two layered epaulettes currently duplicate. Preserve ALL other pixels and shapes exactly: face, black hairstyle, collar, neck, torso outline, chest pocket, shading, belt, navy upper trousers, image dimensions, placement and genuine alpha transparency. Do not add sleeves, arms, hands, new insignia, text, background, halo or shadow. Do not move, crop, resize or redesign anything. Only erase the shoulder epaulette into matching blue shirt fabric.",
+    "shuttle": "Use case: illustration-story. Asset type: a transparent 2D game harbor shuttle minivan. Reference image is our existing sunset harbor background: match its sophisticated detailed painterly semi-realistic illustrated Chinese narrative-game art, muted blue-green metal paint, warm amber rim light from the LEFT, soft realistic material shading. Draw ONLY one compact ordinary port staff shuttle minivan, 6-8 seats, complete vehicle isolated in exact side profile facing RIGHT, full silhouette with both black rubber tires resting on one level baseline, rectangular passenger cabin windows, practical short bonnet, subtle weathering and rich painted metal highlights. No human figures, no writing, no logos, no police symbols. Body proportions like a real passenger van, not a toy, no thick cartoon outlines, no flat vector icon shapes, no low-poly, no photographic collage. Orthographic side-scrolling game view, matching original background brushwork. Genuine transparent background, no scenery, no ground plane, no cast shadow, no glowing halo. Keep entire vehicle inside generous transparent margins. Landscape 3:2 canvas."
+  },
+  "sources": {
+    "torso": "h5/design/motion-reference/LinJian-torso-single-epaulette.png",
+    "shuttle": "h5/design/motion-reference/Port-shuttle-illustrated.png"
+  },
+  "invariants": [
+    "Preserve original faces and uniform",
+    "Preserve native Walk leg motion",
+    "Keep 4 chapters, 8 rooms, evidence and saves"
+  ],
+  "fixes": [
+    "far arm behind trousers",
+    "shoulder bound to torso",
+    "scene-specific actor sizes and stride normalization",
+    "automatic portal entry with hysteresis"
+  ],
+  "posture": {
+    "upperBodyForwardShift": 5,
+    "addedForwardLeanRadians": 0.065,
+    "feet": "unchanged"
+  }
+}

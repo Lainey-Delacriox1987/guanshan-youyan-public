@@ -1,0 +1,13 @@
+{
+  "method": "built-in image_gen; lower-body-only edit; deterministic sprite-cell normalization",
+  "paths": {
+    "low": "[local user folder]/.codex/generated_images/01a17764-259b-7f63-81ac-5c3f0e2fff33/exec-ee5447dc-39b3-4ea4-8ca0-7db3c96957e7.png"
+  },
+  "prompts": {
+    "low": "Edit ONLY the leg poses in this 3x3 transparent sprite atlas. User correction: NO RAISING FEET OR KNEES. It must be a very low, short, ground-level alternating step, not a march. Preserve the exact young man, head, haircut, uniform, upper body, arms, art style, strict RIGHT-facing profile, nine equal grid cells and alpha background. Cell0 idle standing. Cells1-8 form an alternating left/right walking cycle. In EVERY CELL, BOTH BLACK SHOES MUST BE AT THE SAME HORIZONTAL GROUND BASELINE, soles almost flat; no shoe may be lifted more than 1 percent of body height. Legs remain almost straight below the hips, knees NEVER project high or forward; both knees stay at their normal low standing-knee height. STRIDE IS SMALL, front-to-back shoe separation at most the width of the man's shoulders. Near leg moves a little forward while far leg moves a little backward in cells1-4, then the opposite leg moves forward in cells5-8; small passing poses have shoes close together. Specifically LOWER the high bent knee/foot in center cell4 and bottom-center cell7, and lower the trailing feet in cells2 and6. No thigh becomes horizontal. No high knee, no stepping over obstacle, no stair climbing, no running, no toe kicked upward, no leaning or large lunge. This is restrained upright casual ground-level stepping as requested, with nearly flat shoes sliding close above the floor plane. The sprite feet will be anchored to ground in the game. All cells full body with generous clear gutters. Clean neutral transparent edges, no colored outline or background, no text, no floor, no shadow, no props. Return the corrected entire nine-cell sheet."
+  },
+  "outputs": {
+    "atlas": "D:/university/反走私-钱江杯/h5/public/assets/walk/player-low-step-atlas.png",
+    "webp": "D:/university/反走私-钱江杯/h5/public/assets/walk/player-gait-33ad56c835f6.webp"
+  }
+}

@@ -1,0 +1,2030 @@
+fileFormatVersion: 2
+guid: b1b4e10d1d398be47bf658de3e631c52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8819754792913305348
+    second: Port-shuttle-illustrated_0
+  - first:
+      213: 5552288231553427046
+    second: Port-shuttle-illustrated_1
+  - first:
+      213: -7793878705571670623
+    second: Port-shuttle-illustrated_2
+  - first:
+      213: 6580036565812158068
+    second: Port-shuttle-illustrated_3
+  - first:
+      213: 7196934352099150541
+    second: Port-shuttle-illustrated_4
+  - first:
+      213: 8771500615685845577
+    second: Port-shuttle-illustrated_5
+  - first:
+      213: -6399070173640461622
+    second: Port-shuttle-illustrated_6
+  - first:
+      213: 6780347278558679378
+    second: Port-shuttle-illustrated_7
+  - first:
+      213: 3788536941053241955
+    second: Port-shuttle-illustrated_8
+  - first:
+      213: 3866977445376130257
+    second: Port-shuttle-illustrated_9
+  - first:
+      213: -8098466074204595802
+    second: Port-shuttle-illustrated_10
+  - first:
+      213: 3791532438829378413
+    second: Port-shuttle-illustrated_11
+  - first:
+      213: 1665976056931509615
+    second: Port-shuttle-illustrated_12
+  - first:
+      213: 7258931307292861887
+    second: Port-shuttle-illustrated_13
+  - first:
+      213: -3894426415365916395
+    second: Port-shuttle-illustrated_14
+  - first:
+      213: -7768373294564219099
+    second: Port-shuttle-illustrated_15
+  - first:
+      213: -5730057815558248054
+    second: Port-shuttle-illustrated_16
+  - first:
+      213: 7310401462319621200
+    second: Port-shuttle-illustrated_17
+  - first:
+      213: -2526158928025109688
+    second: Port-shuttle-illustrated_18
+  - first:
+      213: 8420616196926019518
+    second: Port-shuttle-illustrated_19
+  - first:
+      213: -4403239273815319467
+    second: Port-shuttle-illustrated_20
+  - first:
+      213: 3759370839607017686
+    second: Port-shuttle-illustrated_21
+  - first:
+      213: -1881737611018827522
+    second: Port-shuttle-illustrated_22
+  - first:
+      213: 882060452862361894
+    second: Port-shuttle-illustrated_23
+  - first:
+      213: 3798065908931065719
+    second: Port-shuttle-illustrated_24
+  - first:
+      213: -3031451911915033675
+    second: Port-shuttle-illustrated_25
+  - first:
+      213: 1717213180496404480
+    second: Port-shuttle-illustrated_26
+  - first:
+      213: 5818387403632327494
+    second: Port-shuttle-illustrated_27
+  - first:
+      213: -6650018318006983933
+    second: Port-shuttle-illustrated_28
+  - first:
+      213: -497827650072088198
+    second: Port-shuttle-illustrated_29
+  - first:
+      213: -3946928754242447546
+    second: Port-shuttle-illustrated_30
+  - first:
+      213: 1951100095958531566
+    second: Port-shuttle-illustrated_31
+  - first:
+      213: 680353622364823526
+    second: Port-shuttle-illustrated_32
+  - first:
+      213: -5240292339063965755
+    second: Port-shuttle-illustrated_33
+  - first:
+      213: -3448426904747879450
+    second: Port-shuttle-illustrated_34
+  - first:
+      213: -7265929000530254034
+    second: Port-shuttle-illustrated_35
+  - first:
+      213: 2842187530133525755
+    second: Port-shuttle-illustrated_36
+  - first:
+      213: -2760641832120911014
+    second: Port-shuttle-illustrated_37
+  - first:
+      213: -41077282509912878
+    second: Port-shuttle-illustrated_38
+  - first:
+      213: -8568509063320354701
+    second: Port-shuttle-illustrated_39
+  - first:
+      213: 2107790054994617389
+    second: Port-shuttle-illustrated_40
+  - first:
+      213: -4645893064884683693
+    second: Port-shuttle-illustrated_41
+  - first:
+      213: 236293246549612233
+    second: Port-shuttle-illustrated_42
+  - first:
+      213: 9211704722874684846
+    second: Port-shuttle-illustrated_43
+  - first:
+      213: 2204498289435531705
+    second: Port-shuttle-illustrated_44
+  - first:
+      213: -4912898844987489934
+    second: Port-shuttle-illustrated_45
+  - first:
+      213: -2771654548880821074
+    second: Port-shuttle-illustrated_46
+  - first:
+      213: -3937252868604094666
+    second: Port-shuttle-illustrated_47
+  - first:
+      213: -2925342486768481091
+    second: Port-shuttle-illustrated_48
+  - first:
+      213: 4921808223291124122
+    second: Port-shuttle-illustrated_49
+  - first:
+      213: 5480701109605405128
+    second: Port-shuttle-illustrated_50
+  - first:
+      213: 3872992782212109931
+    second: Port-shuttle-illustrated_51
+  - first:
+      213: 5789025344333482827
+    second: Port-shuttle-illustrated_52
+  - first:
+      213: 7843819125178608525
+    second: Port-shuttle-illustrated_53
+  - first:
+      213: -6173875463665016730
+    second: Port-shuttle-illustrated_54
+  - first:
+      213: 5106854474641506929
+    second: Port-shuttle-illustrated_55
+  - first:
+      213: 3473695777803526183
+    second: Port-shuttle-illustrated_56
+  - first:
+      213: -8259012858559367053
+    second: Port-shuttle-illustrated_57
+  - first:
+      213: 7364948380233686409
+    second: Port-shuttle-illustrated_58
+  - first:
+      213: -6894099258016417650
+    second: Port-shuttle-illustrated_59
+  - first:
+      213: -4241340242293239876
+    second: Port-shuttle-illustrated_60
+  - first:
+      213: -1740297876229982851
+    second: Port-shuttle-illustrated_61
+  - first:
+      213: 7006069586102684826
+    second: Port-shuttle-illustrated_62
+  - first:
+      213: -7799559974322752132
+    second: Port-shuttle-illustrated_63
+  - first:
+      213: 8955228606974066134
+    second: Port-shuttle-illustrated_64
+  - first:
+      213: -5730322946260344123
+    second: Port-shuttle-illustrated_65
+  - first:
+      213: 5282071212112421214
+    second: Port-shuttle-illustrated_66
+  - first:
+      213: 4539121695046056373
+    second: Port-shuttle-illustrated_67
+  - first:
+      213: 6821206409501313547
+    second: Port-shuttle-illustrated_68
+  - first:
+      213: -2832505445048361102
+    second: Port-shuttle-illustrated_69
+  - first:
+      213: -7151923460986166974
+    second: Port-shuttle-illustrated_70
+  - first:
+      213: -7866854920525989698
+    second: Port-shuttle-illustrated_71
+  - first:
+      213: 3212588052461880233
+    second: Port-shuttle-illustrated_72
+  - first:
+      213: 3734832729172256166
+    second: Port-shuttle-illustrated_73
+  - first:
+      213: -2059135003714155738
+    second: Port-shuttle-illustrated_74
+  - first:
+      213: -7351827614786377796
+    second: Port-shuttle-illustrated_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1521
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f75ad4140166a70800000000000000
+      internalID: 8819754792913305348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 927
+        width: 95
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666e254bab0bd0d40800000000000000
+      internalID: 5552288231553427046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 981
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a55beb6c9496d390800000000000000
+      internalID: -7793878705571670623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_3
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 973
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e9052e46cf05b50800000000000000
+      internalID: 6580036565812158068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_4
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 976
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca0da889a5a0e360800000000000000
+      internalID: 7196934352099150541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 977
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94233192651aab970800000000000000
+      internalID: 8771500615685845577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 965
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2fc5fa49fe137a0800000000000000
+      internalID: -6399070173640461622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_7
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 935
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251d6401de1a81e50800000000000000
+      internalID: 6780347278558679378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 949
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a6ced7646939430800000000000000
+      internalID: 3788536941053241955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 879
+        width: 131
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc771a9f734aa530800000000000000
+      internalID: 3866977445376130257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 893
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a99b7553087c9f80800000000000000
+      internalID: -8098466074204595802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_11
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 951
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6babca2aaa3e9430800000000000000
+      internalID: 3791532438829378413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_12
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 940
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6565b5a56cbe1710800000000000000
+      internalID: 1665976056931509615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_13
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 896
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb527248097ecb460800000000000000
+      internalID: 7258931307292861887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 927
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519773c0fc734f9c0800000000000000
+      internalID: -3894426415365916395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 925
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5276edea5a1313490800000000000000
+      internalID: -7768373294564219099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 919
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a892331a6ceba70b0800000000000000
+      internalID: -5730057815558248054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_17
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 926
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054ae07d563c37560800000000000000
+      internalID: 7310401462319621200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 913
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bb1e0d6d741fcd0800000000000000
+      internalID: -2526158928025109688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 915
+        width: 105
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb71da711d90cd470800000000000000
+      internalID: 8420616196926019518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_20
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 923
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c5037b53d84e2c0800000000000000
+      internalID: -4403239273815319467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_21
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 903
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d00db15cd7fb2430800000000000000
+      internalID: 3759370839607017686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_22
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 895
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef80bb6dc99b2e5e0800000000000000
+      internalID: -1881737611018827522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_23
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 911
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621084bfe45bd3c00800000000000000
+      internalID: 882060452862361894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_24
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 901
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7777b5732d075b430800000000000000
+      internalID: 3798065908931065719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_25
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 879
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb20a42c8e1ee5d0800000000000000
+      internalID: -3031451911915033675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_26
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 885
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0006b1b1a44c4d710800000000000000
+      internalID: 1717213180496404480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_27
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 887
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bbc1734801fb050800000000000000
+      internalID: 5818387403632327494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_28
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 889
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3036a55b29366b3a0800000000000000
+      internalID: -6650018318006983933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_29
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 893
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71f51ec36c5719f0800000000000000
+      internalID: -497827650072088198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_30
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 887
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6479a91b531b939c0800000000000000
+      internalID: -3946928754242447546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_31
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 881
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedb6dc2333b31b10800000000000000
+      internalID: 1951100095958531566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_32
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 871
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef94bec30a117900800000000000000
+      internalID: 680353622364823526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 875
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c734e2c1edb647b0800000000000000
+      internalID: -5240292339063965755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_34
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 873
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e35a9c200ab420d0800000000000000
+      internalID: -3448426904747879450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_35
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 877
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e276f20121c3a2b90800000000000000
+      internalID: -7265929000530254034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_36
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 878
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf457a6008a717720800000000000000
+      internalID: 2842187530133525755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_37
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 863
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b795451ea30b9d0800000000000000
+      internalID: -2760641832120911014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_38
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 870
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d488afdd601e6ff0800000000000000
+      internalID: -41077282509912878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_39
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 861
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3704312a76a861980800000000000000
+      internalID: -8568509063320354701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_40
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 859
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d242e0133ef504d10800000000000000
+      internalID: 2107790054994617389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_41
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 853
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cf81b5fd8768fb0800000000000000
+      internalID: -4645893064884683693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_42
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 806
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6d96fa47b774300800000000000000
+      internalID: 236293246549612233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_43
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 71
+        width: 165
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5dbb6c3ac86df70800000000000000
+      internalID: 9211704722874684846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_44
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 119
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9d2c9a383f79e10800000000000000
+      internalID: 2204498289435531705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_45
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 119
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2710817b780e1dbb0800000000000000
+      internalID: -4912898844987489934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_46
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 113
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4fcd56fda1989d0800000000000000
+      internalID: -2771654548880821074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_47
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 75
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63717ff50611c59c0800000000000000
+      internalID: -3937252868604094666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_48
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 97
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc8ec5e1881767d0800000000000000
+      internalID: -2925342486768481091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_49
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 93
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a992dd19086cd4440800000000000000
+      internalID: 4921808223291124122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_50
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 83
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c19e160f9c5f0c40800000000000000
+      internalID: 5480701109605405128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_51
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 89
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6697695a62afb530800000000000000
+      internalID: 3872992782212109931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_52
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 87
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b0bbc01efb65050800000000000000
+      internalID: 5789025344333482827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_53
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 87
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bafae9fe7dadc60800000000000000
+      internalID: 7843819125178608525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_54
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 69
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6602fb4f9fcf15aa0800000000000000
+      internalID: -6173875463665016730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_55
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 15
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1720f9066113fd640800000000000000
+      internalID: 5106854474641506929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_56
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 37
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720e0cdc7eb053030800000000000000
+      internalID: 3473695777803526183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_57
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 81
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3787f223097126d80800000000000000
+      internalID: -8259012858559367053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_58
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ddae8d78d853660800000000000000
+      internalID: 7364948380233686409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_59
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 79
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88b5a7504d3350a0800000000000000
+      internalID: -6894099258016417650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_60
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 82
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfca8e658bb325c0800000000000000
+      internalID: -4241340242293239876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_61
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 63
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75f1f35d4839d7e0800000000000000
+      internalID: -1740297876229982851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_62
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 65
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c81573b2f8a3160800000000000000
+      internalID: 7006069586102684826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_63
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 63
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c753326f68562c390800000000000000
+      internalID: -7799559974322752132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_64
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 63
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddfa11a8fc574c70800000000000000
+      internalID: 8955228606974066134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_65
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 67
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2e1e314adc970b0800000000000000
+      internalID: -5730322946260344123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_66
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 33
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51274428cfad4940800000000000000
+      internalID: 5282071212112421214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_67
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 45
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b93d71e1233efe30800000000000000
+      internalID: 4539121695046056373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 53
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a81f1d61bc9ae50800000000000000
+      internalID: 6821206409501313547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_69
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 13
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f58831e4be0b8d0800000000000000
+      internalID: -2832505445048361102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_70
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 49
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241232731834fbc90800000000000000
+      internalID: -7151923460986166974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_71
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 47
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8b382512153d290800000000000000
+      internalID: -7866854920525989698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_72
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 30
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a387ac00d7659c20800000000000000
+      internalID: 3212588052461880233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_73
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5a0d5449ac4d330800000000000000
+      internalID: 3734832729172256166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_74
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 31
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b8b07bf9b7c63e0800000000000000
+      internalID: -2059135003714155738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port-shuttle-illustrated_75
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 23
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb720ca6cbf09f990800000000000000
+      internalID: -7351827614786377796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const values=new Map(),listeners=new Map(),docListeners=new Map();let library;
+const storage={getItem:k=>values.get(k)??null,setItem:(k,v)=>values.set(k,v)};
+const gameModule={deinitializers:[]},window={addEventListener:(n,f)=>listeners.set(n,f),removeEventListener:n=>listeners.delete(n)};
+const context={LibraryManager:{library:{}},mergeInto:(_,v)=>library=v,localStorage:storage,Module:gameModule,window,document:{hidden:true,addEventListener:(n,f)=>docListeners.set(n,f),removeEventListener:n=>docListeners.delete(n)},UTF8ToString:s=>s};
+vm.runInNewContext(fs.readFileSync('unity/GuanshanYouyan2D/Assets/GuanshanYouyan/Plugins/WebGL/FogVerification.jslib','utf8'),context);
+const key='guanshan-mist-save-v1:auto',passed=[];
+assert.equal(library.FogWriteSave('auto','first','',0),1);assert.equal(values.get(key),'first');passed.push('synchronous first commit');
+assert.equal(library.FogWriteSave('auto','new','first',0),1);assert.equal(values.get(key+'.bak'),'first');passed.push('previous full snapshot backed up');
+assert.equal(library.FogWriteSave('auto','stale','first',0),-1);assert.equal(values.get(key),'new');passed.push('stale window rejected');
+assert.equal(library.FogWriteSave('slot1','manual','',1),1);assert.equal(values.get(key),'new');passed.push('manual slot isolated');
+assert.equal(library.FogWriteSave('auto','chosen','',1),1);passed.push('explicit load/new game can replace auto');
+storage.setItem=()=>{throw Error('quota')};assert.equal(library.FogWriteSave('slot2','bad','',1),-2);assert(!values.has('guanshan-mist-save-v1:slot2'));passed.push('quota reports failure without fake save');
+let calls=0;window.fogGameInstance={Module:gameModule,SendMessage:()=>calls++};library.FogInstallSaveLifecycle();listeners.get('pagehide')();docListeners.get('visibilitychange')();assert.equal(calls,2);passed.push('page hide and background save');
+gameModule.deinitializers.forEach(f=>f());assert.equal(listeners.size+docListeners.size,0);passed.push('quit removes old writer listeners');
+fs.writeFileSync('unity/GuanshanYouyan2D/ImportReports/save-browser-storage-tests.json',JSON.stringify({success:true,checks:passed.length,passed},null,2));console.log(JSON.stringify({success:true,checks:passed.length}));

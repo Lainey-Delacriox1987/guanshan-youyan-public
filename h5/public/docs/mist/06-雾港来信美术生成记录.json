@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-26",
+  "tool": "OpenAI built-in image_gen.imagegen",
+  "mode": "generate; transparent_background=false; one call per asset",
+  "reference": "用户提供的九张图片仅作美术风格参考；生成请求使用下列文字描述，没有嵌入参考图或复制参考图界面。",
+  "assets": [
+    {
+      "name": "harbor",
+      "workspace_path": "D:/university/反走私-钱江杯/h5/public/assets/mist/harbor.png",
+      "prompt": "Use case: illustration-story. Asset type: full-bleed 16:9 background for a modern Chinese customs detective point-and-click game. Style: richly detailed painterly anime cinematic background, warm golden late afternoon sunlight, burgundy and forest green shadows, handcrafted detective adventure art, elegant sophisticated realistic perspective. No text, no letters, no logos, no buttons, no user interface, no borders, no panels, no watermark. Leave upper 15% and lower 18% visually quiet to support HTML overlay. Landscape wide composition.\nModern Chinese harbor inspection warehouse opening onto cargo ship and cranes at sunset. A young Chinese female customs mentor with black hair in a low bun wearing light blue short sleeve customs shirt and navy trousers stands slightly right of center holding clipboard, professional calm face. Foreground left wooden inspection table with manifest clipboard, foreground right large sealed cargo crate and customs scale. Stacked shipping containers, forklift, dusty golden sunlight, cinematic environmental storytelling."
+    },
+    {
+      "name": "warehouse",
+      "workspace_path": "D:/university/反走私-钱江杯/h5/public/assets/mist/warehouse.png",
+      "prompt": "Use case: illustration-story. Asset type: full-bleed 16:9 background for a modern Chinese customs detective point-and-click game. Style: richly detailed painterly anime cinematic background, warm golden late afternoon sunlight, burgundy and forest green shadows, handcrafted detective adventure art, elegant sophisticated realistic perspective. No text, no letters, no logos, no buttons, no user interface, no borders, no panels, no watermark. Leave upper 15% and lower 18% visually quiet to support HTML overlay. Landscape wide composition.\nInterior of a modern Chinese logistics sorting warehouse at golden dusk. Foreground workbench on left with several parcel shipping labels and barcode scanner. Center conveyor and scattered small cardboard parcels, right security monitor and loading bay with dark green delivery van. A Chinese middle aged male warehouse worker with navy work shirt holding checklist stands slightly right of center. Detailed believable warehouse with numbered racks but no legible text, warm brass hanging lights and dramatic long shadows."
+    },
+    {
+      "name": "town",
+      "workspace_path": "D:/university/反走私-钱江杯/h5/public/assets/mist/town.png",
+      "prompt": "Use case: illustration-story. Asset type: full-bleed 16:9 background for a modern Chinese customs detective point-and-click game. Style: richly detailed painterly anime cinematic background, warm golden late afternoon sunlight, burgundy and forest green shadows, handcrafted detective adventure art, elegant sophisticated realistic perspective. No text, no letters, no logos, no buttons, no user interface, no borders, no panels, no watermark. Leave upper 15% and lower 18% visually quiet to support HTML overlay. Landscape wide composition.\nA small contemporary southern Chinese border town commercial street at sunset after rain. Foreground right small imported cosmetics shop with amber lit glass window full of cream jars and perfume bottles, foreground left bicycle courier and parcels. A young Chinese female shopkeeper wearing cream cardigan over dark green blouse stands by shop door slightly right of center. Old stucco and brick shopfronts, tiled roofs, modern delivery van in background, subtropical plants, puddle reflections. Cinematic welcoming yet mysterious atmosphere."
+    },
+    {
+      "name": "interview",
+      "workspace_path": "D:/university/反走私-钱江杯/h5/public/assets/mist/interview.png",
+      "prompt": "Use case: illustration-story. Asset type: full-bleed 16:9 background for a modern Chinese customs detective point-and-click game. Style: richly detailed painterly anime cinematic background, warm golden late afternoon sunlight, burgundy and forest green shadows, handcrafted detective adventure art, elegant sophisticated realistic perspective. No text, no letters, no logos, no buttons, no user interface, no borders, no panels, no watermark. Leave upper 15% and lower 18% visually quiet to support HTML overlay. Landscape wide composition.\nA quiet modern Chinese customs interview room at twilight. View across dark polished wood table; file folders, paper evidence and brass desk lamp in foreground left, a middle aged Chinese businessman wearing a dark muted brown jacket and white shirt seated across the table slightly right of center, serious reserved face. Large cork evidence board with photographs and thin red strings on rear wall, venetian blinds with warm sunset stripes on left, modern restrained interior, cinematic detective illustration. No weapons, no restraints."
+    }
+  ],
+  "implementation": "原图完整保留并复制到工程。界面文字、纸张、黄铜边框、热点和图标由HTML/CSS/SVG实现；人物缩略图通过CSS背景定位展示。未使用网络图库图片。"
+}

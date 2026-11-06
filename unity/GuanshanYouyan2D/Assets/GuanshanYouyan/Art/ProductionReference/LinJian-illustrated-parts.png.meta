@@ -1,0 +1,1580 @@
+fileFormatVersion: 2
+guid: 5af7e52aa89cd4c44abe88e0bcf1906a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8694597126967800820
+    second: LinJian-illustrated-parts_0
+  - first:
+      213: 3122198085684124139
+    second: LinJian-illustrated-parts_1
+  - first:
+      213: -3382829191718246837
+    second: LinJian-illustrated-parts_2
+  - first:
+      213: -8069325856158280606
+    second: LinJian-illustrated-parts_3
+  - first:
+      213: 4133561932880444716
+    second: LinJian-illustrated-parts_4
+  - first:
+      213: -8718662791834540178
+    second: LinJian-illustrated-parts_5
+  - first:
+      213: 5319067498871350216
+    second: LinJian-illustrated-parts_6
+  - first:
+      213: -4224958284447604495
+    second: LinJian-illustrated-parts_7
+  - first:
+      213: 4056977945753941440
+    second: LinJian-illustrated-parts_8
+  - first:
+      213: -8507311170616320351
+    second: LinJian-illustrated-parts_9
+  - first:
+      213: -9121787315386796880
+    second: LinJian-illustrated-parts_10
+  - first:
+      213: -4666424294043612443
+    second: LinJian-illustrated-parts_11
+  - first:
+      213: -4987819122525242584
+    second: LinJian-illustrated-parts_12
+  - first:
+      213: 5867992652780661364
+    second: LinJian-illustrated-parts_13
+  - first:
+      213: 5424281343848805578
+    second: LinJian-illustrated-parts_14
+  - first:
+      213: 7389162463446480413
+    second: LinJian-illustrated-parts_15
+  - first:
+      213: 2406857544694222258
+    second: LinJian-illustrated-parts_16
+  - first:
+      213: -5303176078805304607
+    second: LinJian-illustrated-parts_17
+  - first:
+      213: 7286570602563794057
+    second: LinJian-illustrated-parts_18
+  - first:
+      213: 531987326276744498
+    second: LinJian-illustrated-parts_19
+  - first:
+      213: -6170352403885004345
+    second: LinJian-illustrated-parts_20
+  - first:
+      213: -3041031921847618522
+    second: LinJian-illustrated-parts_21
+  - first:
+      213: 4737570766352963551
+    second: LinJian-illustrated-parts_22
+  - first:
+      213: -4655567199487997723
+    second: LinJian-illustrated-parts_23
+  - first:
+      213: 6492605036894372657
+    second: LinJian-illustrated-parts_24
+  - first:
+      213: -2918681020923049523
+    second: LinJian-illustrated-parts_25
+  - first:
+      213: -7284752299065339800
+    second: LinJian-illustrated-parts_26
+  - first:
+      213: -357618585197312906
+    second: LinJian-illustrated-parts_27
+  - first:
+      213: -2661904000286858542
+    second: LinJian-illustrated-parts_28
+  - first:
+      213: 801833551685333338
+    second: LinJian-illustrated-parts_29
+  - first:
+      213: -6343423331853780889
+    second: LinJian-illustrated-parts_30
+  - first:
+      213: 1929193538064657675
+    second: LinJian-illustrated-parts_31
+  - first:
+      213: 3791313289848990444
+    second: LinJian-illustrated-parts_32
+  - first:
+      213: 1310533857081167575
+    second: LinJian-illustrated-parts_33
+  - first:
+      213: 2730037737740820198
+    second: LinJian-illustrated-parts_34
+  - first:
+      213: 5617107387570009569
+    second: LinJian-illustrated-parts_35
+  - first:
+      213: 8072168339264953674
+    second: LinJian-illustrated-parts_36
+  - first:
+      213: 7871815169136523886
+    second: LinJian-illustrated-parts_37
+  - first:
+      213: -2676766242689790315
+    second: LinJian-illustrated-parts_38
+  - first:
+      213: 6859561603626838476
+    second: LinJian-illustrated-parts_39
+  - first:
+      213: 8480685005197258439
+    second: LinJian-illustrated-parts_40
+  - first:
+      213: -2629387118114517964
+    second: LinJian-illustrated-parts_41
+  - first:
+      213: 2724186915767686385
+    second: LinJian-illustrated-parts_42
+  - first:
+      213: 7255526413868795546
+    second: LinJian-illustrated-parts_43
+  - first:
+      213: 1316155274642943538
+    second: LinJian-illustrated-parts_44
+  - first:
+      213: -6299596756993063865
+    second: LinJian-illustrated-parts_45
+  - first:
+      213: -1353167996556041344
+    second: LinJian-illustrated-parts_46
+  - first:
+      213: 946967394803308858
+    second: LinJian-illustrated-parts_47
+  - first:
+      213: -554778742784799054
+    second: LinJian-illustrated-parts_48
+  - first:
+      213: 1920646402655456457
+    second: LinJian-illustrated-parts_49
+  - first:
+      213: -5497901830354502339
+    second: LinJian-illustrated-parts_50
+  - first:
+      213: -1086538572220041510
+    second: LinJian-illustrated-parts_51
+  - first:
+      213: 2622242321135125216
+    second: LinJian-illustrated-parts_52
+  - first:
+      213: -1906980148078195865
+    second: LinJian-illustrated-parts_53
+  - first:
+      213: 2908475352522384494
+    second: LinJian-illustrated-parts_54
+  - first:
+      213: -4503708699256119257
+    second: LinJian-illustrated-parts_55
+  - first:
+      213: 3849453952643267515
+    second: LinJian-illustrated-parts_56
+  - first:
+      213: -3172086448342934720
+    second: LinJian-illustrated-parts_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 609
+        height: 1502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f33c02650a69a870800000000000000
+      internalID: 8694597126967800820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1315
+        width: 81
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be95b97ed96445b20800000000000000
+      internalID: 3122198085684124139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1501
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46efcbe5c6cd01d0800000000000000
+      internalID: -3382829191718246837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1455
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2649fce03eef30090800000000000000
+      internalID: -8069325856158280606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1411
+        width: 145
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d7a6a6dac5d5930800000000000000
+      internalID: 4133561932880444716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_5
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1435
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6769406266110780800000000000000
+      internalID: -8718662791834540178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_6
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1425
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c36d8665bf11d940800000000000000
+      internalID: 5319067498871350216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_7
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1411
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f028a833deed55c0800000000000000
+      internalID: -4224958284447604495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1383
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5f14662f74d4830800000000000000
+      internalID: 4056977945753941440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_9
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 843
+        width: 259
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae93b16095ffe980800000000000000
+      internalID: -8507311170616320351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_10
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1269
+        width: 131
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4b4b514c6e86180800000000000000
+      internalID: -9121787315386796880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1311
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea074e04d78d3fb0800000000000000
+      internalID: -4666424294043612443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1279
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b7bf54fe4b7cab0800000000000000
+      internalID: -4987819122525242584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1245
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ae79d4a3c4f6150800000000000000
+      internalID: 5867992652780661364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_14
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1015
+        width: 123
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4f2e5a42be64b40800000000000000
+      internalID: 5424281343848805578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_15
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1142
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16b06d6c149b8660800000000000000
+      internalID: 7389162463446480413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 967
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdc7705f20e66120800000000000000
+      internalID: 2406857544694222258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_17
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 971
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eaf57924755766b0800000000000000
+      internalID: -5303176078805304607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_18
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 916
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9847e9c6b591f1560800000000000000
+      internalID: 7286570602563794057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_19
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 785
+        width: 113
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2353cb797aff16700800000000000000
+      internalID: 531987326276744498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 894
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9e47b3e218e5aa0800000000000000
+      internalID: -6170352403885004345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_21
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 895
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62436a344951cc5d0800000000000000
+      internalID: -3041031921847618522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_22
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 847
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd75eb2e28b3fb140800000000000000
+      internalID: 4737570766352963551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_23
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 799
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8ce8e5c4a146fb0800000000000000
+      internalID: -4655567199487997723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_24
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 480
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133400bb1ed5a1a50800000000000000
+      internalID: 6492605036894372657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_25
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 811
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc905374313ce77d0800000000000000
+      internalID: -2918681020923049523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 43
+        width: 263
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8601089516c57ea90800000000000000
+      internalID: -7284752299065339800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_27
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 745
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6748c30aacb790bf0800000000000000
+      internalID: -357618585197312906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_28
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 747
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2e5b44a640f0bd0800000000000000
+      internalID: -2661904000286858542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_29
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 735
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51b131fd5fa02b00800000000000000
+      internalID: 801833551685333338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_30
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 735
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7683eeca612a7f7a0800000000000000
+      internalID: -6343423331853780889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_31
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 719
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0da2533d4fd5ca10800000000000000
+      internalID: 1929193538064657675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_32
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 694
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaaaa199537d9430800000000000000
+      internalID: 3791313289848990444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_33
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 651
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de02797993ff2210800000000000000
+      internalID: 1310533857081167575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 526
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eed37dabda03e520800000000000000
+      internalID: 2730037737740820198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 501
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e535558869f3fd40800000000000000
+      internalID: 5617107387570009569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_36
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 481
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dda0d165a160070800000000000000
+      internalID: 8072168339264953674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_37
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 485
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6af9ed803e4e3d60800000000000000
+      internalID: 7871815169136523886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_38
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 481
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ec7bdc8473adad0800000000000000
+      internalID: -2676766242689790315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_39
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 447
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9261b5fee023f50800000000000000
+      internalID: 6859561603626838476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_40
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 437
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cea3c2641271b570800000000000000
+      internalID: 8480685005197258439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_41
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 447
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ccbcfd85a828bd0800000000000000
+      internalID: -2629387118114517964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 431
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4991801914ec520800000000000000
+      internalID: 2724186915767686385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 391
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a960d1df4dec0b460800000000000000
+      internalID: 7255526413868795546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 398
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e695ebf3ce34210800000000000000
+      internalID: 1316155274642943538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_45
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 399
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744c93f40265398a0800000000000000
+      internalID: -6299596756993063865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_46
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 253
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083a9d360e4983de0800000000000000
+      internalID: -1353167996556041344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_47
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 246
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39d02d04dd442d00800000000000000
+      internalID: 946967394803308858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_48
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 254
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2becf5b3ca70d48f0800000000000000
+      internalID: -554778742784799054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_49
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 237
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc09692ab187aa10800000000000000
+      internalID: 1920646402655456457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_50
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 231
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dffb71a6783b3b0800000000000000
+      internalID: -5497901830354502339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_51
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 225
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad67010ece6dbe0f0800000000000000
+      internalID: -1086538572220041510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_52
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 207
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e241427f73146420800000000000000
+      internalID: 2622242321135125216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_53
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 143
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bc310b8ab0985e0800000000000000
+      internalID: -1906980148078195865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_54
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 143
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6463116ceafc5820800000000000000
+      internalID: 2908475352522384494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_55
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 79
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720a009bccc9f71c0800000000000000
+      internalID: -4503708699256119257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_56
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 79
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb768289f10c6530800000000000000
+      internalID: 3849453952643267515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinJian-illustrated-parts_57
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 75
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b50b18e2c7af3d0800000000000000
+      internalID: -3172086448342934720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

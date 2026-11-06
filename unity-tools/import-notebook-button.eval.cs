@@ -1,0 +1,10 @@
+var asset="Assets/GuanshanYouyan/Resources/UI/NotebookButton.png";
+UnityEditor.AssetDatabase.ImportAsset(asset,UnityEditor.ImportAssetOptions.ForceSynchronousImport);
+var importer=(UnityEditor.TextureImporter)UnityEditor.AssetImporter.GetAtPath(asset);
+importer.textureType=UnityEditor.TextureImporterType.Default;
+importer.isReadable=true;importer.mipmapEnabled=false;importer.alphaIsTransparency=true;
+importer.textureCompression=UnityEditor.TextureImporterCompression.Uncompressed;importer.maxTextureSize=2048;
+importer.filterMode=UnityEngine.FilterMode.Bilinear;importer.wrapMode=UnityEngine.TextureWrapMode.Clamp;
+importer.SaveAndReimport();
+var texture=UnityEditor.AssetDatabase.LoadAssetAtPath<UnityEngine.Texture2D>(asset);
+return new {imported=texture!=null,width=texture.width,height=texture.height,readable=texture.isReadable};

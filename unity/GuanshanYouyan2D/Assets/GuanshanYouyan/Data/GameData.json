@@ -1,0 +1,552 @@
+{
+  "sources": {
+    "baggage": {
+      "title": "海关政务服务 · 行李物品监管",
+      "url": "https://online.customs.gov.cn/static/pages/guides/000629014002/000629014002.html"
+    },
+    "species": {
+      "title": "海关政务服务 · 进出境邮件常见问题",
+      "url": "https://online.customs.gov.cn/ociswebserver/pages/jcjybcx/question.html"
+    },
+    "duty": {
+      "title": "海关政务服务 · 海南离岛免税购物监管",
+      "url": "https://online.customs.gov.cn/static/pages/guides/000629015000/000629015000.html"
+    },
+    "trap": {
+      "title": "湖南省公安厅 · 警惕“套代购”邀约",
+      "url": "https://gat.hunan.gov.cn/gat/ztzl2/qfqz/202601/t20260107_33888189.html"
+    }
+  },
+  "cases": [
+    {
+      "id": 1,
+      "chapter": 1,
+      "title": "一副耳机",
+      "item": "归程的耳机",
+      "kind": "headphones",
+      "intro": "江潮渐落，一位返校旅人带着新买的耳机来到纸港。是普通的旅途所得，还是另一段故事？",
+      "slots": [
+        "实际用途",
+        "手续状态"
+      ],
+      "required": [
+        "purpose",
+        "record"
+      ],
+      "decision": 0,
+      "reason": "用途记录与办理记录相互印证：本案耳机为本人自用，所需手续已经完成并核验，应按正常流程办理。",
+      "takeaway": "进口物品不等于走私物品。正常通行，也值得守护。",
+      "sources": [
+        "baggage"
+      ],
+      "tools": [
+        {
+          "id": "purpose",
+          "label": "追问用途",
+          "cost": 1,
+          "evidence": {
+            "id": "purpose",
+            "dimension": 0,
+            "title": "用途记录",
+            "text": "旅人说明用于本人学习与通勤，没有代带、出租或转售委托。"
+          }
+        },
+        {
+          "id": "record",
+          "label": "核对记录",
+          "cost": 1,
+          "evidence": {
+            "id": "record",
+            "dimension": 1,
+            "title": "办理记录",
+            "text": "本案设定：已如实申报，所需手续已经完成，核验结果与物品相符。"
+          }
+        },
+        {
+          "id": "package",
+          "label": "查看包装",
+          "cost": 1,
+          "evidence": {
+            "id": "package",
+            "dimension": -1,
+            "title": "外观观察",
+            "text": "包装完好，标签为外文。外观信息无法单独说明用途与办理状态。"
+          }
+        },
+        {
+          "id": "receipt",
+          "label": "查阅票据",
+          "cost": 1,
+          "evidence": {
+            "id": "receipt",
+            "dimension": -1,
+            "title": "购买票据",
+            "text": "存在境外商店购买凭据；购买凭据本身不能替代应办手续。"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chapter": 1,
+      "title": "相同的包装",
+      "item": "另一副耳机",
+      "kind": "headphones",
+      "intro": "还是同样的耳机包装。这一次，携带人的手机上却不断出现“收货”的催促。你能读出另一面吗？",
+      "slots": [
+        "委托关系",
+        "申报用途"
+      ],
+      "required": [
+        "commission",
+        "declaration"
+      ],
+      "decision": 2,
+      "reason": "有偿组织携带和将商业转售物品以个人自用申报的线索彼此关联，应移交专业人员核查。游戏不直接认定犯罪或作出处罚。",
+      "takeaway": "别把“顺路赚一点”，变成不明来路的运输环节。",
+      "sources": [
+        "baggage",
+        "trap"
+      ],
+      "tools": [
+        {
+          "id": "package",
+          "label": "查看包装",
+          "cost": 1,
+          "evidence": {
+            "id": "package",
+            "dimension": -1,
+            "title": "包装观察",
+            "text": "耳机和上一案外观相同；相同外观不能替代对委托与用途的核实。"
+          }
+        },
+        {
+          "id": "commission",
+          "label": "核对委托",
+          "cost": 1,
+          "evidence": {
+            "id": "commission",
+            "dimension": 0,
+            "title": "委托记录",
+            "text": "对话显示：组织者支付带货报酬，并安排多人携带同批商品交给商户。"
+          }
+        },
+        {
+          "id": "price",
+          "label": "查看价格",
+          "cost": 1,
+          "evidence": {
+            "id": "price",
+            "dimension": -1,
+            "title": "价格标签",
+            "text": "标价较低。便宜不等于走私，需要核验实际交易背景。"
+          }
+        },
+        {
+          "id": "declaration",
+          "label": "核对申报",
+          "cost": 1,
+          "evidence": {
+            "id": "declaration",
+            "dimension": 1,
+            "title": "申报记录",
+            "text": "本案存在将拟用于商业转售的物品，以个人自用品申报的线索。"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chapter": 2,
+      "title": "她的香水",
+      "item": "一瓶香水",
+      "kind": "perfume",
+      "intro": "一封写给自己的明信片，和一瓶旅途中购得的香水。面对“免税”二字，你会先问些什么？",
+      "slots": [
+        "实际用途",
+        "手续状态"
+      ],
+      "required": [
+        "purpose",
+        "record"
+      ],
+      "decision": 0,
+      "reason": "本案明确为本人自用，适用手续已完成并核验通过，没有转售牟利委托，应按正常流程办理。不能把正常免税消费与套代购混同。",
+      "takeaway": "看清实际用途，才能保护正常消费。",
+      "sources": [
+        "duty"
+      ],
+      "tools": [
+        {
+          "id": "gift",
+          "label": "翻看明信片",
+          "cost": 1,
+          "evidence": {
+            "id": "gift",
+            "dimension": -1,
+            "title": "旅途随记",
+            "text": "“送给努力了很久的自己。”文字可以辅助了解故事，不能替代手续材料。"
+          }
+        },
+        {
+          "id": "record",
+          "label": "核对记录",
+          "cost": 1,
+          "evidence": {
+            "id": "record",
+            "dimension": 1,
+            "title": "手续核验",
+            "text": "本案适用资格及购买、提取等所需手续均已核验，信息相符。"
+          }
+        },
+        {
+          "id": "brand",
+          "label": "观察品牌",
+          "cost": 1,
+          "evidence": {
+            "id": "brand",
+            "dimension": -1,
+            "title": "瓶身观察",
+            "text": "是常见品牌，香型与品牌都不能证明是否存在不当委托。"
+          }
+        },
+        {
+          "id": "purpose",
+          "label": "追问用途",
+          "cost": 1,
+          "evidence": {
+            "id": "purpose",
+            "dimension": 0,
+            "title": "自用记录",
+            "text": "旅人买给自己使用，不存在替他人购买以牟利、集中收货或转售安排。"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chapter": 2,
+      "title": "免费的旅程",
+      "item": "同款香水",
+      "kind": "perfume",
+      "intro": "“全包机酒，再给报酬。”一张轻松旅行的邀请，为什么指定了购买人和最后的收货人？",
+      "slots": [
+        "报酬委托",
+        "转售关系"
+      ],
+      "required": [
+        "chat",
+        "recipient"
+      ],
+      "decision": 2,
+      "reason": "免费旅游、报酬、借用免税购物资格与集中转售形成相互支持的风险线索，应交专业人员核查。普通人应拒绝参与并保护身份信息。",
+      "takeaway": "不借免税额度，不接可疑代买，免费旅行可能有代价。",
+      "sources": [
+        "duty",
+        "trap"
+      ],
+      "tools": [
+        {
+          "id": "chat",
+          "label": "查看邀约",
+          "cost": 1,
+          "evidence": {
+            "id": "chat",
+            "dimension": 0,
+            "title": "报酬记录",
+            "text": "组织者提出旅费全包、另付报酬，要求旅人提供个人身份及免税购物资格。"
+          }
+        },
+        {
+          "id": "bottle",
+          "label": "观察瓶身",
+          "cost": 1,
+          "evidence": {
+            "id": "bottle",
+            "dimension": -1,
+            "title": "瓶身观察",
+            "text": "香水外观与上一案相同，不能仅凭物品判断交易是否合法。"
+          }
+        },
+        {
+          "id": "hotel",
+          "label": "查看行程",
+          "cost": 1,
+          "evidence": {
+            "id": "hotel",
+            "dimension": -1,
+            "title": "酒店订单",
+            "text": "行程看起来精美完整；酒店星级不能解释借用资格的目的。"
+          }
+        },
+        {
+          "id": "recipient",
+          "label": "核对收货",
+          "cost": 1,
+          "evidence": {
+            "id": "recipient",
+            "dimension": 1,
+            "title": "收货关系",
+            "text": "同批商品按组织者要求集中交给商户转售，实际购买目的并非旅人自用。"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "chapter": 3,
+      "title": "红色纪念品",
+      "item": "一枚红色吊坠",
+      "kind": "pendant",
+      "intro": "小小的红色吊坠，在灯下像一枝珊瑚。仅凭颜色与造型，你能知道它是什么吗？",
+      "slots": [
+        "物品身份",
+        "来源手续"
+      ],
+      "required": [
+        "material",
+        "record"
+      ],
+      "decision": 0,
+      "reason": "本案材质核验明确为普通树脂，合法来源和所需手续已核验。红色、珊瑚造型不能让普通制品自动成为违法物品。",
+      "takeaway": "外观相似，身份不同。先核实材质，再作判断。",
+      "sources": [
+        "species",
+        "baggage"
+      ],
+      "tools": [
+        {
+          "id": "name",
+          "label": "查看商品名",
+          "cost": 1,
+          "evidence": {
+            "id": "name",
+            "dimension": -1,
+            "title": "商品标签",
+            "text": "标签写着“海的礼物”，商品营销名称不能替代身份核验。"
+          }
+        },
+        {
+          "id": "color",
+          "label": "观察颜色",
+          "cost": 1,
+          "evidence": {
+            "id": "color",
+            "dimension": -1,
+            "title": "颜色观察",
+            "text": "吊坠呈红色。颜色不能用于判断具体物种或材质。"
+          }
+        },
+        {
+          "id": "material",
+          "label": "核验材质",
+          "cost": 1,
+          "evidence": {
+            "id": "material",
+            "dimension": 0,
+            "title": "材质核验",
+            "text": "本案专业核验结果：普通合成树脂制品，并非野生动物或其制品。"
+          }
+        },
+        {
+          "id": "record",
+          "label": "核对来源",
+          "cost": 1,
+          "evidence": {
+            "id": "record",
+            "dimension": 1,
+            "title": "来源手续",
+            "text": "本案票据、来源记录与物品相符，适用手续已经完成并核验。"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chapter": 3,
+      "title": "未明的来路",
+      "item": "另一枚红色吊坠",
+      "kind": "pendant",
+      "intro": "同样的红色，这次却只有一句“当地买的，不用管”。在身份仍然模糊时，怎样才算审慎？",
+      "slots": [
+        "物品身份",
+        "许可状态"
+      ],
+      "required": [
+        "identity",
+        "permit"
+      ],
+      "decision": 1,
+      "reason": "现有信息既不能确认具体材质或物种，也无法确认是否需要及具备相应许可，应继续交由专业人员核验。不能凭外观定案，也不能直接放行。",
+      "takeaway": "不买来源不明的野生动物制品；不确定时主动咨询官方。",
+      "sources": [
+        "species"
+      ],
+      "tools": [
+        {
+          "id": "color",
+          "label": "观察颜色",
+          "cost": 1,
+          "evidence": {
+            "id": "color",
+            "dimension": -1,
+            "title": "颜色观察",
+            "text": "外观与普通树脂吊坠相似；无法由此判定身份。"
+          }
+        },
+        {
+          "id": "permit",
+          "label": "核对许可",
+          "cost": 1,
+          "evidence": {
+            "id": "permit",
+            "dimension": 1,
+            "title": "许可待核",
+            "text": "尚不能确认是否需要相应许可、是否具备有效许可，材料不足以完成核验。"
+          }
+        },
+        {
+          "id": "identity",
+          "label": "查询身份",
+          "cost": 1,
+          "evidence": {
+            "id": "identity",
+            "dimension": 0,
+            "title": "身份待核",
+            "text": "仅凭现有照片与口头介绍，尚无法确认材质、具体物种或保护级别。"
+          }
+        },
+        {
+          "id": "story",
+          "label": "询问寓意",
+          "cost": 1,
+          "evidence": {
+            "id": "story",
+            "dimension": -1,
+            "title": "商家说法",
+            "text": "商家称其“寓意平安”。寓意不能替代来源和许可证明。"
+          }
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": 1,
+      "numeral": "壹",
+      "title": "雾港初见",
+      "subtitle": "一副耳机，两段来路",
+      "theme": "看清物品，也看清委托",
+      "cases": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 2,
+      "numeral": "贰",
+      "title": "旅途暗价",
+      "subtitle": "免费的旅途，谁在买单",
+      "theme": "拆开“套代购”的诱饵",
+      "cases": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 3,
+      "numeral": "叁",
+      "title": "万物有声",
+      "subtitle": "一件纪念品的身份谜题",
+      "theme": "守护生命，从核验开始",
+      "cases": [
+        5,
+        6
+      ]
+    }
+  ],
+  "choices": [
+    {
+      "id": 1,
+      "title": "“顺路带一下？”",
+      "speaker": "陌生旅友",
+      "message": "帮我带个包裹过关吧，里面是什么你不用问。到了有人接，给你一笔辛苦费。",
+      "hint": "报酬与不明物品，被绑在了一起。",
+      "options": [
+        "拒绝不明委托，建议按正规渠道办理",
+        "先收报酬，到了再说",
+        "包裹小，应该没关系"
+      ],
+      "answer": 0,
+      "reason": "拒绝来路不明的有偿带货。不了解物品和实际用途时，不替别人承担跨境携带风险。",
+      "source": "trap"
+    },
+    {
+      "id": 2,
+      "title": "“旅费全包的兼职”",
+      "speaker": "旅行小助手",
+      "message": "借你的免税购物资格买几瓶香水，返程交给指定收货人。机酒全包，还有报酬！",
+      "hint": "免费的背后，是你的身份和购物资格。",
+      "options": [
+        "只提供身份证，应该安全",
+        "拒绝借用资格与额度，不提供身份信息",
+        "先买回来，转卖后再考虑"
+      ],
+      "answer": 1,
+      "reason": "保护个人身份信息，拒绝以牟利为目的的套代购邀约。不要出借个人免税购物资格与额度。",
+      "source": "trap"
+    },
+    {
+      "id": 3,
+      "title": "“来自野外的礼物”",
+      "speaker": "纪念品商家",
+      "message": "这可是野生的珍稀好东西！没证也能带回去，不用申报，送人多有面子。",
+      "hint": "“珍稀”“无证”“不用申报”，值得停下来。",
+      "options": [
+        "有纪念意义就买一件",
+        "直接放到野外，算保护动物",
+        "拒买不明野生制品，并向官方咨询"
+      ],
+      "answer": 2,
+      "reason": "不购买来源不明的野生动物及其制品，不擅自携带或放生。是否允许进出境、需要哪些材料，应咨询专业部门。",
+      "source": "species"
+    }
+  ],
+  "rescue": [
+    {
+      "title": "先让他们听见",
+      "text": "你成为长卷中的纸影生命。有人正在靠近，这一次，目标是得到保护。",
+      "options": [
+        "敲响求助铃",
+        "藏进更深的墨影"
+      ],
+      "answer": 0,
+      "reason": "让专业人员发现异常，才可能获得核验与保护。"
+    },
+    {
+      "title": "留下一点身份线索",
+      "text": "铃声被听见了。把“我是谁”的线索放在显眼处，让专业人员接过下一步。",
+      "options": [
+        "留下身份线索，等待核验",
+        "用“普通纪念品”标签遮住身份"
+      ],
+      "answer": 0,
+      "reason": "真实身份是核验与保护的起点，不要遮蔽来源。"
+    },
+    {
+      "title": "把保护交给专业的人",
+      "text": "身份线索被记录，纸影终于被温柔接住。你希望人们接下来怎样做？",
+      "options": [
+        "随意放生到附近河里",
+        "等待专业安置，不擅自放生"
+      ],
+      "answer": 1,
+      "reason": "保护需要专业判断；擅自放生可能伤害生命并带来生态风险。"
+    }
+  ],
+  "decisions": [
+    "按正常流程办理",
+    "继续核验身份与材料",
+    "移交专业人员核查"
+  ]
+}
